@@ -1,0 +1,6 @@
+#Tomcat publish data
+#Mon Nov 06 19:27:13 CST 2017
+org.eclipse.jst.jee.server\:aaa=/opt/apache-tomcat-7.0.77/webapps/aaa
+org.eclipse.jst.jee.server\:asd=/opt/apache-tomcat-7.0.77/webapps/asd
+org.eclipse.jst.jee.server\:god=/opt/apache-tomcat-7.0.77/webapps/god
+org.eclipse.jst.jee.server\:chapter11=/opt/apache-tomcat-7.0.77/webapps/chapter11

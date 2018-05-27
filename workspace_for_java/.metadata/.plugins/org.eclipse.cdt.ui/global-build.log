@@ -1,0 +1,6 @@
+21:40:47 **** Incremental Build of configuration Debug for project c++primer ****
+make all 
+make: Nothing to be done for 'all'.
+21:41:04 **** Incremental Build of configuration Debug for project jj ****
+make all 
+make: Nothing to be done for 'all'.

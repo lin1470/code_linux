@@ -1,0 +1,4 @@
+browser-choice=1
+browsers=<?xml version\="1.0" encoding\="UTF-8"?>\n<web-browsers current\="2">\n<system/>\n<external location\="/usr/bin/google-chrome" name\="chrome"/>\n<external location\="/usr/bin/opera" name\="opera"/>\n</web-browsers>
+eclipse.preferences.version=1
+internalWebBrowserHistory=file\:///home/bruce/workspace_all/javaee_workspace/include/style/left.jpg|*|file\:/home/bruce/workspace_all/javaee_workspace/include/style/left.jpg|*|http\://localhost\:8080/servlet_demo/index.html|*|http\://127.0.0.1\:33887/wse/wsexplorer/wsexplorer.jsp?org.eclipse.wst.ws.explorer\=0|*|http\://localhost\:8080/index.jsp|*|http\://www.eclipse.org|*|

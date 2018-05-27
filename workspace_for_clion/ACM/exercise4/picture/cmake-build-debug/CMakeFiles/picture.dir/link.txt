@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/picture.dir/main.cpp.o  -o picture 

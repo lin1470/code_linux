@@ -1,0 +1,25 @@
+INDEX VERSION 1.126
+/home/bruce/javaee_workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/4156771026.index
+/nimei/src
+/home/bruce/javaee_workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/4149990627.index
+/demo/src
+/home/bruce/javaee_workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2648635530.index
+/helloworld/src
+/home/bruce/javaee_workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3234434249.index
+/demo/src
+/home/bruce/javaee_workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3562393672.index
+/wodetian/src
+/home/bruce/javaee_workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/752275470.index
+/servlet_demo/src
+/home/bruce/javaee_workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3069323178.index
+/MyFirstApp/src
+/home/bruce/javaee_workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1449653610.index
+/hh/src
+/home/bruce/javaee_workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/335594668.index
+/hello/src
+/home/bruce/javaee_workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/863855097.index
+/hds/src
+/home/bruce/javaee_workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3542678943.index
+/wodetian/src
+/home/bruce/javaee_workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3610837850.index
+/hh/src

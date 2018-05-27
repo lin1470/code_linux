@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="system"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/bruce/workspace_all/workspace_for_clion/linux/system/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/bruce/workspace_all/workspace_for_clion/linux/system/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/bruce/workspace_all/workspace_for_clion/linux/system/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/bruce/workspace_all/workspace_for_clion/linux/system/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/bruce/workspace_all/workspace_for_clion/linux/system/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/bruce/workspace_all/workspace_for_clion/linux/system/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/bruce/workspace_all/workspace_for_clion/linux/system/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/bruce/workspace_all/workspace_for_clion/linux/system/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/bruce/workspace_all/workspace_for_clion/linux/system/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/bruce/workspace_all/workspace_for_clion/linux/system/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/bruce/workspace_all/workspace_for_clion/linux/system/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/bruce/workspace_all/workspace_for_clion/linux/system/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/bruce/workspace_all/workspace_for_clion/linux/system/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/bruce/workspace_all/workspace_for_clion/linux/system/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/bruce/workspace_all/workspace_for_clion/linux/system/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="system">
+				<Option output="/home/bruce/workspace_all/workspace_for_clion/linux/system/cmake-build-debug/system" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/bruce/workspace_all/workspace_for_clion/linux/system/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/bruce/workspace_all/workspace_for_clion/linux/system/cmake-build-debug/Makefile&quot;  VERBOSE=1 system"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/bruce/workspace_all/workspace_for_clion/linux/system/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/bruce/workspace_all/workspace_for_clion/linux/system/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/bruce/workspace_all/workspace_for_clion/linux/system/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="system/fast">
+				<Option output="/home/bruce/workspace_all/workspace_for_clion/linux/system/cmake-build-debug/system" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/bruce/workspace_all/workspace_for_clion/linux/system/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/bruce/workspace_all/workspace_for_clion/linux/system/cmake-build-debug/Makefile&quot;  VERBOSE=1 system/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/bruce/workspace_all/workspace_for_clion/linux/system/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/bruce/workspace_all/workspace_for_clion/linux/system/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/bruce/workspace_all/workspace_for_clion/linux/system/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/bruce/workspace_all/workspace_for_clion/linux/system/day06/anon_mmap.cpp">
+			<Option target="system"/>
+		</Unit>
+		<Unit filename="/home/bruce/workspace_all/workspace_for_clion/linux/system/day06/fpath.conf.cpp">
+			<Option target="system"/>
+		</Unit>
+		<Unit filename="/home/bruce/workspace_all/workspace_for_clion/linux/system/day06/mmap_r_ipc.cpp">
+			<Option target="system"/>
+		</Unit>
+		<Unit filename="/home/bruce/workspace_all/workspace_for_clion/linux/system/day06/mmap_w_ipc.cpp">
+			<Option target="system"/>
+		</Unit>
+		<Unit filename="/home/bruce/workspace_all/workspace_for_clion/linux/system/day06/multi_process.cpp">
+			<Option target="system"/>
+		</Unit>
+		<Unit filename="/home/bruce/workspace_all/workspace_for_clion/linux/system/day06/nmap.cpp">
+			<Option target="system"/>
+		</Unit>
+		<Unit filename="/home/bruce/workspace_all/workspace_for_clion/linux/system/day06/parent_child_mmap.cpp">
+			<Option target="system"/>
+		</Unit>
+		<Unit filename="/home/bruce/workspace_all/workspace_for_clion/linux/system/day06/pipe.cpp">
+			<Option target="system"/>
+		</Unit>
+		<Unit filename="/home/bruce/workspace_all/workspace_for_clion/linux/system/day06/pipe2.cpp">
+			<Option target="system"/>
+		</Unit>
+		<Unit filename="/home/bruce/workspace_all/workspace_for_clion/linux/system/day06/process_file.cpp">
+			<Option target="system"/>
+		</Unit>
+		<Unit filename="/home/bruce/workspace_all/workspace_for_clion/linux/system/demon/process_work.cpp">
+			<Option target="system"/>
+		</Unit>
+		<Unit filename="/home/bruce/workspace_all/workspace_for_clion/linux/system/demon/setsid.cpp">
+			<Option target="system"/>
+		</Unit>
+		<Unit filename="/home/bruce/workspace_all/workspace_for_clion/linux/system/main.cpp">
+			<Option target="system"/>
+		</Unit>
+		<Unit filename="/home/bruce/workspace_all/workspace_for_clion/linux/system/signal/alarm.cpp">
+			<Option target="system"/>
+		</Unit>
+		<Unit filename="/home/bruce/workspace_all/workspace_for_clion/linux/system/signal/alarm_num.cpp">
+			<Option target="system"/>
+		</Unit>
+		<Unit filename="/home/bruce/workspace_all/workspace_for_clion/linux/system/signal/kill.cpp">
+			<Option target="system"/>
+		</Unit>
+		<Unit filename="/home/bruce/workspace_all/workspace_for_clion/linux/system/signal/raise.cpp">
+			<Option target="system"/>
+		</Unit>
+		<Unit filename="/home/bruce/workspace_all/workspace_for_clion/linux/system/signal/settitimer.cpp">
+			<Option target="system"/>
+		</Unit>
+		<Unit filename="/home/bruce/workspace_all/workspace_for_clion/linux/system/signal/signal.cpp">
+			<Option target="system"/>
+		</Unit>
+		<Unit filename="/home/bruce/workspace_all/workspace_for_clion/linux/system/signal/signal_set.cpp">
+			<Option target="system"/>
+		</Unit>
+		<Unit filename="/home/bruce/workspace_all/workspace_for_clion/linux/system/thread/condition.c">
+			<Option target="system"/>
+		</Unit>
+		<Unit filename="/home/bruce/workspace_all/workspace_for_clion/linux/system/thread/hh.c">
+			<Option target="system"/>
+		</Unit>
+		<Unit filename="/home/bruce/workspace_all/workspace_for_clion/linux/system/thread/loop_pthread_create.c">
+			<Option target="system"/>
+		</Unit>
+		<Unit filename="/home/bruce/workspace_all/workspace_for_clion/linux/system/thread/people.dine.c">
+			<Option target="system"/>
+		</Unit>
+		<Unit filename="/home/bruce/workspace_all/workspace_for_clion/linux/system/thread/phtead_join.c">
+			<Option target="system"/>
+		</Unit>
+		<Unit filename="/home/bruce/workspace_all/workspace_for_clion/linux/system/thread/pthread_attr.c">
+			<Option target="system"/>
+		</Unit>
+		<Unit filename="/home/bruce/workspace_all/workspace_for_clion/linux/system/thread/pthread_create.cpp">
+			<Option target="system"/>
+		</Unit>
+		<Unit filename="/home/bruce/workspace_all/workspace_for_clion/linux/system/thread/pthread_exit.c">
+			<Option target="system"/>
+		</Unit>
+		<Unit filename="/home/bruce/workspace_all/workspace_for_clion/linux/system/thread/pthread_uncle.c">
+			<Option target="system"/>
+		</Unit>
+		<Unit filename="/home/bruce/workspace_all/workspace_for_clion/linux/system/thread/pthread_uncle_mutex.c">
+			<Option target="system"/>
+		</Unit>
+		<Unit filename="/home/bruce/workspace_all/workspace_for_clion/linux/system/thread/rwlock.c">
+			<Option target="system"/>
+		</Unit>
+		<Unit filename="/home/bruce/workspace_all/workspace_for_clion/linux/system/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

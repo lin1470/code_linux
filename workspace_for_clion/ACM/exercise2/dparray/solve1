@@ -1,0 +1,28 @@
+#include <iostream>
+#include<cstring>
+#define MaxN 105
+using namespace std;
+int max(int a,int b){
+    return a>=b? a:b;
+}
+int main() {
+    int t;
+    cin >> t;
+    int dp[MaxN][MaxN],num[MaxN][MaxN];
+    while(t--){
+        int n;
+        cin >> n;
+        //读入数组
+        for(int i =0;i<n;i++)
+            for(int j =0;j<=i;j++)
+                cin >> num[i][j];
+
+        memset(dp,0,sizeof(dp));
+        for(int i = n-1;i>=0;i--){
+            for(int j = 0;j<=i;j++)
+                dp[i][j] = num[i][j] + max(dp[i+1][j],dp[i+1][j+1]);
+        }
+        cout << dp[0][0]<<endl;
+    }
+    return 0;
+}
