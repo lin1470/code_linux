@@ -1,0 +1,19 @@
+---
+title: "introduce_to_dplyr"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(dplyr)
+dim(pf)
+pf
+tbl_df(pf)
+filter(pf,age ==14)
+select(pf,age:friend_count)
+summarise(pf,delay = mean(age,na.rm = TRUE))
+```
+

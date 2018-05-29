@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1478606672 source:/home/bruce/workspace_for_codeblocks/hhhhh/main.cpp
+	<iostream>
+
+1479096687 source:/home/bruce/workspace_all/workspace_for_codeblocks/hhhhh/main.cpp
+	<iostream>
+	"Circle.h"
+
+1345114212 /home/bruce/workspace_all/workspace_for_codeblocks/hhhhh/Sales_item.h
+	<iostream>
+	<string>
+
+1479096575 /home/bruce/workspace_all/workspace_for_codeblocks/hhhhh/include/Circle.h
+
+1479097265 source:/home/bruce/workspace_all/workspace_for_codeblocks/hhhhh/src/Circle.cpp
+	"Circle.h"
+

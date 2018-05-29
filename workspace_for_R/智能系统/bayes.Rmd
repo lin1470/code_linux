@@ -1,0 +1,54 @@
+---
+title: "bayes"
+output:
+  html_document: default
+  pdf_document: default
+  word_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+提前将训练集的数据写进了一个csv的文件，然后用一个函数就可以把他们读进来。
+```{r}
+train_data <- read.csv('buy',sep = ',')
+View(train_data)
+```
+```{r}
+buy_computer <- train_data[train_data$buys_computer=='yes',]
+not_buy_computer <- train_data[train_data$buys_computer=='no',]
+```
+```{r}
+buyer <- data.frame(age = '<30',imcome = 'medium',student = 'yes',credit_rating= 'fair')
+```
+####面向过程的编程计算。
+1.计算全体购买的概率：p(b)
+2.计算全体不购买的概率：p(nb)
+```{r}
+p_b <- nrow(buy_computer)/nrow(train_data)
+p_nb <- nrow(not_buy_computer)/nrow(train_data)
+```
+3.计算在buy_computer 和not_buy_computer的顾客中age<30，imcome=medium,student=yes,credit_rating=fair的概率
+```{r}
+p_a <- sum(buy_computer$age=='<30')/nrow(buy_computer)
+p_na <- sum(not_buy_computer=='<30')/nrow(not_buy_computer)
+p_i <- sum(buy_computer$income=='medium')/nrow(buy_computer)
+p_ni <- sum(not_buy_computer$income=='medium')/nrow(not_buy_computer)
+p_s <- sum(buy_computer$student =='yes')/nrow(buy_computer)
+p_ns <- sum(not_buy_computer$student == 'yes')/nrow(not_buy_computer)
+p_c <- sum(buy_computer$credit_rating =='fair')/nrow(buy_computer)
+p_nc <- sum(not_buy_computer$credit_rating=='fair')/nrow(not_buy_computer)
+```
+4.区分这个顾客究竟是属于哪个类别的。
+```{r}
+py <- p_b*p_a*p_i*p_s*p_c
+pn <- p_nb*p_na*p_ni*p_ns*p_nc
+```
+```{r}
+if(py>=pn){
+  print('this cumstomer will buy computer')
+}else{
+  print('this cumstorm will not buy computer')
+}
+```
+

@@ -1,0 +1,73 @@
+#include <iostream>
+#include<cstring>
+#include<math.h>
+using namespace std;
+//int reverse(int a)
+//{
+//    int ans = 0;
+//    char re[10];
+//    int i_d =0;
+//    int a1= abs(a);
+//    while(a1){
+//        re[i_d] = a1%10+'0';
+//        a1 /=10;
+//        i_d++;
+//    }
+//    re[++i_d]='\0';
+////    cout << re;
+//    int p = 1;
+//    for(int i =0;i<strlen(re);i++){
+//        ans += (re[i]-'0')*p;
+//        p *=10;
+//    }
+//    if(a<0)
+//        return -1*ans;
+//    else return ans;
+//
+//}
+int reverse(int a){
+    int len = 0;
+    int a0 = abs(a0);
+    while(a0){
+        len++;
+        a0 /=10;
+    }
+    int ans;
+    a0 =a;
+    for(int i=0;i<len;i++){
+        ans += (a0%10)*pow(10,len-i-1);
+        a0 /=10;
+    }
+    if(a<10)
+        return (-1)*ans;
+    else return ans;
+
+}
+int main() {
+    int T;
+    cin >> T;
+//    cout <<T;
+    cout << reverse(13);
+//    while(T--){
+//        int x,y;
+//        cin >> x>>y;
+////        cout <<x<<y;
+//        int a,b;
+//        a = (x+y)/2;
+//        b = (x-y)/2;
+////        cout << reverse(a)+reverse(b) <<" " << reverse(a)-reverse(b) << endl;
+//        cout << a<<reverse(13);
+//    }
+//    while(T--){
+//        int x,y;
+//
+//        int a,b;
+//        cout << x<<y;
+//        a = (x+y)/2;
+//        b = (x-y)/2;
+//        cout <<a<<b;
+//        cout << reverse(a)+reverse(b) <<" " << reverse(a)-reverse(b) << endl;
+////        cout << a<<b<<reverse(a) << reverse(b) << endl;
+//    }
+    return 0;
+}

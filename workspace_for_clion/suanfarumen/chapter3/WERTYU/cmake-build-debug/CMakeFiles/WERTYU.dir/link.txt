@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/WERTYU.dir/main.cpp.o  -o WERTYU 

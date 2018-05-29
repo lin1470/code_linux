@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1493956734 source:d:\codeblocks_runing_workspace\sportmeeting_xiugai\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<Windows.h>
+	<string.h>
+	<conio.h>
+

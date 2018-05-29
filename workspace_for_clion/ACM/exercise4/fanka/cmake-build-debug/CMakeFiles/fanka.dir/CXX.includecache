@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bruce/workspace_all/workspace_for_clion/ACM/exercise4/fanka/main.cpp
+iostream
+-
+algorithm
+-
+cstring
+-
+

@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1523331930 source:d:\program files\workspaces\codeblocks_runing_workspace\c++黑马视频\c++基础\day07\animal\main.cpp
+	<iostream>
+	"Dog.h"
+	"Animal.h"
+	"Cat.h"
+
+1523331837 d:\program files\workspaces\codeblocks_runing_workspace\c++黑马视频\c++基础\day07\animal\include\dog.h
+	<Animal.h>
+
+1523332064 d:\program files\workspaces\codeblocks_runing_workspace\c++黑马视频\c++基础\day07\animal\include\animal.h
+	<iostream>
+
+1523331591 d:\program files\workspaces\codeblocks_runing_workspace\c++黑马视频\c++基础\day07\animal\include\cat.h
+	<Animal.h>
+
+1523332051 source:d:\program files\workspaces\codeblocks_runing_workspace\c++黑马视频\c++基础\day07\animal\src\animal.cpp
+	"Animal.h"
+
+1523332090 source:d:\program files\workspaces\codeblocks_runing_workspace\c++黑马视频\c++基础\day07\animal\src\cat.cpp
+	"Cat.h"
+

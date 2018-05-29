@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1480384866 source:d:\codeblocks_runing_workspace\uper_string\main.cpp
+	<string.h>
+	<stdio.h>
+
