@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/number_fenlei.dir/main.cpp.o  -o number_fenlei 

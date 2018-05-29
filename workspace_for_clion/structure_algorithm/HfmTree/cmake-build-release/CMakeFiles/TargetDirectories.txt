@@ -1,3 +1,0 @@
-/home/bruce/workspace_all/workspace_for_clion/HfmTree/cmake-build-release/CMakeFiles/rebuild_cache.dir
-/home/bruce/workspace_all/workspace_for_clion/HfmTree/cmake-build-release/CMakeFiles/edit_cache.dir
-/home/bruce/workspace_all/workspace_for_clion/HfmTree/cmake-build-release/CMakeFiles/HfmTree.dir

@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1477383537 source:/home/bruce/workspace_for_codeblocks/pii/main.c
-	<stdio.h>
-	<stdlib.h>
-	<math.h>
-
