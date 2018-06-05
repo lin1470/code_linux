@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* CSS Document */
+body{background-color:#CFF; margin:0px}
+#main{width:1000px; height:auto; margin:0 auto; background-color:#FFF;}
+#topim{ background-image:url(top.jpg); width:1000px; height:145px; margin-top:0px;}
+#biaoti{}
+#timu{ margin-left:50px;}
+.tm{margin-left:30px;}
+.wt{margin-top:20px}
+.tijiao{margin-left:420px; width:80px; height:30px; background-color:#09F; font-size:18px; color:#FFF; font-weight:bold}
+p{ white-space:nowrap; } 
+#jishiqi{width:100px; height:auto; float:left; margin-top:145px; margin-left:50px; background-color:#FFF; text-align:center}
+#shizhong{ color:#F00; text-align:center}
+#jishi{
+	border:none; outline:medium; width:100px;}

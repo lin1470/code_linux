@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>在线考试系统</title>
+    <script>
+        function go_to_register(){
+            window.open("register.jsp","_self");
+        }
+        function createXHTMLHttpRequest(){
+            return new XMLHttpRequest();
+        }
+        function send(){
+            var XmlHttp=createXHTMLHttpRequest();
+            var url="loginServlet";
+            var account=document.getElementById("account").value;
+            var password=document.getElementById("password").value;
+            XmlHttp.onreadystatechange=function(){
+                if((XmlHttp.readyState==4)&&(XmlHttp.status==200)){
+                    var result=XmlHttp.responseText;
+                    if(result.indexOf("登录成功！")!=-1){
+                        document.getElementById("addInfo").innerHTML=result;
+                        window.open("begin_exam.jsp?degree=easy","_self");
+                    }else if(result.indexOf("密码或者账号错误！")!=-1){
+                        document.getElementById("addInfo").innerHTML=result;
+                    }else{
+                        alert(result);
+                    }
+
+                }
+            }
+            XmlHttp.open("POST",url,true);
+             //document.write(account);
+            //document.write(password);
+            XmlHttp.setRequestHeader("Content-type","application/x-www-form-urlencoded;");
+           // XmlHttp.send("account="+account+"&password="+password);
+            XmlHttp.send("account="+account+"&password="+password);
+        }
+    </script>
+</head>
+<body style="margin:50px; margin-left:450px;background-color:lightseagreen">
+<h1>欢迎来到在线考试系统</h1>
+<div style="margin-left:50px;">
+    <form action="#" method="post">
+        账号：<input type="test" name="account" id="account"/><br>
+        密码：<input type="password" name="password"id="password"/><br>
+        <div style="margin-left:75px;margin-top: 10px;"><input type="button" onclick="send()" value="登录"/>
+            <input type="button" value="注册" onclick="go_to_register()"/><br></div>
+        <span id="addInfo" style="margin-left:60px;color: red">这里有登录提示</span>
+    </form></div>
+</body>
+</html>
