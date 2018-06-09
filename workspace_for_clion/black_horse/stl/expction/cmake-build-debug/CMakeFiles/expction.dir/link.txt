@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/expction.dir/exception_jicheng/main.cpp.o CMakeFiles/expction.dir/apply/apply.cpp.o CMakeFiles/expction.dir/new.cpp.o  -o expction 

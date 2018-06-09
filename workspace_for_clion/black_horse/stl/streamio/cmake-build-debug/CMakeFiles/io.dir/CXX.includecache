@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bruce/workspace_all/workspace_for_clion/black_horse/stl/io/io.cpp
+iostream
+-
+cstring
+-
+iomanip
+-
+
+/home/bruce/workspace_all/workspace_for_clion/black_horse/stl/io/main.cpp
+iostream
+-
+
