@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/rabbit.dir/main.cpp.o  -o rabbit 

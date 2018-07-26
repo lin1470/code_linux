@@ -1,0 +1,1182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c4838b9-1f14-4207-a05b-a602cf3ce2fa" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/example/.idea/artifacts/Aservet_war_exploded.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example/.idea/artifacts/chapter5_war_exploded.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example/.idea/artifacts/chapter6_1_war_exploded.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example/.idea/artifacts/chapter6_2_war_exploded.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example/.idea/artifacts/chapter6_3_war_exploded.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example/.idea/artifacts/chapter7_war_exploded.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example/.idea/artifacts/chapter8_war_exploded.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example/.idea/encodings.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example/.idea/kotlinc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example/.idea/misc.xml" afterPath="$PROJECT_DIR$/example/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/example/.idea/modules.xml" afterPath="$PROJECT_DIR$/example/.idea/modules.xml" />
+      <change beforePath="$PROJECT_DIR$/example/.idea/workspace.xml" afterPath="$PROJECT_DIR$/example/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/chapter5.iml" afterPath="$PROJECT_DIR$/example/chapter5/chapter5.iml" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/chapter51.iml" afterPath="$PROJECT_DIR$/example/chapter5/chapter51.iml" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/src/com/itzcn/bean/Classes.java" afterPath="$PROJECT_DIR$/example/chapter5/src/com/itzcn/bean/Classes.java" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/src/com/itzcn/bean/Hello.java" afterPath="$PROJECT_DIR$/example/chapter5/src/com/itzcn/bean/Hello.java" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/src/com/itzcn/bean/MyBean.java" afterPath="$PROJECT_DIR$/example/chapter5/src/com/itzcn/bean/MyBean.java" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/src/com/itzcn/bean/Student.java" afterPath="$PROJECT_DIR$/example/chapter5/src/com/itzcn/bean/Student.java" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/src/com/itzcn/bean/User.java" afterPath="$PROJECT_DIR$/example/chapter5/src/com/itzcn/bean/User.java" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/example/chapter5/web/WEB-INF/web.xml" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/01-1.png" afterPath="$PROJECT_DIR$/example/chapter5/web/images/01-1.png" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/01.jpg" afterPath="$PROJECT_DIR$/example/chapter5/web/images/01.jpg" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/01.png" afterPath="$PROJECT_DIR$/example/chapter5/web/images/01.png" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/02.jpg" afterPath="$PROJECT_DIR$/example/chapter5/web/images/02.jpg" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/03.jpg" afterPath="$PROJECT_DIR$/example/chapter5/web/images/03.jpg" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/14.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/14.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/20090112040241.jpg" afterPath="$PROJECT_DIR$/example/chapter5/web/images/20090112040241.jpg" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/20090225070546.jpg" afterPath="$PROJECT_DIR$/example/chapter5/web/images/20090225070546.jpg" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/20090227035700.jpg" afterPath="$PROJECT_DIR$/example/chapter5/web/images/20090227035700.jpg" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/20090227040322.jpg" afterPath="$PROJECT_DIR$/example/chapter5/web/images/20090227040322.jpg" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/20090301074520.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/20090301074520.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/20090506034317.jpg" afterPath="$PROJECT_DIR$/example/chapter5/web/images/20090506034317.jpg" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/48_avatar_bg.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/48_avatar_bg.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/94.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/94.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/TT.jpg" afterPath="$PROJECT_DIR$/example/chapter5/web/images/TT.jpg" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/Thumbs.db" afterPath="$PROJECT_DIR$/example/chapter5/web/images/Thumbs.db" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/about.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/about.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/about/Thumbs.db" afterPath="$PROJECT_DIR$/example/chapter5/web/images/about/Thumbs.db" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/about/help.v2.css" afterPath="$PROJECT_DIR$/example/chapter5/web/images/about/help.v2.css" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/about/help_cell.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/about/help_cell.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/about/vi.png" afterPath="$PROJECT_DIR$/example/chapter5/web/images/about/vi.png" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/about/xinxi.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/about/xinxi.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/about/yeepay-logo1.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/about/yeepay-logo1.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/about/yh1.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/about/yh1.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/about/yh2.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/about/yh2.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/about/yh3.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/about/yh3.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/about/yh4.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/about/yh4.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/about/zfbt.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/about/zfbt.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/bg3.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/bg3.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/bg4.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/bg4.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/bid_new.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/bid_new.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/boke.jpg" afterPath="$PROJECT_DIR$/example/chapter5/web/images/boke.jpg" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/book_focus_bt.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/book_focus_bt.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/bookbt.jpg" afterPath="$PROJECT_DIR$/example/chapter5/web/images/bookbt.jpg" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/btn_button_bg.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/btn_button_bg.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/btn_submit.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/btn_submit.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/btn_subspecial.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/btn_subspecial.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/btn_watchtoolbar.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/btn_watchtoolbar.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/chenggong.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/chenggong.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/classnavbg.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/classnavbg.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/clbg.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/clbg.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/conbg.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/conbg.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/corner-bl.png" afterPath="$PROJECT_DIR$/example/chapter5/web/images/corner-bl.png" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/corner-br.png" afterPath="$PROJECT_DIR$/example/chapter5/web/images/corner-br.png" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/corner-tl.png" afterPath="$PROJECT_DIR$/example/chapter5/web/images/corner-tl.png" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/corner-tr.png" afterPath="$PROJECT_DIR$/example/chapter5/web/images/corner-tr.png" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/dh01.jpg" afterPath="$PROJECT_DIR$/example/chapter5/web/images/dh01.jpg" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/dh011.jpg" afterPath="$PROJECT_DIR$/example/chapter5/web/images/dh011.jpg" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/dhshou.jpg" afterPath="$PROJECT_DIR$/example/chapter5/web/images/dhshou.jpg" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/dhwei.JPG" afterPath="$PROJECT_DIR$/example/chapter5/web/images/dhwei.JPG" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/dl.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/dl.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/dl_bg.jpg" afterPath="$PROJECT_DIR$/example/chapter5/web/images/dl_bg.jpg" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/dl_tbg.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/dl_tbg.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/download.jpg" afterPath="$PROJECT_DIR$/example/chapter5/web/images/download.jpg" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/flashbutton.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/flashbutton.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/focushover.png" afterPath="$PROJECT_DIR$/example/chapter5/web/images/focushover.png" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/focusnormal.png" afterPath="$PROJECT_DIR$/example/chapter5/web/images/focusnormal.png" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/focuson.png" afterPath="$PROJECT_DIR$/example/chapter5/web/images/focuson.png" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/foot_bg.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/foot_bg.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/gg_h3.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/gg_h3.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/gp.png" afterPath="$PROJECT_DIR$/example/chapter5/web/images/gp.png" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/gp1.png" afterPath="$PROJECT_DIR$/example/chapter5/web/images/gp1.png" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/groupico.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/groupico.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/gs.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/gs.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/h1_bg.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/h1_bg.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/h3_bg.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/h3_bg.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/ht_menufolderopen.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/ht_menufolderopen.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/i_tit_bg3.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/i_tit_bg3.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/icon_close.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/icon_close.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/icon_li_3.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/icon_li_3.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/ifocus_btn_bg.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/ifocus_btn_bg.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/img.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/img.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/index-s01.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/index-s01.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/index-s02.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/index-s02.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/index-s03.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/index-s03.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/index-s04.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/index-s04.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/index_dingyue_bt.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/index_dingyue_bt.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/input_bg.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/input_bg.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/j_01.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/j_01.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/j_02.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/j_02.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/j_03.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/j_03.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/j_04.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/j_04.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/j_05.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/j_05.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/j_06.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/j_06.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/j_07.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/j_07.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/j_6.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/j_6.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/jh.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/jh.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/jie.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/jie.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/la_bg.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/la_bg.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/land_t.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/land_t.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/li.jpg" afterPath="$PROJECT_DIR$/example/chapter5/web/images/li.jpg" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/li_arrow.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/li_arrow.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/line.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/line.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/login.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/login.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/login_bt.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/login_bt.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/login_c.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/login_c.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/login_foot.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/login_foot.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/login_ft.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/login_ft.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/login_logo.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/login_logo.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/login_rt.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/login_rt.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/login_tj.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/login_tj.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/login_tt.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/login_tt.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/login_xs.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/login_xs.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/login_zq.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/login_zq.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/logo.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/logo.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/logosy.png" afterPath="$PROJECT_DIR$/example/chapter5/web/images/logosy.png" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/main_log.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/main_log.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/mainbg.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/mainbg.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/manage.jpg" afterPath="$PROJECT_DIR$/example/chapter5/web/images/manage.jpg" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/memberli.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/memberli.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/menubg.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/menubg.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/mh.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/mh.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/module_bg.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/module_bg.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/mujuan_pay.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/mujuan_pay.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/navbg.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/navbg.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/navsub.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/navsub.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/nh.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/nh.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/nopic.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/nopic.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/page.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/page.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/page_on.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/page_on.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/pd.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/pd.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/player.jpg" afterPath="$PROJECT_DIR$/example/chapter5/web/images/player.jpg" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/process01.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/process01.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/process02.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/process02.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/py.jpg" afterPath="$PROJECT_DIR$/example/chapter5/web/images/py.jpg" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/r_bg.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/r_bg.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/rating.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/rating.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/reg.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/reg.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/remember.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/remember.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/right/Thumbs.db" afterPath="$PROJECT_DIR$/example/chapter5/web/images/right/Thumbs.db" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/right/index_left_bbs_arrow.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/right/index_left_bbs_arrow.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/right/index_left_bbs_title.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/right/index_left_bbs_title.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/right/index_left_blog_title.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/right/index_left_blog_title.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/right/index_left_friend_r.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/right/index_left_friend_r.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/right/logo1.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/right/logo1.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/right/right_content_bg.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/right/right_content_bg.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/right/right_content_content_arrow.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/right/right_content_content_arrow.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/right/right_foot.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/right/right_foot.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/right/right_left_bg.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/right/right_left_bg.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/right/right_left_bg1.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/right/right_left_bg1.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/right/right_right_bg.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/right/right_right_bg.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/right/right_right_bg1.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/right/right_right_bg1.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/right/right_top.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/right/right_top.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/rightbg.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/rightbg.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/rightxsbg.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/rightxsbg.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/search.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/search.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/searchsub.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/searchsub.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/sider_b.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/sider_b.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/sider_b.jpg" afterPath="$PROJECT_DIR$/example/chapter5/web/images/sider_b.jpg" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/sider_t.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/sider_t.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/sider_t.jpg" afterPath="$PROJECT_DIR$/example/chapter5/web/images/sider_t.jpg" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/sort_title.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/sort_title.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/sp1.jpg" afterPath="$PROJECT_DIR$/example/chapter5/web/images/sp1.jpg" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/sp2.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/sp2.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/sp3.jpg" afterPath="$PROJECT_DIR$/example/chapter5/web/images/sp3.jpg" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/special.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/special.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/special_videolist_title_bg.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/special_videolist_title_bg.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/text.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/text.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/title_xs_bg.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/title_xs_bg.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/titlinebg.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/titlinebg.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/top_1.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/top_1.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/ts1.jpg" afterPath="$PROJECT_DIR$/example/chapter5/web/images/ts1.jpg" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/ts2.jpg" afterPath="$PROJECT_DIR$/example/chapter5/web/images/ts2.jpg" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/ts3.jpg" afterPath="$PROJECT_DIR$/example/chapter5/web/images/ts3.jpg" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/tstj.swf" afterPath="$PROJECT_DIR$/example/chapter5/web/images/tstj.swf" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/ul_bg.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/ul_bg.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/user_dl.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/user_dl.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/user_dlx.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/user_dlx.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/watchup_bg.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/watchup_bg.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/wzli.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/wzli.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/xf.jpg" afterPath="$PROJECT_DIR$/example/chapter5/web/images/xf.jpg" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/xinxi.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/xinxi.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/xuebi.jpg" afterPath="$PROJECT_DIR$/example/chapter5/web/images/xuebi.jpg" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/xy.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/xy.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/yb.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/yb.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/zfb.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/zfb.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/zhuce.jpg" afterPath="$PROJECT_DIR$/example/chapter5/web/images/zhuce.jpg" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/zl.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/zl.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/zs.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/zs.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/~navbg.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/~navbg.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/images/~~logo.gif" afterPath="$PROJECT_DIR$/example/chapter5/web/images/~~logo.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/index.jsp" afterPath="$PROJECT_DIR$/example/chapter5/web/index.jsp" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/js/ad.js" afterPath="$PROJECT_DIR$/example/chapter5/web/js/ad.js" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/js/books.js" afterPath="$PROJECT_DIR$/example/chapter5/web/js/books.js" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/js/hd.js" afterPath="$PROJECT_DIR$/example/chapter5/web/js/hd.js" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/js/hdgg.js" afterPath="$PROJECT_DIR$/example/chapter5/web/js/hdgg.js" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/js/hdpgg.js" afterPath="$PROJECT_DIR$/example/chapter5/web/js/hdpgg.js" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/style/books.css" afterPath="$PROJECT_DIR$/example/chapter5/web/style/books.css" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/style/hd.css" afterPath="$PROJECT_DIR$/example/chapter5/web/style/hd.css" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/style/hdgg.css" afterPath="$PROJECT_DIR$/example/chapter5/web/style/hdgg.css" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/style/hdpgg.css" afterPath="$PROJECT_DIR$/example/chapter5/web/style/hdpgg.css" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/style/help.css" afterPath="$PROJECT_DIR$/example/chapter5/web/style/help.css" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/style/manage.css" afterPath="$PROJECT_DIR$/example/chapter5/web/style/manage.css" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/style/pay.css" afterPath="$PROJECT_DIR$/example/chapter5/web/style/pay.css" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/style/style.css" afterPath="$PROJECT_DIR$/example/chapter5/web/style/style.css" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/style/swf_pic.css" afterPath="$PROJECT_DIR$/example/chapter5/web/style/swf_pic.css" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/style/video.css" afterPath="$PROJECT_DIR$/example/chapter5/web/style/video.css" />
+      <change beforePath="$PROJECT_DIR$/example/chapter5/web/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/example/chapter5/web/web/WEB-INF/web.xml" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_1/src/com/itzcn/bean/User.java" afterPath="$PROJECT_DIR$/example/chapter6_1/src/com/itzcn/bean/User.java" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_1/src/com/itzcn/servlet/AddServlet.java" afterPath="$PROJECT_DIR$/example/chapter6_1/src/com/itzcn/servlet/AddServlet.java" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_1/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/example/chapter6_1/web/WEB-INF/web.xml" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_1/web/images/bar_bg1.gif" afterPath="$PROJECT_DIR$/example/chapter6_1/web/images/bar_bg1.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_1/web/images/bar_bg2.gif" afterPath="$PROJECT_DIR$/example/chapter6_1/web/images/bar_bg2.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_1/web/images/bar_bg_mid.gif" afterPath="$PROJECT_DIR$/example/chapter6_1/web/images/bar_bg_mid.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_1/web/images/cp.jpg" afterPath="$PROJECT_DIR$/example/chapter6_1/web/images/cp.jpg" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_1/web/images/css.css" afterPath="$PROJECT_DIR$/example/chapter6_1/web/images/css.css" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_1/web/images/dot.gif" afterPath="$PROJECT_DIR$/example/chapter6_1/web/images/dot.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_1/web/images/jt1.gif" afterPath="$PROJECT_DIR$/example/chapter6_1/web/images/jt1.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_1/web/images/logo.gif" afterPath="$PROJECT_DIR$/example/chapter6_1/web/images/logo.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_1/web/images/menu_1x1.gif" afterPath="$PROJECT_DIR$/example/chapter6_1/web/images/menu_1x1.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_1/web/images/menu_1x11.gif" afterPath="$PROJECT_DIR$/example/chapter6_1/web/images/menu_1x11.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_1/web/images/menu_1x2.gif" afterPath="$PROJECT_DIR$/example/chapter6_1/web/images/menu_1x2.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_1/web/images/menu_1x4.gif" afterPath="$PROJECT_DIR$/example/chapter6_1/web/images/menu_1x4.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_1/web/images/menu_1x5.gif" afterPath="$PROJECT_DIR$/example/chapter6_1/web/images/menu_1x5.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_1/web/images/menu_1x6.gif" afterPath="$PROJECT_DIR$/example/chapter6_1/web/images/menu_1x6.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_1/web/images/menu_1x7.gif" afterPath="$PROJECT_DIR$/example/chapter6_1/web/images/menu_1x7.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_1/web/images/menu_1x9.gif" afterPath="$PROJECT_DIR$/example/chapter6_1/web/images/menu_1x9.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_1/web/images/sfdsf.gif" afterPath="$PROJECT_DIR$/example/chapter6_1/web/images/sfdsf.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_1/web/images/title1.gif" afterPath="$PROJECT_DIR$/example/chapter6_1/web/images/title1.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_1/web/images/topindex.gif" afterPath="$PROJECT_DIR$/example/chapter6_1/web/images/topindex.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_1/web/images/topindex2.gif" afterPath="$PROJECT_DIR$/example/chapter6_1/web/images/topindex2.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_1/web/images/topindex3.gif" afterPath="$PROJECT_DIR$/example/chapter6_1/web/images/topindex3.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_1/web/images/txwm_line_1.gif" afterPath="$PROJECT_DIR$/example/chapter6_1/web/images/txwm_line_1.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_1/web/images/webzcnlogo.gif" afterPath="$PROJECT_DIR$/example/chapter6_1/web/images/webzcnlogo.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_1/web/index.jsp" afterPath="$PROJECT_DIR$/example/chapter6_1/web/index.jsp" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_1/web/list.jsp" afterPath="$PROJECT_DIR$/example/chapter6_1/web/list.jsp" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_2/src/com/itzcn/MyFilter.java" afterPath="$PROJECT_DIR$/example/chapter6_2/src/com/itzcn/MyFilter.java" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_2/src/com/itzcn/bean/User.java" afterPath="$PROJECT_DIR$/example/chapter6_2/src/com/itzcn/bean/User.java" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_2/src/com/itzcn/servlet/AddServlet.java" afterPath="$PROJECT_DIR$/example/chapter6_2/src/com/itzcn/servlet/AddServlet.java" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_2/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/example/chapter6_2/web/WEB-INF/web.xml" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_2/web/images/bar_bg1.gif" afterPath="$PROJECT_DIR$/example/chapter6_2/web/images/bar_bg1.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_2/web/images/bar_bg2.gif" afterPath="$PROJECT_DIR$/example/chapter6_2/web/images/bar_bg2.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_2/web/images/bar_bg_mid.gif" afterPath="$PROJECT_DIR$/example/chapter6_2/web/images/bar_bg_mid.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_2/web/images/cp.jpg" afterPath="$PROJECT_DIR$/example/chapter6_2/web/images/cp.jpg" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_2/web/images/css.css" afterPath="$PROJECT_DIR$/example/chapter6_2/web/images/css.css" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_2/web/images/dot.gif" afterPath="$PROJECT_DIR$/example/chapter6_2/web/images/dot.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_2/web/images/jt1.gif" afterPath="$PROJECT_DIR$/example/chapter6_2/web/images/jt1.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_2/web/images/logo.gif" afterPath="$PROJECT_DIR$/example/chapter6_2/web/images/logo.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_2/web/images/menu_1x1.gif" afterPath="$PROJECT_DIR$/example/chapter6_2/web/images/menu_1x1.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_2/web/images/menu_1x11.gif" afterPath="$PROJECT_DIR$/example/chapter6_2/web/images/menu_1x11.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_2/web/images/menu_1x2.gif" afterPath="$PROJECT_DIR$/example/chapter6_2/web/images/menu_1x2.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_2/web/images/menu_1x4.gif" afterPath="$PROJECT_DIR$/example/chapter6_2/web/images/menu_1x4.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_2/web/images/menu_1x5.gif" afterPath="$PROJECT_DIR$/example/chapter6_2/web/images/menu_1x5.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_2/web/images/menu_1x6.gif" afterPath="$PROJECT_DIR$/example/chapter6_2/web/images/menu_1x6.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_2/web/images/menu_1x7.gif" afterPath="$PROJECT_DIR$/example/chapter6_2/web/images/menu_1x7.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_2/web/images/menu_1x9.gif" afterPath="$PROJECT_DIR$/example/chapter6_2/web/images/menu_1x9.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_2/web/images/sfdsf.gif" afterPath="$PROJECT_DIR$/example/chapter6_2/web/images/sfdsf.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_2/web/images/title1.gif" afterPath="$PROJECT_DIR$/example/chapter6_2/web/images/title1.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_2/web/images/topindex.gif" afterPath="$PROJECT_DIR$/example/chapter6_2/web/images/topindex.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_2/web/images/topindex2.gif" afterPath="$PROJECT_DIR$/example/chapter6_2/web/images/topindex2.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_2/web/images/topindex3.gif" afterPath="$PROJECT_DIR$/example/chapter6_2/web/images/topindex3.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_2/web/images/txwm_line_1.gif" afterPath="$PROJECT_DIR$/example/chapter6_2/web/images/txwm_line_1.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_2/web/images/webzcnlogo.gif" afterPath="$PROJECT_DIR$/example/chapter6_2/web/images/webzcnlogo.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_2/web/index.jsp" afterPath="$PROJECT_DIR$/example/chapter6_2/web/index.jsp" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_2/web/list.jsp" afterPath="$PROJECT_DIR$/example/chapter6_2/web/list.jsp" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_3/src/com/itzcn/bean/User.java" afterPath="$PROJECT_DIR$/example/chapter6_3/src/com/itzcn/bean/User.java" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_3/src/com/itzcn/filter/LoginFilter.java" afterPath="$PROJECT_DIR$/example/chapter6_3/src/com/itzcn/filter/LoginFilter.java" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_3/src/com/itzcn/filter/MyFilter.java" afterPath="$PROJECT_DIR$/example/chapter6_3/src/com/itzcn/filter/MyFilter.java" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_3/src/com/itzcn/servlet/LoginServlet.java" afterPath="$PROJECT_DIR$/example/chapter6_3/src/com/itzcn/servlet/LoginServlet.java" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_3/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/example/chapter6_3/web/WEB-INF/web.xml" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_3/web/admin/index.jsp" afterPath="$PROJECT_DIR$/example/chapter6_3/web/admin/index.jsp" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_3/web/css/all.css" afterPath="$PROJECT_DIR$/example/chapter6_3/web/css/all.css" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_3/web/images/Thumbs.db" afterPath="$PROJECT_DIR$/example/chapter6_3/web/images/Thumbs.db" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_3/web/images/add-icon.gif" afterPath="$PROJECT_DIR$/example/chapter6_3/web/images/add-icon.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_3/web/images/arrow.gif" afterPath="$PROJECT_DIR$/example/chapter6_3/web/images/arrow.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_3/web/images/banner.jpg" afterPath="$PROJECT_DIR$/example/chapter6_3/web/images/banner.jpg" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_3/web/images/bg-center-column.jpg" afterPath="$PROJECT_DIR$/example/chapter6_3/web/images/bg-center-column.jpg" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_3/web/images/bg-dotted.gif" afterPath="$PROJECT_DIR$/example/chapter6_3/web/images/bg-dotted.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_3/web/images/bg-footer.gif" afterPath="$PROJECT_DIR$/example/chapter6_3/web/images/bg-footer.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_3/web/images/bg-header.gif" afterPath="$PROJECT_DIR$/example/chapter6_3/web/images/bg-header.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_3/web/images/bg-left-header.gif" afterPath="$PROJECT_DIR$/example/chapter6_3/web/images/bg-left-header.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_3/web/images/bg-left-link.gif" afterPath="$PROJECT_DIR$/example/chapter6_3/web/images/bg-left-link.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_3/web/images/bg-middle.gif" afterPath="$PROJECT_DIR$/example/chapter6_3/web/images/bg-middle.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_3/web/images/bg-orange-button.gif" afterPath="$PROJECT_DIR$/example/chapter6_3/web/images/bg-orange-button.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_3/web/images/bg-select.gif" afterPath="$PROJECT_DIR$/example/chapter6_3/web/images/bg-select.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_3/web/images/bg-th-left.gif" afterPath="$PROJECT_DIR$/example/chapter6_3/web/images/bg-th-left.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_3/web/images/bg-th-right.gif" afterPath="$PROJECT_DIR$/example/chapter6_3/web/images/bg-th-right.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_3/web/images/bt_bg.gif" afterPath="$PROJECT_DIR$/example/chapter6_3/web/images/bt_bg.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_3/web/images/edit-icon.gif" afterPath="$PROJECT_DIR$/example/chapter6_3/web/images/edit-icon.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_3/web/images/hr.gif" afterPath="$PROJECT_DIR$/example/chapter6_3/web/images/hr.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_3/web/images/login-icon.gif" afterPath="$PROJECT_DIR$/example/chapter6_3/web/images/login-icon.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_3/web/images/login.css" afterPath="$PROJECT_DIR$/example/chapter6_3/web/images/login.css" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_3/web/images/login_03.gif" afterPath="$PROJECT_DIR$/example/chapter6_3/web/images/login_03.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_3/web/images/login_05.gif" afterPath="$PROJECT_DIR$/example/chapter6_3/web/images/login_05.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_3/web/images/login_09.gif" afterPath="$PROJECT_DIR$/example/chapter6_3/web/images/login_09.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_3/web/images/login_11.gif" afterPath="$PROJECT_DIR$/example/chapter6_3/web/images/login_11.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_3/web/images/login_13.gif" afterPath="$PROJECT_DIR$/example/chapter6_3/web/images/login_13.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_3/web/images/login_16.gif" afterPath="$PROJECT_DIR$/example/chapter6_3/web/images/login_16.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_3/web/images/login_18.gif" afterPath="$PROJECT_DIR$/example/chapter6_3/web/images/login_18.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_3/web/images/logo.gif" afterPath="$PROJECT_DIR$/example/chapter6_3/web/images/logo.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_3/web/images/save-icon.gif" afterPath="$PROJECT_DIR$/example/chapter6_3/web/images/save-icon.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_3/web/images/tab-active-left.gif" afterPath="$PROJECT_DIR$/example/chapter6_3/web/images/tab-active-left.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_3/web/images/tab-active-right.gif" afterPath="$PROJECT_DIR$/example/chapter6_3/web/images/tab-active-right.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_3/web/images/tab-active.gif" afterPath="$PROJECT_DIR$/example/chapter6_3/web/images/tab-active.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_3/web/images/tab-left.gif" afterPath="$PROJECT_DIR$/example/chapter6_3/web/images/tab-left.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_3/web/images/tab-right.gif" afterPath="$PROJECT_DIR$/example/chapter6_3/web/images/tab-right.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_3/web/images/tab.gif" afterPath="$PROJECT_DIR$/example/chapter6_3/web/images/tab.gif" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_3/web/index.jsp" afterPath="$PROJECT_DIR$/example/chapter6_3/web/index.jsp" />
+      <change beforePath="$PROJECT_DIR$/example/chapter6_3/web/login.jsp" afterPath="$PROJECT_DIR$/example/chapter6_3/web/login.jsp" />
+      <change beforePath="$PROJECT_DIR$/example/chapter7/.idea/chapter7.iml" afterPath="$PROJECT_DIR$/example/chapter7/.idea/chapter7.iml" />
+      <change beforePath="$PROJECT_DIR$/example/chapter7/.idea/modules.xml" afterPath="$PROJECT_DIR$/example/chapter7/.idea/modules.xml" />
+      <change beforePath="$PROJECT_DIR$/example/chapter7/.idea/workspace.xml" afterPath="$PROJECT_DIR$/example/chapter7/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/example/chapter7/src/com/servlet/MyServlet.java" afterPath="$PROJECT_DIR$/example/chapter7/src/com/servlet/MyServlet.java" />
+      <change beforePath="$PROJECT_DIR$/example/chapter7/web/WEB-INF/function.tld" afterPath="$PROJECT_DIR$/example/chapter7/web/WEB-INF/function.tld" />
+      <change beforePath="$PROJECT_DIR$/example/chapter7/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/example/chapter7/web/WEB-INF/web.xml" />
+      <change beforePath="$PROJECT_DIR$/example/chapter7/web/calc.jsp" afterPath="$PROJECT_DIR$/example/chapter7/web/calc.jsp" />
+      <change beforePath="$PROJECT_DIR$/example/chapter7/web/index.jsp" afterPath="$PROJECT_DIR$/example/chapter7/web/index.jsp" />
+      <change beforePath="$PROJECT_DIR$/example/chapter7/web/test001.jsp" afterPath="$PROJECT_DIR$/example/chapter7/web/test001.jsp" />
+      <change beforePath="$PROJECT_DIR$/example/chapter7/web/test002.jsp" afterPath="$PROJECT_DIR$/example/chapter7/web/test002.jsp" />
+      <change beforePath="$PROJECT_DIR$/example/chapter7/web/test003.jsp" afterPath="$PROJECT_DIR$/example/chapter7/web/test003.jsp" />
+      <change beforePath="$PROJECT_DIR$/example/chapter7/web/test01.jsp" afterPath="$PROJECT_DIR$/example/chapter7/web/test01.jsp" />
+      <change beforePath="$PROJECT_DIR$/example/java_web_examples.iml" afterPath="$PROJECT_DIR$/example/java_web_examples.iml" />
+      <change beforePath="$PROJECT_DIR$/example/out/artifacts/chapter7_war_exploded2/WEB-INF/classes/com/servlet/MyServlet.class" afterPath="$PROJECT_DIR$/example/out/artifacts/chapter7_war_exploded2/WEB-INF/classes/com/servlet/MyServlet.class" />
+      <change beforePath="$PROJECT_DIR$/example/out/artifacts/chapter7_war_exploded2/WEB-INF/function.tld" afterPath="$PROJECT_DIR$/example/out/artifacts/chapter7_war_exploded2/WEB-INF/function.tld" />
+      <change beforePath="$PROJECT_DIR$/example/out/artifacts/chapter7_war_exploded2/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/example/out/artifacts/chapter7_war_exploded2/WEB-INF/web.xml" />
+      <change beforePath="$PROJECT_DIR$/example/out/artifacts/chapter7_war_exploded2/calc.jsp" afterPath="$PROJECT_DIR$/example/out/artifacts/chapter7_war_exploded2/calc.jsp" />
+      <change beforePath="$PROJECT_DIR$/example/out/artifacts/chapter7_war_exploded2/index.jsp" afterPath="$PROJECT_DIR$/example/out/artifacts/chapter7_war_exploded2/index.jsp" />
+      <change beforePath="$PROJECT_DIR$/example/out/artifacts/chapter7_war_exploded2/test001.jsp" afterPath="$PROJECT_DIR$/example/out/artifacts/chapter7_war_exploded2/test001.jsp" />
+      <change beforePath="$PROJECT_DIR$/example/out/artifacts/chapter7_war_exploded2/test002.jsp" afterPath="$PROJECT_DIR$/example/out/artifacts/chapter7_war_exploded2/test002.jsp" />
+      <change beforePath="$PROJECT_DIR$/example/out/artifacts/chapter7_war_exploded2/test003.jsp" afterPath="$PROJECT_DIR$/example/out/artifacts/chapter7_war_exploded2/test003.jsp" />
+      <change beforePath="$PROJECT_DIR$/example/out/artifacts/chapter7_war_exploded2/test01.jsp" afterPath="$PROJECT_DIR$/example/out/artifacts/chapter7_war_exploded2/test01.jsp" />
+      <change beforePath="$PROJECT_DIR$/example/out/production/chapter7/com/servlet/MyServlet.class" afterPath="$PROJECT_DIR$/example/out/production/chapter7/com/servlet/MyServlet.class" />
+      <change beforePath="$PROJECT_DIR$/hello/.idea/artifacts/helloWeb_war_exploded.xml" afterPath="$PROJECT_DIR$/hello/.idea/artifacts/helloWeb_war_exploded.xml" />
+      <change beforePath="$PROJECT_DIR$/hello/.idea/artifacts/hello_war_exploded.xml" afterPath="$PROJECT_DIR$/hello/.idea/artifacts/hello_war_exploded.xml" />
+      <change beforePath="$PROJECT_DIR$/hello/.idea/kotlinc.xml" afterPath="$PROJECT_DIR$/hello/.idea/kotlinc.xml" />
+      <change beforePath="$PROJECT_DIR$/hello/.idea/misc.xml" afterPath="$PROJECT_DIR$/hello/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/hello/.idea/modules.xml" afterPath="$PROJECT_DIR$/hello/.idea/modules.xml" />
+      <change beforePath="$PROJECT_DIR$/hello/.idea/uiDesigner.xml" afterPath="$PROJECT_DIR$/hello/.idea/uiDesigner.xml" />
+      <change beforePath="$PROJECT_DIR$/hello/.idea/workspace.xml" afterPath="$PROJECT_DIR$/hello/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/hello/hello.iml" afterPath="$PROJECT_DIR$/hello/hello.iml" />
+      <change beforePath="$PROJECT_DIR$/hello/helloWeb/helloWeb.iml" afterPath="$PROJECT_DIR$/hello/helloWeb/helloWeb.iml" />
+      <change beforePath="$PROJECT_DIR$/hello/helloWeb/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/hello/helloWeb/web/WEB-INF/web.xml" />
+      <change beforePath="$PROJECT_DIR$/hello/helloWeb/web/diaoni.html" afterPath="$PROJECT_DIR$/hello/helloWeb/web/diaoni.html" />
+      <change beforePath="$PROJECT_DIR$/hello/helloWeb/web/index.jsp" afterPath="$PROJECT_DIR$/hello/helloWeb/web/index.jsp" />
+      <change beforePath="$PROJECT_DIR$/hello/out/artifacts/helloWeb_war_exploded/WEB-INF/classes/com/java/servlet/hello.class" afterPath="$PROJECT_DIR$/hello/out/artifacts/helloWeb_war_exploded/WEB-INF/classes/com/java/servlet/hello.class" />
+      <change beforePath="$PROJECT_DIR$/hello/out/artifacts/helloWeb_war_exploded/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/hello/out/artifacts/helloWeb_war_exploded/WEB-INF/web.xml" />
+      <change beforePath="$PROJECT_DIR$/hello/out/artifacts/helloWeb_war_exploded/diaoni.html" afterPath="$PROJECT_DIR$/hello/out/artifacts/helloWeb_war_exploded/diaoni.html" />
+      <change beforePath="$PROJECT_DIR$/hello/out/artifacts/helloWeb_war_exploded/hello.html" afterPath="$PROJECT_DIR$/hello/out/artifacts/helloWeb_war_exploded/hello.html" />
+      <change beforePath="$PROJECT_DIR$/hello/out/artifacts/helloWeb_war_exploded/index.jsp" afterPath="$PROJECT_DIR$/hello/out/artifacts/helloWeb_war_exploded/index.jsp" />
+      <change beforePath="$PROJECT_DIR$/hello/out/artifacts/helloWeb_war_exploded/ss.jsp" afterPath="$PROJECT_DIR$/hello/out/artifacts/helloWeb_war_exploded/ss.jsp" />
+      <change beforePath="$PROJECT_DIR$/hello/src/com/java/servlet/hello.java" afterPath="$PROJECT_DIR$/hello/src/com/java/servlet/hello.java" />
+      <change beforePath="$PROJECT_DIR$/hello/web/WEB-INF/classes/com/java/servlet/hello.class" afterPath="$PROJECT_DIR$/hello/web/WEB-INF/classes/com/java/servlet/hello.class" />
+      <change beforePath="$PROJECT_DIR$/hello/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/hello/web/WEB-INF/web.xml" />
+      <change beforePath="$PROJECT_DIR$/hello/web/hello.html" afterPath="$PROJECT_DIR$/hello/web/hello.html" />
+      <change beforePath="$PROJECT_DIR$/hello/web/index.jsp" afterPath="$PROJECT_DIR$/hello/web/index.jsp" />
+      <change beforePath="$PROJECT_DIR$/hello/web/ss.jsp" afterPath="$PROJECT_DIR$/hello/web/ss.jsp" />
+      <change beforePath="$PROJECT_DIR$/helloWorld/.idea/kotlinc.xml" afterPath="$PROJECT_DIR$/helloWorld/.idea/kotlinc.xml" />
+      <change beforePath="$PROJECT_DIR$/helloWorld/.idea/misc.xml" afterPath="$PROJECT_DIR$/helloWorld/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/helloWorld/.idea/modules.xml" afterPath="$PROJECT_DIR$/helloWorld/.idea/modules.xml" />
+      <change beforePath="$PROJECT_DIR$/helloWorld/.idea/workspace.xml" afterPath="$PROJECT_DIR$/helloWorld/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/helloWorld/helloWorld.iml" afterPath="$PROJECT_DIR$/helloWorld/helloWorld.iml" />
+      <change beforePath="$PROJECT_DIR$/helloWorld/out/production/helloWorld/HelloWorld.class" afterPath="$PROJECT_DIR$/helloWorld/out/production/helloWorld/HelloWorld.class" />
+      <change beforePath="$PROJECT_DIR$/helloWorld/src/HelloWorld.java" afterPath="$PROJECT_DIR$/helloWorld/src/HelloWorld.java" />
+      <change beforePath="$PROJECT_DIR$/hhh/.idea/artifacts/hhh_war_exploded.xml" afterPath="$PROJECT_DIR$/hhh/.idea/artifacts/hhh_war_exploded.xml" />
+      <change beforePath="$PROJECT_DIR$/hhh/.idea/misc.xml" afterPath="$PROJECT_DIR$/hhh/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/hhh/.idea/modules.xml" afterPath="$PROJECT_DIR$/hhh/.idea/modules.xml" />
+      <change beforePath="$PROJECT_DIR$/hhh/.idea/workspace.xml" afterPath="$PROJECT_DIR$/hhh/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/hhh/hhh.iml" afterPath="$PROJECT_DIR$/hhh/hhh.iml" />
+      <change beforePath="$PROJECT_DIR$/hhh/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/hhh/web/WEB-INF/web.xml" />
+      <change beforePath="$PROJECT_DIR$/hhh/web/index.jsp" afterPath="$PROJECT_DIR$/hhh/web/index.jsp" />
+      <change beforePath="$PROJECT_DIR$/javascript/.idea/misc.xml" afterPath="$PROJECT_DIR$/javascript/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/javascript/.idea/workspace.xml" afterPath="$PROJECT_DIR$/javascript/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/javascript1/.idea/misc.xml" afterPath="$PROJECT_DIR$/javascript1/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/javascript1/.idea/modules.xml" afterPath="$PROJECT_DIR$/javascript1/.idea/modules.xml" />
+      <change beforePath="$PROJECT_DIR$/javascript1/.idea/workspace.xml" afterPath="$PROJECT_DIR$/javascript1/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/javascript1/function/function.iml" afterPath="$PROJECT_DIR$/javascript1/function/function.iml" />
+      <change beforePath="$PROJECT_DIR$/javascript1/function/funtion1.html" afterPath="$PROJECT_DIR$/javascript1/function/funtion1.html" />
+      <change beforePath="$PROJECT_DIR$/javascript1/function/scope.html" afterPath="$PROJECT_DIR$/javascript1/function/scope.html" />
+      <change beforePath="$PROJECT_DIR$/javascript1/javascript1.iml" afterPath="$PROJECT_DIR$/javascript1/javascript1.iml" />
+      <change beforePath="$PROJECT_DIR$/test1/.idea/.name" afterPath="$PROJECT_DIR$/test1/.idea/.name" />
+      <change beforePath="$PROJECT_DIR$/test1/.idea/artifacts/helloMudule_war_exploded.xml" afterPath="$PROJECT_DIR$/test1/.idea/artifacts/helloMudule_war_exploded.xml" />
+      <change beforePath="$PROJECT_DIR$/test1/.idea/artifacts/test1_war_exploded.xml" afterPath="$PROJECT_DIR$/test1/.idea/artifacts/test1_war_exploded.xml" />
+      <change beforePath="$PROJECT_DIR$/test1/.idea/misc.xml" afterPath="$PROJECT_DIR$/test1/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/test1/.idea/modules.xml" afterPath="$PROJECT_DIR$/test1/.idea/modules.xml" />
+      <change beforePath="$PROJECT_DIR$/test1/.idea/workspace.xml" afterPath="$PROJECT_DIR$/test1/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/test1/helloMudule/helloMudule.iml" afterPath="$PROJECT_DIR$/test1/helloMudule/helloMudule.iml" />
+      <change beforePath="$PROJECT_DIR$/test1/helloMudule/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/test1/helloMudule/web/WEB-INF/web.xml" />
+      <change beforePath="$PROJECT_DIR$/test1/helloMudule/web/index.jsp" afterPath="$PROJECT_DIR$/test1/helloMudule/web/index.jsp" />
+      <change beforePath="$PROJECT_DIR$/test1/pictureFriends.iml" afterPath="$PROJECT_DIR$/test1/pictureFriends.iml" />
+      <change beforePath="$PROJECT_DIR$/test1/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/test1/web/WEB-INF/web.xml" />
+      <change beforePath="$PROJECT_DIR$/test1/web/index.jsp" afterPath="$PROJECT_DIR$/test1/web/index.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/.idea/artifacts/JSTL_war_exploded.xml" afterPath="$PROJECT_DIR$/web_examples/.idea/artifacts/JSTL_war_exploded.xml" />
+      <change beforePath="$PROJECT_DIR$/web_examples/.idea/artifacts/boostrap_example_war_exploded.xml" afterPath="$PROJECT_DIR$/web_examples/.idea/artifacts/boostrap_example_war_exploded.xml" />
+      <change beforePath="$PROJECT_DIR$/web_examples/.idea/artifacts/chapter11_war_exploded.xml" afterPath="$PROJECT_DIR$/web_examples/.idea/artifacts/chapter11_war_exploded.xml" />
+      <change beforePath="$PROJECT_DIR$/web_examples/.idea/artifacts/chapter6_2_war_exploded.xml" afterPath="$PROJECT_DIR$/web_examples/.idea/artifacts/chapter6_2_war_exploded.xml" />
+      <change beforePath="$PROJECT_DIR$/web_examples/.idea/artifacts/chapter6_2_war_exploded2.xml" afterPath="$PROJECT_DIR$/web_examples/.idea/artifacts/chapter6_2_war_exploded2.xml" />
+      <change beforePath="$PROJECT_DIR$/web_examples/.idea/artifacts/chapter6_2_war_exploded3.xml" afterPath="$PROJECT_DIR$/web_examples/.idea/artifacts/chapter6_2_war_exploded3.xml" />
+      <change beforePath="$PROJECT_DIR$/web_examples/.idea/artifacts/chapter6_2_war_exploded4.xml" afterPath="$PROJECT_DIR$/web_examples/.idea/artifacts/chapter6_2_war_exploded4.xml" />
+      <change beforePath="$PROJECT_DIR$/web_examples/.idea/artifacts/chapter7_2_war_exploded.xml" afterPath="$PROJECT_DIR$/web_examples/.idea/artifacts/chapter7_2_war_exploded.xml" />
+      <change beforePath="$PROJECT_DIR$/web_examples/.idea/artifacts/chapter7_war_exploded.xml" afterPath="$PROJECT_DIR$/web_examples/.idea/artifacts/chapter7_war_exploded.xml" />
+      <change beforePath="$PROJECT_DIR$/web_examples/.idea/artifacts/chapter8_war_exploded.xml" afterPath="$PROJECT_DIR$/web_examples/.idea/artifacts/chapter8_war_exploded.xml" />
+      <change beforePath="$PROJECT_DIR$/web_examples/.idea/artifacts/chapter9_war_exploded.xml" afterPath="$PROJECT_DIR$/web_examples/.idea/artifacts/chapter9_war_exploded.xml" />
+      <change beforePath="$PROJECT_DIR$/web_examples/.idea/artifacts/examSystem_war_exploded.xml" afterPath="$PROJECT_DIR$/web_examples/.idea/artifacts/examSystem_war_exploded.xml" />
+      <change beforePath="$PROJECT_DIR$/web_examples/.idea/artifacts/jdbc_war_exploded.xml" afterPath="$PROJECT_DIR$/web_examples/.idea/artifacts/jdbc_war_exploded.xml" />
+      <change beforePath="$PROJECT_DIR$/web_examples/.idea/artifacts/online_system_war_exploded.xml" afterPath="$PROJECT_DIR$/web_examples/.idea/artifacts/online_system_war_exploded.xml" />
+      <change beforePath="$PROJECT_DIR$/web_examples/.idea/dataSources.local.xml" afterPath="$PROJECT_DIR$/web_examples/.idea/dataSources.local.xml" />
+      <change beforePath="$PROJECT_DIR$/web_examples/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/web_examples/.idea/dataSources.xml" />
+      <change beforePath="$PROJECT_DIR$/web_examples/.idea/dataSources/8bd1fce5-3177-4809-a022-cafe14c00fd3.xml" afterPath="$PROJECT_DIR$/web_examples/.idea/dataSources/8bd1fce5-3177-4809-a022-cafe14c00fd3.xml" />
+      <change beforePath="$PROJECT_DIR$/web_examples/.idea/dataSources/8bd1fce5-3177-4809-a022-cafe14c00fd3/_metadata_/metadata" afterPath="$PROJECT_DIR$/web_examples/.idea/dataSources/8bd1fce5-3177-4809-a022-cafe14c00fd3/_metadata_/metadata" />
+      <change beforePath="$PROJECT_DIR$/web_examples/.idea/dataSources/8bd1fce5-3177-4809-a022-cafe14c00fd3/_metadata_/metadata.keystream" afterPath="$PROJECT_DIR$/web_examples/.idea/dataSources/8bd1fce5-3177-4809-a022-cafe14c00fd3/_metadata_/metadata.keystream" />
+      <change beforePath="$PROJECT_DIR$/web_examples/.idea/dataSources/8bd1fce5-3177-4809-a022-cafe14c00fd3/_metadata_/metadata.keystream.len" afterPath="$PROJECT_DIR$/web_examples/.idea/dataSources/8bd1fce5-3177-4809-a022-cafe14c00fd3/_metadata_/metadata.keystream.len" />
+      <change beforePath="$PROJECT_DIR$/web_examples/.idea/dataSources/8bd1fce5-3177-4809-a022-cafe14c00fd3/_metadata_/metadata.len" afterPath="$PROJECT_DIR$/web_examples/.idea/dataSources/8bd1fce5-3177-4809-a022-cafe14c00fd3/_metadata_/metadata.len" />
+      <change beforePath="$PROJECT_DIR$/web_examples/.idea/dataSources/8bd1fce5-3177-4809-a022-cafe14c00fd3/_metadata_/metadata.values.at" afterPath="$PROJECT_DIR$/web_examples/.idea/dataSources/8bd1fce5-3177-4809-a022-cafe14c00fd3/_metadata_/metadata.values.at" />
+      <change beforePath="$PROJECT_DIR$/web_examples/.idea/dataSources/8bd1fce5-3177-4809-a022-cafe14c00fd3/_metadata_/metadata_i" afterPath="$PROJECT_DIR$/web_examples/.idea/dataSources/8bd1fce5-3177-4809-a022-cafe14c00fd3/_metadata_/metadata_i" />
+      <change beforePath="$PROJECT_DIR$/web_examples/.idea/dataSources/8bd1fce5-3177-4809-a022-cafe14c00fd3/_metadata_/metadata_i.len" afterPath="$PROJECT_DIR$/web_examples/.idea/dataSources/8bd1fce5-3177-4809-a022-cafe14c00fd3/_metadata_/metadata_i.len" />
+      <change beforePath="$PROJECT_DIR$/web_examples/.idea/dataSources/8bd1fce5-3177-4809-a022-cafe14c00fd3/_src_/schema/sys.zip" afterPath="$PROJECT_DIR$/web_examples/.idea/dataSources/8bd1fce5-3177-4809-a022-cafe14c00fd3/_src_/schema/sys.zip" />
+      <change beforePath="$PROJECT_DIR$/web_examples/.idea/dataSources/8bd1fce5-3177-4809-a022-cafe14c00fd3/storage.xml" afterPath="$PROJECT_DIR$/web_examples/.idea/dataSources/8bd1fce5-3177-4809-a022-cafe14c00fd3/storage.xml" />
+      <change beforePath="$PROJECT_DIR$/web_examples/.idea/encodings.xml" afterPath="$PROJECT_DIR$/web_examples/.idea/encodings.xml" />
+      <change beforePath="$PROJECT_DIR$/web_examples/.idea/kotlinc.xml" afterPath="$PROJECT_DIR$/web_examples/.idea/kotlinc.xml" />
+      <change beforePath="$PROJECT_DIR$/web_examples/.idea/misc.xml" afterPath="$PROJECT_DIR$/web_examples/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/web_examples/.idea/modules.xml" afterPath="$PROJECT_DIR$/web_examples/.idea/modules.xml" />
+      <change beforePath="$PROJECT_DIR$/web_examples/.idea/uiDesigner.xml" afterPath="$PROJECT_DIR$/web_examples/.idea/uiDesigner.xml" />
+      <change beforePath="$PROJECT_DIR$/web_examples/.idea/workspace.xml" afterPath="$PROJECT_DIR$/web_examples/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/web_examples/JSTL/JSTL.iml" afterPath="$PROJECT_DIR$/web_examples/JSTL/JSTL.iml" />
+      <change beforePath="$PROJECT_DIR$/web_examples/JSTL/web/WEB-INF/lib/jstl.jar" afterPath="$PROJECT_DIR$/web_examples/JSTL/web/WEB-INF/lib/jstl.jar" />
+      <change beforePath="$PROJECT_DIR$/web_examples/JSTL/web/WEB-INF/lib/standard.jar" afterPath="$PROJECT_DIR$/web_examples/JSTL/web/WEB-INF/lib/standard.jar" />
+      <change beforePath="$PROJECT_DIR$/web_examples/JSTL/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/web_examples/JSTL/web/WEB-INF/web.xml" />
+      <change beforePath="$PROJECT_DIR$/web_examples/JSTL/web/forEach.jsp" afterPath="$PROJECT_DIR$/web_examples/JSTL/web/forEach.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/JSTL/web/form.jsp" afterPath="$PROJECT_DIR$/web_examples/JSTL/web/form.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/JSTL/web/if.jsp" afterPath="$PROJECT_DIR$/web_examples/JSTL/web/if.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/JSTL/web/index.jsp" afterPath="$PROJECT_DIR$/web_examples/JSTL/web/index.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/JSTL/web/out.jsp" afterPath="$PROJECT_DIR$/web_examples/JSTL/web/out.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/boostrap_example/boostrap_example.iml" afterPath="$PROJECT_DIR$/web_examples/boostrap_example/boostrap_example.iml" />
+      <change beforePath="$PROJECT_DIR$/web_examples/boostrap_example/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/web_examples/boostrap_example/web/WEB-INF/web.xml" />
+      <change beforePath="$PROJECT_DIR$/web_examples/boostrap_example/web/bootstrap-3.3.7-dist/css/bootstrap-theme.css" afterPath="$PROJECT_DIR$/web_examples/boostrap_example/web/bootstrap-3.3.7-dist/css/bootstrap-theme.css" />
+      <change beforePath="$PROJECT_DIR$/web_examples/boostrap_example/web/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" afterPath="$PROJECT_DIR$/web_examples/boostrap_example/web/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" />
+      <change beforePath="$PROJECT_DIR$/web_examples/boostrap_example/web/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/web_examples/boostrap_example/web/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" />
+      <change beforePath="$PROJECT_DIR$/web_examples/boostrap_example/web/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" afterPath="$PROJECT_DIR$/web_examples/boostrap_example/web/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" />
+      <change beforePath="$PROJECT_DIR$/web_examples/boostrap_example/web/bootstrap-3.3.7-dist/css/bootstrap.css" afterPath="$PROJECT_DIR$/web_examples/boostrap_example/web/bootstrap-3.3.7-dist/css/bootstrap.css" />
+      <change beforePath="$PROJECT_DIR$/web_examples/boostrap_example/web/bootstrap-3.3.7-dist/css/bootstrap.css.map" afterPath="$PROJECT_DIR$/web_examples/boostrap_example/web/bootstrap-3.3.7-dist/css/bootstrap.css.map" />
+      <change beforePath="$PROJECT_DIR$/web_examples/boostrap_example/web/bootstrap-3.3.7-dist/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/web_examples/boostrap_example/web/bootstrap-3.3.7-dist/css/bootstrap.min.css" />
+      <change beforePath="$PROJECT_DIR$/web_examples/boostrap_example/web/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" afterPath="$PROJECT_DIR$/web_examples/boostrap_example/web/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" />
+      <change beforePath="$PROJECT_DIR$/web_examples/boostrap_example/web/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/web_examples/boostrap_example/web/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" />
+      <change beforePath="$PROJECT_DIR$/web_examples/boostrap_example/web/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/web_examples/boostrap_example/web/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" />
+      <change beforePath="$PROJECT_DIR$/web_examples/boostrap_example/web/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/web_examples/boostrap_example/web/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" />
+      <change beforePath="$PROJECT_DIR$/web_examples/boostrap_example/web/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/web_examples/boostrap_example/web/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" />
+      <change beforePath="$PROJECT_DIR$/web_examples/boostrap_example/web/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/web_examples/boostrap_example/web/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" />
+      <change beforePath="$PROJECT_DIR$/web_examples/boostrap_example/web/bootstrap-3.3.7-dist/js/bootstrap.js" afterPath="$PROJECT_DIR$/web_examples/boostrap_example/web/bootstrap-3.3.7-dist/js/bootstrap.js" />
+      <change beforePath="$PROJECT_DIR$/web_examples/boostrap_example/web/bootstrap-3.3.7-dist/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/web_examples/boostrap_example/web/bootstrap-3.3.7-dist/js/bootstrap.min.js" />
+      <change beforePath="$PROJECT_DIR$/web_examples/boostrap_example/web/bootstrap-3.3.7-dist/js/jquery.min.js" afterPath="$PROJECT_DIR$/web_examples/boostrap_example/web/bootstrap-3.3.7-dist/js/jquery.min.js" />
+      <change beforePath="$PROJECT_DIR$/web_examples/boostrap_example/web/bootstrap-3.3.7-dist/js/npm.js" afterPath="$PROJECT_DIR$/web_examples/boostrap_example/web/bootstrap-3.3.7-dist/js/npm.js" />
+      <change beforePath="$PROJECT_DIR$/web_examples/boostrap_example/web/index.jsp" afterPath="$PROJECT_DIR$/web_examples/boostrap_example/web/index.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/boostrap_example/web/test1.html" afterPath="$PROJECT_DIR$/web_examples/boostrap_example/web/test1.html" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter11/chapter11.iml" afterPath="$PROJECT_DIR$/web_examples/chapter11/chapter11.iml" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter11/src/cn/itcast/web/servlet/AServlet.java" afterPath="$PROJECT_DIR$/web_examples/chapter11/src/cn/itcast/web/servlet/AServlet.java" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter11/src/cn/itcast/web/servlet/BServlet.java" afterPath="$PROJECT_DIR$/web_examples/chapter11/src/cn/itcast/web/servlet/BServlet.java" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter11/web/Ajax.jsp" afterPath="$PROJECT_DIR$/web_examples/chapter11/web/Ajax.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter11/web/BookServer.jsp" afterPath="$PROJECT_DIR$/web_examples/chapter11/web/BookServer.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter11/web/WEB-INF/lib/jstl.jar" afterPath="$PROJECT_DIR$/web_examples/chapter11/web/WEB-INF/lib/jstl.jar" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter11/web/WEB-INF/lib/standard.jar" afterPath="$PROJECT_DIR$/web_examples/chapter11/web/WEB-INF/lib/standard.jar" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter11/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/web_examples/chapter11/web/WEB-INF/web.xml" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter11/web/ajax2.jsp" afterPath="$PROJECT_DIR$/web_examples/chapter11/web/ajax2.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter11/web/bookAdd.html" afterPath="$PROJECT_DIR$/web_examples/chapter11/web/bookAdd.html" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter11/web/bookList.html" afterPath="$PROJECT_DIR$/web_examples/chapter11/web/bookList.html" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter11/web/booklist.xml" afterPath="$PROJECT_DIR$/web_examples/chapter11/web/booklist.xml" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter11/web/css/style.css" afterPath="$PROJECT_DIR$/web_examples/chapter11/web/css/style.css" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter11/web/hhh.xml" afterPath="$PROJECT_DIR$/web_examples/chapter11/web/hhh.xml" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter11/web/images/Thumbs.db" afterPath="$PROJECT_DIR$/web_examples/chapter11/web/images/Thumbs.db" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter11/web/images/about.jpg" afterPath="$PROJECT_DIR$/web_examples/chapter11/web/images/about.jpg" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter11/web/images/bt1.jpg" afterPath="$PROJECT_DIR$/web_examples/chapter11/web/images/bt1.jpg" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter11/web/images/bt2.jpg" afterPath="$PROJECT_DIR$/web_examples/chapter11/web/images/bt2.jpg" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter11/web/images/bt3.jpg" afterPath="$PROJECT_DIR$/web_examples/chapter11/web/images/bt3.jpg" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter11/web/images/head_jinhua.jpg" afterPath="$PROJECT_DIR$/web_examples/chapter11/web/images/head_jinhua.jpg" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter11/web/images/home.jpg" afterPath="$PROJECT_DIR$/web_examples/chapter11/web/images/home.jpg" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter11/web/images/ny_list_001.jpg" afterPath="$PROJECT_DIR$/web_examples/chapter11/web/images/ny_list_001.jpg" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter11/web/imgs/Thumbs.db" afterPath="$PROJECT_DIR$/web_examples/chapter11/web/imgs/Thumbs.db" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter11/web/imgs/border.gif" afterPath="$PROJECT_DIR$/web_examples/chapter11/web/imgs/border.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter11/web/imgs/box_bottom.gif" afterPath="$PROJECT_DIR$/web_examples/chapter11/web/imgs/box_bottom.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter11/web/imgs/box_center.gif" afterPath="$PROJECT_DIR$/web_examples/chapter11/web/imgs/box_center.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter11/web/imgs/box_top.gif" afterPath="$PROJECT_DIR$/web_examples/chapter11/web/imgs/box_top.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter11/web/imgs/bullet1.gif" afterPath="$PROJECT_DIR$/web_examples/chapter11/web/imgs/bullet1.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter11/web/imgs/bullet2.gif" afterPath="$PROJECT_DIR$/web_examples/chapter11/web/imgs/bullet2.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter11/web/imgs/bullet3.gif" afterPath="$PROJECT_DIR$/web_examples/chapter11/web/imgs/bullet3.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter11/web/imgs/bullet4.gif" afterPath="$PROJECT_DIR$/web_examples/chapter11/web/imgs/bullet4.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter11/web/imgs/bullet5.gif" afterPath="$PROJECT_DIR$/web_examples/chapter11/web/imgs/bullet5.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter11/web/imgs/bullet6.gif" afterPath="$PROJECT_DIR$/web_examples/chapter11/web/imgs/bullet6.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter11/web/imgs/cart.gif" afterPath="$PROJECT_DIR$/web_examples/chapter11/web/imgs/cart.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter11/web/imgs/center_bg.gif" afterPath="$PROJECT_DIR$/web_examples/chapter11/web/imgs/center_bg.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter11/web/imgs/del.gif" afterPath="$PROJECT_DIR$/web_examples/chapter11/web/imgs/del.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter11/web/imgs/edit.gif" afterPath="$PROJECT_DIR$/web_examples/chapter11/web/imgs/edit.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter11/web/imgs/footer_bg.gif" afterPath="$PROJECT_DIR$/web_examples/chapter11/web/imgs/footer_bg.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter11/web/imgs/header.jpg" afterPath="$PROJECT_DIR$/web_examples/chapter11/web/imgs/header.jpg" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter11/web/imgs/itzcn.gif" afterPath="$PROJECT_DIR$/web_examples/chapter11/web/imgs/itzcn.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter11/web/imgs/left_menu_bullet.gif" afterPath="$PROJECT_DIR$/web_examples/chapter11/web/imgs/left_menu_bullet.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter11/web/imgs/logo.png" afterPath="$PROJECT_DIR$/web_examples/chapter11/web/imgs/logo.png" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter11/web/imgs/new_icon.gif" afterPath="$PROJECT_DIR$/web_examples/chapter11/web/imgs/new_icon.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter11/web/imgs/new_prod_box.gif" afterPath="$PROJECT_DIR$/web_examples/chapter11/web/imgs/new_prod_box.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter11/web/imgs/promo_icon.gif" afterPath="$PROJECT_DIR$/web_examples/chapter11/web/imgs/promo_icon.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter11/web/index.html" afterPath="$PROJECT_DIR$/web_examples/chapter11/web/index.html" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter11/web/index.jsp" afterPath="$PROJECT_DIR$/web_examples/chapter11/web/index.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter11/web/index_own.html" afterPath="$PROJECT_DIR$/web_examples/chapter11/web/index_own.html" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter11/web/number.jsp" afterPath="$PROJECT_DIR$/web_examples/chapter11/web/number.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter11/web/number_own.jsp" afterPath="$PROJECT_DIR$/web_examples/chapter11/web/number_own.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter6_2/chapter6_2.iml" afterPath="$PROJECT_DIR$/web_examples/chapter6_2/chapter6_2.iml" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter6_2/src/com/itzcn/bean/User.java" afterPath="$PROJECT_DIR$/web_examples/chapter6_2/src/com/itzcn/bean/User.java" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter6_2/src/com/itzcn/filter/LoginFilter.java" afterPath="$PROJECT_DIR$/web_examples/chapter6_2/src/com/itzcn/filter/LoginFilter.java" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter6_2/src/com/itzcn/filter/MyFilter.java" afterPath="$PROJECT_DIR$/web_examples/chapter6_2/src/com/itzcn/filter/MyFilter.java" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter6_2/src/com/itzcn/servlet/LoginServlet.java" afterPath="$PROJECT_DIR$/web_examples/chapter6_2/src/com/itzcn/servlet/LoginServlet.java" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter6_2/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/web_examples/chapter6_2/web/WEB-INF/web.xml" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter6_2/web/admin/index.jsp" afterPath="$PROJECT_DIR$/web_examples/chapter6_2/web/admin/index.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter6_2/web/css/all.css" afterPath="$PROJECT_DIR$/web_examples/chapter6_2/web/css/all.css" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/Thumbs.db" afterPath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/Thumbs.db" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/add-icon.gif" afterPath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/add-icon.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/arrow.gif" afterPath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/arrow.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/banner.jpg" afterPath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/banner.jpg" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/bg-center-column.jpg" afterPath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/bg-center-column.jpg" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/bg-dotted.gif" afterPath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/bg-dotted.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/bg-footer.gif" afterPath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/bg-footer.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/bg-header.gif" afterPath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/bg-header.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/bg-left-header.gif" afterPath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/bg-left-header.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/bg-left-link.gif" afterPath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/bg-left-link.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/bg-middle.gif" afterPath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/bg-middle.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/bg-orange-button.gif" afterPath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/bg-orange-button.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/bg-select.gif" afterPath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/bg-select.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/bg-th-left.gif" afterPath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/bg-th-left.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/bg-th-right.gif" afterPath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/bg-th-right.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/bt_bg.gif" afterPath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/bt_bg.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/edit-icon.gif" afterPath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/edit-icon.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/hr.gif" afterPath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/hr.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/login-icon.gif" afterPath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/login-icon.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/login.css" afterPath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/login.css" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/login_03.gif" afterPath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/login_03.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/login_05.gif" afterPath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/login_05.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/login_09.gif" afterPath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/login_09.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/login_11.gif" afterPath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/login_11.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/login_13.gif" afterPath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/login_13.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/login_16.gif" afterPath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/login_16.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/login_18.gif" afterPath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/login_18.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/logo.gif" afterPath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/logo.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/save-icon.gif" afterPath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/save-icon.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/tab-active-left.gif" afterPath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/tab-active-left.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/tab-active-right.gif" afterPath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/tab-active-right.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/tab-active.gif" afterPath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/tab-active.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/tab-left.gif" afterPath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/tab-left.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/tab-right.gif" afterPath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/tab-right.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/tab.gif" afterPath="$PROJECT_DIR$/web_examples/chapter6_2/web/images/tab.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter6_2/web/index.jsp" afterPath="$PROJECT_DIR$/web_examples/chapter6_2/web/index.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter6_2/web/login.jsp" afterPath="$PROJECT_DIR$/web_examples/chapter6_2/web/login.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter7/chapter7.iml" afterPath="$PROJECT_DIR$/web_examples/chapter7/chapter7.iml" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter7/src/Asevlet.java" afterPath="$PROJECT_DIR$/web_examples/chapter7/src/Asevlet.java" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter7/src/ChangeMethod.java" afterPath="$PROJECT_DIR$/web_examples/chapter7/src/ChangeMethod.java" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter7/src/Hello.java" afterPath="$PROJECT_DIR$/web_examples/chapter7/src/Hello.java" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter7/src/com/itzcn/method/ChangeMethod.java" afterPath="$PROJECT_DIR$/web_examples/chapter7/src/com/itzcn/method/ChangeMethod.java" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter7/web/WEB-INF/function.tld" afterPath="$PROJECT_DIR$/web_examples/chapter7/web/WEB-INF/function.tld" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter7/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/web_examples/chapter7/web/WEB-INF/web.xml" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter7/web/hello.jsp" afterPath="$PROJECT_DIR$/web_examples/chapter7/web/hello.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter7/web/index.jsp" afterPath="$PROJECT_DIR$/web_examples/chapter7/web/index.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter7/web/test01.jsp" afterPath="$PROJECT_DIR$/web_examples/chapter7/web/test01.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter7/web/test02.jsp" afterPath="$PROJECT_DIR$/web_examples/chapter7/web/test02.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter7_2/chapter7_2.iml" afterPath="$PROJECT_DIR$/web_examples/chapter7_2/chapter7_2.iml" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter7_2/src/com/el/Adress.java" afterPath="$PROJECT_DIR$/web_examples/chapter7_2/src/com/el/Adress.java" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter7_2/src/com/el/MyFunction.java" afterPath="$PROJECT_DIR$/web_examples/chapter7_2/src/com/el/MyFunction.java" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter7_2/src/com/el/People.java" afterPath="$PROJECT_DIR$/web_examples/chapter7_2/src/com/el/People.java" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter7_2/src/com/itzcn/bean/User.java" afterPath="$PROJECT_DIR$/web_examples/chapter7_2/src/com/itzcn/bean/User.java" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter7_2/web/WEB-INF/fun.tld" afterPath="$PROJECT_DIR$/web_examples/chapter7_2/web/WEB-INF/fun.tld" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter7_2/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/web_examples/chapter7_2/web/WEB-INF/web.xml" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter7_2/web/examples.jsp" afterPath="$PROJECT_DIR$/web_examples/chapter7_2/web/examples.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter7_2/web/function.jsp" afterPath="$PROJECT_DIR$/web_examples/chapter7_2/web/function.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter7_2/web/images/Thumbs.db" afterPath="$PROJECT_DIR$/web_examples/chapter7_2/web/images/Thumbs.db" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter7_2/web/images/dl.gif" afterPath="$PROJECT_DIR$/web_examples/chapter7_2/web/images/dl.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter7_2/web/images/login_03.gif" afterPath="$PROJECT_DIR$/web_examples/chapter7_2/web/images/login_03.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter7_2/web/images/login_04.gif" afterPath="$PROJECT_DIR$/web_examples/chapter7_2/web/images/login_04.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter7_2/web/images/login_06.gif" afterPath="$PROJECT_DIR$/web_examples/chapter7_2/web/images/login_06.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter7_2/web/images/login_07.gif" afterPath="$PROJECT_DIR$/web_examples/chapter7_2/web/images/login_07.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter7_2/web/images/login_08.gif" afterPath="$PROJECT_DIR$/web_examples/chapter7_2/web/images/login_08.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter7_2/web/images/login_09.gif" afterPath="$PROJECT_DIR$/web_examples/chapter7_2/web/images/login_09.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter7_2/web/images/logo.jpg" afterPath="$PROJECT_DIR$/web_examples/chapter7_2/web/images/logo.jpg" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter7_2/web/index.jsp" afterPath="$PROJECT_DIR$/web_examples/chapter7_2/web/index.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter7_2/web/register.jsp" afterPath="$PROJECT_DIR$/web_examples/chapter7_2/web/register.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter8/chapter8.iml" afterPath="$PROJECT_DIR$/web_examples/chapter8/chapter8.iml" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter8/web/WEB-INF/lib/jstl.jar" afterPath="$PROJECT_DIR$/web_examples/chapter8/web/WEB-INF/lib/jstl.jar" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter8/web/WEB-INF/lib/standard.jar" afterPath="$PROJECT_DIR$/web_examples/chapter8/web/WEB-INF/lib/standard.jar" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter8/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/web_examples/chapter8/web/WEB-INF/web.xml" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter8/web/index.jsp" afterPath="$PROJECT_DIR$/web_examples/chapter8/web/index.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter8/web/out.jsp" afterPath="$PROJECT_DIR$/web_examples/chapter8/web/out.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter8/web/taglib.jsp" afterPath="$PROJECT_DIR$/web_examples/chapter8/web/taglib.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter9/chapter9.iml" afterPath="$PROJECT_DIR$/web_examples/chapter9/chapter9.iml" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter9/src/bookServlet.java" afterPath="$PROJECT_DIR$/web_examples/chapter9/src/bookServlet.java" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter9/src/demo.java" afterPath="$PROJECT_DIR$/web_examples/chapter9/src/demo.java" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter9/web/WEB-INF/lib/mysql-connector-java-5.1.42-bin.jar" afterPath="$PROJECT_DIR$/web_examples/chapter9/web/WEB-INF/lib/mysql-connector-java-5.1.42-bin.jar" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter9/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/web_examples/chapter9/web/WEB-INF/web.xml" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter9/web/bookAdd.jsp" afterPath="$PROJECT_DIR$/web_examples/chapter9/web/bookAdd.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter9/web/bookList.jsp" afterPath="$PROJECT_DIR$/web_examples/chapter9/web/bookList.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter9/web/css/style.css" afterPath="$PROJECT_DIR$/web_examples/chapter9/web/css/style.css" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter9/web/images/Thumbs.db" afterPath="$PROJECT_DIR$/web_examples/chapter9/web/images/Thumbs.db" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter9/web/images/about.jpg" afterPath="$PROJECT_DIR$/web_examples/chapter9/web/images/about.jpg" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter9/web/images/bt1.jpg" afterPath="$PROJECT_DIR$/web_examples/chapter9/web/images/bt1.jpg" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter9/web/images/bt2.jpg" afterPath="$PROJECT_DIR$/web_examples/chapter9/web/images/bt2.jpg" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter9/web/images/bt3.jpg" afterPath="$PROJECT_DIR$/web_examples/chapter9/web/images/bt3.jpg" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter9/web/images/head_jinhua.jpg" afterPath="$PROJECT_DIR$/web_examples/chapter9/web/images/head_jinhua.jpg" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter9/web/images/home.jpg" afterPath="$PROJECT_DIR$/web_examples/chapter9/web/images/home.jpg" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter9/web/images/ny_list_001.jpg" afterPath="$PROJECT_DIR$/web_examples/chapter9/web/images/ny_list_001.jpg" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter9/web/imgs/Thumbs.db" afterPath="$PROJECT_DIR$/web_examples/chapter9/web/imgs/Thumbs.db" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter9/web/imgs/border.gif" afterPath="$PROJECT_DIR$/web_examples/chapter9/web/imgs/border.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter9/web/imgs/box_bottom.gif" afterPath="$PROJECT_DIR$/web_examples/chapter9/web/imgs/box_bottom.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter9/web/imgs/box_center.gif" afterPath="$PROJECT_DIR$/web_examples/chapter9/web/imgs/box_center.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter9/web/imgs/box_top.gif" afterPath="$PROJECT_DIR$/web_examples/chapter9/web/imgs/box_top.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter9/web/imgs/bullet1.gif" afterPath="$PROJECT_DIR$/web_examples/chapter9/web/imgs/bullet1.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter9/web/imgs/bullet2.gif" afterPath="$PROJECT_DIR$/web_examples/chapter9/web/imgs/bullet2.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter9/web/imgs/bullet3.gif" afterPath="$PROJECT_DIR$/web_examples/chapter9/web/imgs/bullet3.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter9/web/imgs/bullet4.gif" afterPath="$PROJECT_DIR$/web_examples/chapter9/web/imgs/bullet4.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter9/web/imgs/bullet5.gif" afterPath="$PROJECT_DIR$/web_examples/chapter9/web/imgs/bullet5.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter9/web/imgs/bullet6.gif" afterPath="$PROJECT_DIR$/web_examples/chapter9/web/imgs/bullet6.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter9/web/imgs/cart.gif" afterPath="$PROJECT_DIR$/web_examples/chapter9/web/imgs/cart.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter9/web/imgs/center_bg.gif" afterPath="$PROJECT_DIR$/web_examples/chapter9/web/imgs/center_bg.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter9/web/imgs/del.gif" afterPath="$PROJECT_DIR$/web_examples/chapter9/web/imgs/del.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter9/web/imgs/edit.gif" afterPath="$PROJECT_DIR$/web_examples/chapter9/web/imgs/edit.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter9/web/imgs/footer_bg.gif" afterPath="$PROJECT_DIR$/web_examples/chapter9/web/imgs/footer_bg.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter9/web/imgs/header.jpg" afterPath="$PROJECT_DIR$/web_examples/chapter9/web/imgs/header.jpg" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter9/web/imgs/itzcn.gif" afterPath="$PROJECT_DIR$/web_examples/chapter9/web/imgs/itzcn.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter9/web/imgs/left_menu_bullet.gif" afterPath="$PROJECT_DIR$/web_examples/chapter9/web/imgs/left_menu_bullet.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter9/web/imgs/logo.png" afterPath="$PROJECT_DIR$/web_examples/chapter9/web/imgs/logo.png" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter9/web/imgs/new_icon.gif" afterPath="$PROJECT_DIR$/web_examples/chapter9/web/imgs/new_icon.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter9/web/imgs/new_prod_box.gif" afterPath="$PROJECT_DIR$/web_examples/chapter9/web/imgs/new_prod_box.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter9/web/imgs/promo_icon.gif" afterPath="$PROJECT_DIR$/web_examples/chapter9/web/imgs/promo_icon.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter9/web/index.jsp" afterPath="$PROJECT_DIR$/web_examples/chapter9/web/index.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter9/web/test.jsp" afterPath="$PROJECT_DIR$/web_examples/chapter9/web/test.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/chapter9/web/testConnection.jsp" afterPath="$PROJECT_DIR$/web_examples/chapter9/web/testConnection.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/examSystem/examSystem.iml" afterPath="$PROJECT_DIR$/web_examples/examSystem/examSystem.iml" />
+      <change beforePath="$PROJECT_DIR$/web_examples/examSystem/src/com/servlet/Adajx_login.java" afterPath="$PROJECT_DIR$/web_examples/examSystem/src/com/servlet/Adajx_login.java" />
+      <change beforePath="$PROJECT_DIR$/web_examples/examSystem/src/com/servlet/DisplayExamServlet.java" afterPath="$PROJECT_DIR$/web_examples/examSystem/src/com/servlet/DisplayExamServlet.java" />
+      <change beforePath="$PROJECT_DIR$/web_examples/examSystem/src/com/servlet/loginServlet.java" afterPath="$PROJECT_DIR$/web_examples/examSystem/src/com/servlet/loginServlet.java" />
+      <change beforePath="$PROJECT_DIR$/web_examples/examSystem/src/com/servlet/registerServlet.java" afterPath="$PROJECT_DIR$/web_examples/examSystem/src/com/servlet/registerServlet.java" />
+      <change beforePath="$PROJECT_DIR$/web_examples/examSystem/src/com/student/Student.java" afterPath="$PROJECT_DIR$/web_examples/examSystem/src/com/student/Student.java" />
+      <change beforePath="$PROJECT_DIR$/web_examples/examSystem/src/com/student/Test.java" afterPath="$PROJECT_DIR$/web_examples/examSystem/src/com/student/Test.java" />
+      <change beforePath="$PROJECT_DIR$/web_examples/examSystem/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/web_examples/examSystem/web/WEB-INF/web.xml" />
+      <change beforePath="$PROJECT_DIR$/web_examples/examSystem/web/begin_exam.jsp" afterPath="$PROJECT_DIR$/web_examples/examSystem/web/begin_exam.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/examSystem/web/exam/display_exam.jsp" afterPath="$PROJECT_DIR$/web_examples/examSystem/web/exam/display_exam.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/examSystem/web/index.html" afterPath="$PROJECT_DIR$/web_examples/examSystem/web/index.html" />
+      <change beforePath="$PROJECT_DIR$/web_examples/examSystem/web/list.jsp" afterPath="$PROJECT_DIR$/web_examples/examSystem/web/list.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/examSystem/web/register.jsp" afterPath="$PROJECT_DIR$/web_examples/examSystem/web/register.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/examSystem/web/register_successfully.html" afterPath="$PROJECT_DIR$/web_examples/examSystem/web/register_successfully.html" />
+      <change beforePath="$PROJECT_DIR$/web_examples/examSystem/web/result.jsp" afterPath="$PROJECT_DIR$/web_examples/examSystem/web/result.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/examSystem/web/style.css" afterPath="$PROJECT_DIR$/web_examples/examSystem/web/style.css" />
+      <change beforePath="$PROJECT_DIR$/web_examples/jdbc/jdbc.iml" afterPath="$PROJECT_DIR$/web_examples/jdbc/jdbc.iml" />
+      <change beforePath="$PROJECT_DIR$/web_examples/jdbc/web/WEB-INF/lib/mysql-connector-java-5.1.42-bin.jar" afterPath="$PROJECT_DIR$/web_examples/jdbc/web/WEB-INF/lib/mysql-connector-java-5.1.42-bin.jar" />
+      <change beforePath="$PROJECT_DIR$/web_examples/jdbc/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/web_examples/jdbc/web/WEB-INF/web.xml" />
+      <change beforePath="$PROJECT_DIR$/web_examples/jdbc/web/index.jsp" afterPath="$PROJECT_DIR$/web_examples/jdbc/web/index.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/jdbc/web/test.jsp" afterPath="$PROJECT_DIR$/web_examples/jdbc/web/test.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/online_system/online_system.iml" afterPath="$PROJECT_DIR$/web_examples/online_system/online_system.iml" />
+      <change beforePath="$PROJECT_DIR$/web_examples/online_system/src/action/TestAction.java" afterPath="$PROJECT_DIR$/web_examples/online_system/src/action/TestAction.java" />
+      <change beforePath="$PROJECT_DIR$/web_examples/online_system/src/bean/ChengjiBean.java" afterPath="$PROJECT_DIR$/web_examples/online_system/src/bean/ChengjiBean.java" />
+      <change beforePath="$PROJECT_DIR$/web_examples/online_system/src/bean/TikuBean.java" afterPath="$PROJECT_DIR$/web_examples/online_system/src/bean/TikuBean.java" />
+      <change beforePath="$PROJECT_DIR$/web_examples/online_system/src/bean/UserBean.java" afterPath="$PROJECT_DIR$/web_examples/online_system/src/bean/UserBean.java" />
+      <change beforePath="$PROJECT_DIR$/web_examples/online_system/src/dao/ChengJiDao.java" afterPath="$PROJECT_DIR$/web_examples/online_system/src/dao/ChengJiDao.java" />
+      <change beforePath="$PROJECT_DIR$/web_examples/online_system/src/dao/TikuDao.java" afterPath="$PROJECT_DIR$/web_examples/online_system/src/dao/TikuDao.java" />
+      <change beforePath="$PROJECT_DIR$/web_examples/online_system/src/dao/UserDao.java" afterPath="$PROJECT_DIR$/web_examples/online_system/src/dao/UserDao.java" />
+      <change beforePath="$PROJECT_DIR$/web_examples/online_system/src/daoservice/ChengjiService.java" afterPath="$PROJECT_DIR$/web_examples/online_system/src/daoservice/ChengjiService.java" />
+      <change beforePath="$PROJECT_DIR$/web_examples/online_system/src/daoservice/TikuService.java" afterPath="$PROJECT_DIR$/web_examples/online_system/src/daoservice/TikuService.java" />
+      <change beforePath="$PROJECT_DIR$/web_examples/online_system/src/daoservice/UserService.java" afterPath="$PROJECT_DIR$/web_examples/online_system/src/daoservice/UserService.java" />
+      <change beforePath="$PROJECT_DIR$/web_examples/online_system/src/dbutil/DBUtil.java" afterPath="$PROJECT_DIR$/web_examples/online_system/src/dbutil/DBUtil.java" />
+      <change beforePath="$PROJECT_DIR$/web_examples/online_system/src/servers/GaiJuanServer.java" afterPath="$PROJECT_DIR$/web_examples/online_system/src/servers/GaiJuanServer.java" />
+      <change beforePath="$PROJECT_DIR$/web_examples/online_system/src/servers/LoginServer.java" afterPath="$PROJECT_DIR$/web_examples/online_system/src/servers/LoginServer.java" />
+      <change beforePath="$PROJECT_DIR$/web_examples/online_system/src/servers/TikuServer.java" afterPath="$PROJECT_DIR$/web_examples/online_system/src/servers/TikuServer.java" />
+      <change beforePath="$PROJECT_DIR$/web_examples/online_system/src/servers/ZhuceServer.java" afterPath="$PROJECT_DIR$/web_examples/online_system/src/servers/ZhuceServer.java" />
+      <change beforePath="$PROJECT_DIR$/web_examples/online_system/web/WEB-INF/lib/mysql-connector-java-5.1.42-bin.jar" afterPath="$PROJECT_DIR$/web_examples/online_system/web/WEB-INF/lib/mysql-connector-java-5.1.42-bin.jar" />
+      <change beforePath="$PROJECT_DIR$/web_examples/online_system/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/web_examples/online_system/web/WEB-INF/web.xml" />
+      <change beforePath="$PROJECT_DIR$/web_examples/online_system/web/chengji.jsp" afterPath="$PROJECT_DIR$/web_examples/online_system/web/chengji.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/online_system/web/index.jsp" afterPath="$PROJECT_DIR$/web_examples/online_system/web/index.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/online_system/web/login.jsp" afterPath="$PROJECT_DIR$/web_examples/online_system/web/login.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/online_system/web/login/20170613081110.jpg" afterPath="$PROJECT_DIR$/web_examples/online_system/web/login/20170613081110.jpg" />
+      <change beforePath="$PROJECT_DIR$/web_examples/online_system/web/login/NewFile.jsp" afterPath="$PROJECT_DIR$/web_examples/online_system/web/login/NewFile.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/online_system/web/register.jsp" afterPath="$PROJECT_DIR$/web_examples/online_system/web/register.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/online_system/web/selectshijuan.jsp" afterPath="$PROJECT_DIR$/web_examples/online_system/web/selectshijuan.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/online_system/web/shijuan.jsp" afterPath="$PROJECT_DIR$/web_examples/online_system/web/shijuan.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/online_system/web/shijuancss.css" afterPath="$PROJECT_DIR$/web_examples/online_system/web/shijuancss.css" />
+      <change beforePath="$PROJECT_DIR$/web_examples/online_system/web/test.jsp" afterPath="$PROJECT_DIR$/web_examples/online_system/web/test.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/online_system/web/tiaozhuan.jsp" afterPath="$PROJECT_DIR$/web_examples/online_system/web/tiaozhuan.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/online_system/web/tiaozhuan2.jsp" afterPath="$PROJECT_DIR$/web_examples/online_system/web/tiaozhuan2.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/online_system/web/top.jpg" afterPath="$PROJECT_DIR$/web_examples/online_system/web/top.jpg" />
+      <change beforePath="$PROJECT_DIR$/web_examples/online_system/web/xinxi.jsp" afterPath="$PROJECT_DIR$/web_examples/online_system/web/xinxi.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/JSTL_war_exploded/WEB-INF/lib/jstl.jar" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/JSTL_war_exploded/WEB-INF/lib/jstl.jar" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/JSTL_war_exploded/WEB-INF/lib/standard.jar" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/JSTL_war_exploded/WEB-INF/lib/standard.jar" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/JSTL_war_exploded/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/JSTL_war_exploded/WEB-INF/web.xml" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/JSTL_war_exploded/forEach.jsp" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/JSTL_war_exploded/forEach.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/JSTL_war_exploded/form.jsp" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/JSTL_war_exploded/form.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/JSTL_war_exploded/if.jsp" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/JSTL_war_exploded/if.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/JSTL_war_exploded/index.jsp" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/JSTL_war_exploded/index.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/JSTL_war_exploded/out.jsp" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/JSTL_war_exploded/out.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/boostrap_example_war_exploded/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/boostrap_example_war_exploded/WEB-INF/web.xml" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/boostrap_example_war_exploded/bootstrap-3.3.7-dist/css/bootstrap-theme.css" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/boostrap_example_war_exploded/bootstrap-3.3.7-dist/css/bootstrap-theme.css" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/boostrap_example_war_exploded/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/boostrap_example_war_exploded/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/boostrap_example_war_exploded/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/boostrap_example_war_exploded/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/boostrap_example_war_exploded/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/boostrap_example_war_exploded/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/boostrap_example_war_exploded/bootstrap-3.3.7-dist/css/bootstrap.css" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/boostrap_example_war_exploded/bootstrap-3.3.7-dist/css/bootstrap.css" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/boostrap_example_war_exploded/bootstrap-3.3.7-dist/css/bootstrap.css.map" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/boostrap_example_war_exploded/bootstrap-3.3.7-dist/css/bootstrap.css.map" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/boostrap_example_war_exploded/bootstrap-3.3.7-dist/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/boostrap_example_war_exploded/bootstrap-3.3.7-dist/css/bootstrap.min.css" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/boostrap_example_war_exploded/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/boostrap_example_war_exploded/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/boostrap_example_war_exploded/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/boostrap_example_war_exploded/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/boostrap_example_war_exploded/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/boostrap_example_war_exploded/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/boostrap_example_war_exploded/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/boostrap_example_war_exploded/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/boostrap_example_war_exploded/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/boostrap_example_war_exploded/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/boostrap_example_war_exploded/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/boostrap_example_war_exploded/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/boostrap_example_war_exploded/bootstrap-3.3.7-dist/js/bootstrap.js" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/boostrap_example_war_exploded/bootstrap-3.3.7-dist/js/bootstrap.js" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/boostrap_example_war_exploded/bootstrap-3.3.7-dist/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/boostrap_example_war_exploded/bootstrap-3.3.7-dist/js/bootstrap.min.js" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/boostrap_example_war_exploded/bootstrap-3.3.7-dist/js/jquery.min.js" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/boostrap_example_war_exploded/bootstrap-3.3.7-dist/js/jquery.min.js" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/boostrap_example_war_exploded/bootstrap-3.3.7-dist/js/npm.js" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/boostrap_example_war_exploded/bootstrap-3.3.7-dist/js/npm.js" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/boostrap_example_war_exploded/index.jsp" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/boostrap_example_war_exploded/index.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/boostrap_example_war_exploded/test1.html" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/boostrap_example_war_exploded/test1.html" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/WEB-INF/classes/com/itzcn/bean/User.class" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/WEB-INF/classes/com/itzcn/bean/User.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/WEB-INF/classes/com/itzcn/filter/LoginFilter.class" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/WEB-INF/classes/com/itzcn/filter/LoginFilter.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/WEB-INF/classes/com/itzcn/filter/MyFilter.class" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/WEB-INF/classes/com/itzcn/filter/MyFilter.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/WEB-INF/classes/com/itzcn/servlet/LoginServlet.class" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/WEB-INF/classes/com/itzcn/servlet/LoginServlet.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/WEB-INF/web.xml" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/admin/index.jsp" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/admin/index.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/css/all.css" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/css/all.css" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/Thumbs.db" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/Thumbs.db" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/add-icon.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/add-icon.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/arrow.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/arrow.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/banner.jpg" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/banner.jpg" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/bg-center-column.jpg" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/bg-center-column.jpg" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/bg-dotted.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/bg-dotted.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/bg-footer.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/bg-footer.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/bg-header.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/bg-header.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/bg-left-header.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/bg-left-header.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/bg-left-link.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/bg-left-link.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/bg-middle.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/bg-middle.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/bg-orange-button.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/bg-orange-button.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/bg-select.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/bg-select.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/bg-th-left.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/bg-th-left.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/bg-th-right.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/bg-th-right.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/bt_bg.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/bt_bg.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/edit-icon.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/edit-icon.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/hr.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/hr.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/login-icon.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/login-icon.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/login.css" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/login.css" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/login_03.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/login_03.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/login_05.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/login_05.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/login_09.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/login_09.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/login_11.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/login_11.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/login_13.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/login_13.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/login_16.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/login_16.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/login_18.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/login_18.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/logo.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/logo.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/save-icon.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/save-icon.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/tab-active-left.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/tab-active-left.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/tab-active-right.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/tab-active-right.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/tab-active.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/tab-active.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/tab-left.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/tab-left.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/tab-right.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/tab-right.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/tab.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/images/tab.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/index.jsp" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/index.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/login.jsp" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded3/login.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/WEB-INF/classes/com/itzcn/bean/User.class" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/WEB-INF/classes/com/itzcn/bean/User.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/WEB-INF/classes/com/itzcn/filter/LoginFilter.class" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/WEB-INF/classes/com/itzcn/filter/LoginFilter.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/WEB-INF/classes/com/itzcn/filter/MyFilter.class" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/WEB-INF/classes/com/itzcn/filter/MyFilter.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/WEB-INF/classes/com/itzcn/servlet/LoginServlet.class" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/WEB-INF/classes/com/itzcn/servlet/LoginServlet.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/WEB-INF/web.xml" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/admin/index.jsp" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/admin/index.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/css/all.css" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/css/all.css" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/Thumbs.db" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/Thumbs.db" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/add-icon.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/add-icon.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/arrow.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/arrow.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/banner.jpg" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/banner.jpg" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/bg-center-column.jpg" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/bg-center-column.jpg" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/bg-dotted.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/bg-dotted.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/bg-footer.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/bg-footer.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/bg-header.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/bg-header.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/bg-left-header.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/bg-left-header.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/bg-left-link.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/bg-left-link.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/bg-middle.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/bg-middle.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/bg-orange-button.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/bg-orange-button.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/bg-select.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/bg-select.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/bg-th-left.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/bg-th-left.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/bg-th-right.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/bg-th-right.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/bt_bg.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/bt_bg.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/edit-icon.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/edit-icon.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/hr.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/hr.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/login-icon.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/login-icon.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/login.css" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/login.css" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/login_03.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/login_03.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/login_05.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/login_05.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/login_09.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/login_09.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/login_11.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/login_11.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/login_13.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/login_13.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/login_16.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/login_16.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/login_18.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/login_18.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/logo.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/logo.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/save-icon.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/save-icon.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/tab-active-left.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/tab-active-left.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/tab-active-right.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/tab-active-right.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/tab-active.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/tab-active.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/tab-left.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/tab-left.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/tab-right.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/tab-right.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/tab.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/images/tab.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/index.jsp" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/index.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/login.jsp" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter6_2_war_exploded4/login.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter7_war_exploded/WEB-INF/classes/Asevlet.class" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter7_war_exploded/WEB-INF/classes/Asevlet.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter7_war_exploded/WEB-INF/classes/ChangeMethod.class" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter7_war_exploded/WEB-INF/classes/ChangeMethod.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter7_war_exploded/WEB-INF/classes/Hello.class" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter7_war_exploded/WEB-INF/classes/Hello.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter7_war_exploded/WEB-INF/classes/com/itzcn/method/ChangeMethod.class" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter7_war_exploded/WEB-INF/classes/com/itzcn/method/ChangeMethod.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter7_war_exploded/WEB-INF/function.tld" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter7_war_exploded/WEB-INF/function.tld" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter7_war_exploded/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter7_war_exploded/WEB-INF/web.xml" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter7_war_exploded/hello.jsp" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter7_war_exploded/hello.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter7_war_exploded/index.jsp" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter7_war_exploded/index.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter7_war_exploded/test01.jsp" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter7_war_exploded/test01.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter7_war_exploded/test02.jsp" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter7_war_exploded/test02.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/WEB-INF/classes/bookServlet.class" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/WEB-INF/classes/bookServlet.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/WEB-INF/classes/demo.class" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/WEB-INF/classes/demo.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.42-bin.jar" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.42-bin.jar" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/WEB-INF/web.xml" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/bookAdd.jsp" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/bookAdd.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/bookList.jsp" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/bookList.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/css/style.css" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/css/style.css" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/images/Thumbs.db" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/images/Thumbs.db" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/images/about.jpg" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/images/about.jpg" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/images/bt1.jpg" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/images/bt1.jpg" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/images/bt2.jpg" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/images/bt2.jpg" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/images/bt3.jpg" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/images/bt3.jpg" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/images/head_jinhua.jpg" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/images/head_jinhua.jpg" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/images/home.jpg" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/images/home.jpg" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/images/ny_list_001.jpg" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/images/ny_list_001.jpg" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/imgs/Thumbs.db" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/imgs/Thumbs.db" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/imgs/border.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/imgs/border.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/imgs/box_bottom.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/imgs/box_bottom.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/imgs/box_center.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/imgs/box_center.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/imgs/box_top.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/imgs/box_top.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/imgs/bullet1.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/imgs/bullet1.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/imgs/bullet2.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/imgs/bullet2.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/imgs/bullet3.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/imgs/bullet3.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/imgs/bullet4.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/imgs/bullet4.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/imgs/bullet5.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/imgs/bullet5.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/imgs/bullet6.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/imgs/bullet6.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/imgs/cart.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/imgs/cart.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/imgs/center_bg.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/imgs/center_bg.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/imgs/del.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/imgs/del.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/imgs/edit.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/imgs/edit.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/imgs/footer_bg.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/imgs/footer_bg.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/imgs/header.jpg" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/imgs/header.jpg" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/imgs/itzcn.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/imgs/itzcn.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/imgs/left_menu_bullet.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/imgs/left_menu_bullet.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/imgs/logo.png" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/imgs/logo.png" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/imgs/new_icon.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/imgs/new_icon.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/imgs/new_prod_box.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/imgs/new_prod_box.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/imgs/promo_icon.gif" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/imgs/promo_icon.gif" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/index.jsp" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/index.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/test.jsp" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/test.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/testConnection.jsp" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/chapter9_war_exploded/testConnection.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/examSystem_war_exploded/WEB-INF/classes/com/servlet/Adajx_login.class" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/examSystem_war_exploded/WEB-INF/classes/com/servlet/Adajx_login.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/examSystem_war_exploded/WEB-INF/classes/com/servlet/DisplayExamServlet.class" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/examSystem_war_exploded/WEB-INF/classes/com/servlet/DisplayExamServlet.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/examSystem_war_exploded/WEB-INF/classes/com/servlet/loginServlet.class" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/examSystem_war_exploded/WEB-INF/classes/com/servlet/loginServlet.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/examSystem_war_exploded/WEB-INF/classes/com/servlet/registerServlet.class" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/examSystem_war_exploded/WEB-INF/classes/com/servlet/registerServlet.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/examSystem_war_exploded/WEB-INF/classes/com/student/Student.class" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/examSystem_war_exploded/WEB-INF/classes/com/student/Student.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/examSystem_war_exploded/WEB-INF/classes/com/student/Test.class" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/examSystem_war_exploded/WEB-INF/classes/com/student/Test.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/examSystem_war_exploded/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/examSystem_war_exploded/WEB-INF/web.xml" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/examSystem_war_exploded/begin_exam.jsp" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/examSystem_war_exploded/begin_exam.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/examSystem_war_exploded/exam/display_exam.jsp" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/examSystem_war_exploded/exam/display_exam.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/examSystem_war_exploded/index.html" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/examSystem_war_exploded/index.html" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/examSystem_war_exploded/list.jsp" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/examSystem_war_exploded/list.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/examSystem_war_exploded/register.jsp" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/examSystem_war_exploded/register.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/examSystem_war_exploded/register_successfully.html" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/examSystem_war_exploded/register_successfully.html" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/examSystem_war_exploded/result.jsp" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/examSystem_war_exploded/result.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/examSystem_war_exploded/style.css" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/examSystem_war_exploded/style.css" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/jdbc_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.42-bin.jar" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/jdbc_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.42-bin.jar" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/jdbc_war_exploded/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/jdbc_war_exploded/WEB-INF/web.xml" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/jdbc_war_exploded/index.jsp" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/jdbc_war_exploded/index.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/jdbc_war_exploded/test.jsp" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/jdbc_war_exploded/test.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/online_system_war_exploded/WEB-INF/classes/action/TestAction.class" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/online_system_war_exploded/WEB-INF/classes/action/TestAction.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/online_system_war_exploded/WEB-INF/classes/bean/ChengjiBean.class" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/online_system_war_exploded/WEB-INF/classes/bean/ChengjiBean.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/online_system_war_exploded/WEB-INF/classes/bean/TikuBean.class" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/online_system_war_exploded/WEB-INF/classes/bean/TikuBean.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/online_system_war_exploded/WEB-INF/classes/bean/UserBean.class" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/online_system_war_exploded/WEB-INF/classes/bean/UserBean.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/online_system_war_exploded/WEB-INF/classes/dao/ChengJiDao.class" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/online_system_war_exploded/WEB-INF/classes/dao/ChengJiDao.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/online_system_war_exploded/WEB-INF/classes/dao/TikuDao.class" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/online_system_war_exploded/WEB-INF/classes/dao/TikuDao.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/online_system_war_exploded/WEB-INF/classes/dao/UserDao.class" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/online_system_war_exploded/WEB-INF/classes/dao/UserDao.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/online_system_war_exploded/WEB-INF/classes/daoservice/ChengjiService.class" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/online_system_war_exploded/WEB-INF/classes/daoservice/ChengjiService.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/online_system_war_exploded/WEB-INF/classes/daoservice/TikuService.class" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/online_system_war_exploded/WEB-INF/classes/daoservice/TikuService.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/online_system_war_exploded/WEB-INF/classes/daoservice/UserService.class" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/online_system_war_exploded/WEB-INF/classes/daoservice/UserService.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/online_system_war_exploded/WEB-INF/classes/dbutil/DBUtil.class" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/online_system_war_exploded/WEB-INF/classes/dbutil/DBUtil.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/online_system_war_exploded/WEB-INF/classes/servers/GaiJuanServer.class" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/online_system_war_exploded/WEB-INF/classes/servers/GaiJuanServer.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/online_system_war_exploded/WEB-INF/classes/servers/LoginServer.class" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/online_system_war_exploded/WEB-INF/classes/servers/LoginServer.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/online_system_war_exploded/WEB-INF/classes/servers/TikuServer.class" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/online_system_war_exploded/WEB-INF/classes/servers/TikuServer.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/online_system_war_exploded/WEB-INF/classes/servers/ZhuceServer.class" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/online_system_war_exploded/WEB-INF/classes/servers/ZhuceServer.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/online_system_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.42-bin.jar" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/online_system_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.42-bin.jar" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/online_system_war_exploded/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/online_system_war_exploded/WEB-INF/web.xml" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/online_system_war_exploded/chengji.jsp" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/online_system_war_exploded/chengji.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/online_system_war_exploded/index.jsp" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/online_system_war_exploded/index.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/online_system_war_exploded/login.jsp" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/online_system_war_exploded/login.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/online_system_war_exploded/login/20170613081110.jpg" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/online_system_war_exploded/login/20170613081110.jpg" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/online_system_war_exploded/login/NewFile.jsp" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/online_system_war_exploded/login/NewFile.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/online_system_war_exploded/register.jsp" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/online_system_war_exploded/register.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/online_system_war_exploded/selectshijuan.jsp" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/online_system_war_exploded/selectshijuan.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/online_system_war_exploded/shijuan.jsp" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/online_system_war_exploded/shijuan.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/online_system_war_exploded/shijuancss.css" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/online_system_war_exploded/shijuancss.css" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/online_system_war_exploded/test.jsp" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/online_system_war_exploded/test.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/online_system_war_exploded/tiaozhuan.jsp" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/online_system_war_exploded/tiaozhuan.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/online_system_war_exploded/tiaozhuan2.jsp" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/online_system_war_exploded/tiaozhuan2.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/online_system_war_exploded/top.jpg" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/online_system_war_exploded/top.jpg" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/artifacts/online_system_war_exploded/xinxi.jsp" afterPath="$PROJECT_DIR$/web_examples/out/artifacts/online_system_war_exploded/xinxi.jsp" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/production/chapter6_2/com/itzcn/bean/User.class" afterPath="$PROJECT_DIR$/web_examples/out/production/chapter6_2/com/itzcn/bean/User.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/production/chapter6_2/com/itzcn/filter/LoginFilter.class" afterPath="$PROJECT_DIR$/web_examples/out/production/chapter6_2/com/itzcn/filter/LoginFilter.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/production/chapter6_2/com/itzcn/filter/MyFilter.class" afterPath="$PROJECT_DIR$/web_examples/out/production/chapter6_2/com/itzcn/filter/MyFilter.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/production/chapter6_2/com/itzcn/servlet/LoginServlet.class" afterPath="$PROJECT_DIR$/web_examples/out/production/chapter6_2/com/itzcn/servlet/LoginServlet.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/production/chapter7/Asevlet.class" afterPath="$PROJECT_DIR$/web_examples/out/production/chapter7/Asevlet.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/production/chapter7/ChangeMethod.class" afterPath="$PROJECT_DIR$/web_examples/out/production/chapter7/ChangeMethod.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/production/chapter7/Hello.class" afterPath="$PROJECT_DIR$/web_examples/out/production/chapter7/Hello.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/production/chapter7/com/itzcn/method/ChangeMethod.class" afterPath="$PROJECT_DIR$/web_examples/out/production/chapter7/com/itzcn/method/ChangeMethod.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/production/chapter9/bookServlet.class" afterPath="$PROJECT_DIR$/web_examples/out/production/chapter9/bookServlet.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/production/chapter9/demo.class" afterPath="$PROJECT_DIR$/web_examples/out/production/chapter9/demo.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/production/examSystem/com/servlet/Adajx_login.class" afterPath="$PROJECT_DIR$/web_examples/out/production/examSystem/com/servlet/Adajx_login.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/production/examSystem/com/servlet/DisplayExamServlet.class" afterPath="$PROJECT_DIR$/web_examples/out/production/examSystem/com/servlet/DisplayExamServlet.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/production/examSystem/com/servlet/loginServlet.class" afterPath="$PROJECT_DIR$/web_examples/out/production/examSystem/com/servlet/loginServlet.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/production/examSystem/com/servlet/registerServlet.class" afterPath="$PROJECT_DIR$/web_examples/out/production/examSystem/com/servlet/registerServlet.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/production/examSystem/com/student/Student.class" afterPath="$PROJECT_DIR$/web_examples/out/production/examSystem/com/student/Student.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/production/examSystem/com/student/Test.class" afterPath="$PROJECT_DIR$/web_examples/out/production/examSystem/com/student/Test.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/production/online_system/action/TestAction.class" afterPath="$PROJECT_DIR$/web_examples/out/production/online_system/action/TestAction.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/production/online_system/bean/ChengjiBean.class" afterPath="$PROJECT_DIR$/web_examples/out/production/online_system/bean/ChengjiBean.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/production/online_system/bean/TikuBean.class" afterPath="$PROJECT_DIR$/web_examples/out/production/online_system/bean/TikuBean.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/production/online_system/bean/UserBean.class" afterPath="$PROJECT_DIR$/web_examples/out/production/online_system/bean/UserBean.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/production/online_system/dao/ChengJiDao.class" afterPath="$PROJECT_DIR$/web_examples/out/production/online_system/dao/ChengJiDao.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/production/online_system/dao/TikuDao.class" afterPath="$PROJECT_DIR$/web_examples/out/production/online_system/dao/TikuDao.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/production/online_system/dao/UserDao.class" afterPath="$PROJECT_DIR$/web_examples/out/production/online_system/dao/UserDao.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/production/online_system/daoservice/ChengjiService.class" afterPath="$PROJECT_DIR$/web_examples/out/production/online_system/daoservice/ChengjiService.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/production/online_system/daoservice/TikuService.class" afterPath="$PROJECT_DIR$/web_examples/out/production/online_system/daoservice/TikuService.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/production/online_system/daoservice/UserService.class" afterPath="$PROJECT_DIR$/web_examples/out/production/online_system/daoservice/UserService.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/production/online_system/dbutil/DBUtil.class" afterPath="$PROJECT_DIR$/web_examples/out/production/online_system/dbutil/DBUtil.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/production/online_system/servers/GaiJuanServer.class" afterPath="$PROJECT_DIR$/web_examples/out/production/online_system/servers/GaiJuanServer.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/production/online_system/servers/LoginServer.class" afterPath="$PROJECT_DIR$/web_examples/out/production/online_system/servers/LoginServer.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/production/online_system/servers/TikuServer.class" afterPath="$PROJECT_DIR$/web_examples/out/production/online_system/servers/TikuServer.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/out/production/online_system/servers/ZhuceServer.class" afterPath="$PROJECT_DIR$/web_examples/out/production/online_system/servers/ZhuceServer.class" />
+      <change beforePath="$PROJECT_DIR$/web_examples/web_examples.iml" afterPath="$PROJECT_DIR$/web_examples/web_examples.iml" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="10" />
+    <option name="y" value="44" />
+    <option name="width" value="1346" />
+    <option name="height" value="704" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="encryption" type="b2602c69:ProjectViewProjectNode" />
+              <item name="workspace_for_idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c4838b9-1f14-4207-a05b-a602cf3ce2fa" name="Default" comment="" />
+      <created>1513250061587</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1513250061587</updated>
+      <workItem from="1513250065780" duration="131000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="131000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="10" y="44" width="1346" height="704" extended-state="0" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962853" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

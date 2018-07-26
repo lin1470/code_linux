@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>javascript</title>
+    <script type="text/javascript">
+        function move(){
+            document.write("<table width='500' height='400' border='2'>");
+            for(var i=1;i<=9;i++){
+                document.write("<tr>");
+                for(var j=1;j<=i;j++){
+                    document.write("<td align='center'>");
+                    document.write(i+"*"+j+"="+i*j);
+                    document.write("</td>");
+                }
+                document.write("</tr>");
+            }
+            document.write("</table>");
+        }
+        document.write("<h1>你懂的九九乘法表</h1>");
+        move();
+    </script>
+</head>
+<body>
+
+</body>
+</html>

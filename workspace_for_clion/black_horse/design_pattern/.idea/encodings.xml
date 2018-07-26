@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/01 外观模式.cpp" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/01 面向对象设计原则-依赖倒转原则.cpp" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/01 面向对象设计原则-开闭原则.cpp" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/02 简单工厂模式.cpp" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/02 适配器模式.cpp" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/02 面向对象设计原则-迪米特法则cpp.cpp" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/03 工厂方法模式.cpp" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/03 模板方法模式.cpp" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/03 面向对象设计原则-合成复用原则.cpp" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/04 抽象工厂模式.cpp" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/04 策略模式.cpp" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/05 单例模式.cpp" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/05 命令模式.cpp" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/07 代理模式.cpp" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/07 装饰模式.cpp" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/07 观察者模式.cpp" charset="GB2312" />
+  </component>
+</project>

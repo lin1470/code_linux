@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1480402607 source:d:\codeblocks_runing_workspace\compare_str\main.cpp
+	<stdio.h>
+	<string.h>
+

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>index_of_ajax</title>
+    <script language="javascript" type="text/javascript">
+        var XmlHttp;
+        function createXMLHttpRequest() {
+            //在IE下创建XMLHTTPRequest对象
+            try {
+                XmlHttp = new ActiveXObject("Msxml2.XMLHTTP");
+            } catch (e) {
+                try {
+                    XmlHttp = new ActiveXObject("Microsoft.XMLHTTP");
+                } catch (oc) {
+                    XmlHttp = null;
+                }
+            }
+            //在Mozilla和Safari等非IE浏览器下创建XMLHTTPRequest对象
+            if (!XmlHttp && typeof XMLHttpRequest != "undefined") {
+                XmlHttp = new XMLHttpRequest();
+            }
+            if (!XmlHttp)
+                alert("XMLHttpRequest对象创建失败。");
+            return XmlHttp;
+        }
+        function send(){
+            var url="number_own.jsp";
+            createXMLHttpRequest();//创建一个createMLHttpRequest的对象
+            XmlHttp.onreadystatechange=handleStateChange();
+            XmlHttp.open("GET",url,true);
+            XmlHttp.send(null);
+
+        }
+        function handleStateChange(){
+            if(XmlHttp.readyState==4){
+                if(XmlHttp.status==200){
+                    $("code").innerHTML=XmlHttp.responseText;
+                }
+            }
+        }
+        function $(id) {
+            return document.getElementById(id);
+        }
+    </script>
+</head>
+<body>
+<span id="code">hh</span>
+<a href="#" onclick="send();">刷新</a>
+<br>
+</body>
+</html>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="GB2312">
+    <file url="file://$PROJECT_DIR$/src/awt/FrameTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/awt/PanelTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/awt/ScrollPaneTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/awt/awt11_5/MultiListener.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/awt/awt11_5/WindowListenerTest.java" charset="ISO-2022-CN" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

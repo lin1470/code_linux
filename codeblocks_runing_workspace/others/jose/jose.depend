@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1491721368 source:d:\codeblocks_runing_workspace\jose\main.cpp
+	<stdio.h>
+	<malloc.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+

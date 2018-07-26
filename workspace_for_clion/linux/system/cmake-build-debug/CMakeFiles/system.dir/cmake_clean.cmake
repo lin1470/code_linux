@@ -1,0 +1,40 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/system.dir/main.cpp.o"
+  "CMakeFiles/system.dir/day06/process_file.cpp.o"
+  "CMakeFiles/system.dir/day06/multi_process.cpp.o"
+  "CMakeFiles/system.dir/day06/pipe.cpp.o"
+  "CMakeFiles/system.dir/day06/pipe2.cpp.o"
+  "CMakeFiles/system.dir/day06/fpath.conf.cpp.o"
+  "CMakeFiles/system.dir/day06/nmap.cpp.o"
+  "CMakeFiles/system.dir/day06/parent_child_mmap.cpp.o"
+  "CMakeFiles/system.dir/day06/anon_mmap.cpp.o"
+  "CMakeFiles/system.dir/day06/mmap_r_ipc.cpp.o"
+  "CMakeFiles/system.dir/day06/mmap_w_ipc.cpp.o"
+  "CMakeFiles/system.dir/signal/kill.cpp.o"
+  "CMakeFiles/system.dir/signal/raise.cpp.o"
+  "CMakeFiles/system.dir/signal/alarm.cpp.o"
+  "CMakeFiles/system.dir/signal/alarm_num.cpp.o"
+  "CMakeFiles/system.dir/signal/settitimer.cpp.o"
+  "CMakeFiles/system.dir/signal/signal_set.cpp.o"
+  "CMakeFiles/system.dir/signal/signal.cpp.o"
+  "CMakeFiles/system.dir/demon/setsid.cpp.o"
+  "CMakeFiles/system.dir/demon/process_work.cpp.o"
+  "CMakeFiles/system.dir/thread/pthread_create.cpp.o"
+  "CMakeFiles/system.dir/thread/loop_pthread_create.c.o"
+  "CMakeFiles/system.dir/thread/hh.c.o"
+  "CMakeFiles/system.dir/thread/pthread_exit.c.o"
+  "CMakeFiles/system.dir/thread/phtead_join.c.o"
+  "CMakeFiles/system.dir/thread/pthread_attr.c.o"
+  "CMakeFiles/system.dir/thread/pthread_uncle.c.o"
+  "CMakeFiles/system.dir/thread/pthread_uncle_mutex.c.o"
+  "CMakeFiles/system.dir/thread/rwlock.c.o"
+  "CMakeFiles/system.dir/thread/condition.c.o"
+  "CMakeFiles/system.dir/thread/people.dine.c.o"
+  "system.pdb"
+  "system"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C CXX)
+  include(CMakeFiles/system.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/CIA.dir/algorithm.cpp.o  -o CIA 
