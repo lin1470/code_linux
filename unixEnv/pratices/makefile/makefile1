@@ -1,0 +1,10 @@
+objects = helloadd.o add.o \
+		 sub.o
+hello : $(objects)
+	gcc -o hello $(objects)
+
+$(objects) : sub.h add.h
+
+.PHONY : clean
+clean:
+	rm -f  hello $(objects)

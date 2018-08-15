@@ -1,0 +1,12 @@
+#include <stdio.h>
+#include "add.h"
+#include "sub.h"
+int main()
+{
+    int result;
+    result = add(1,2);
+    printf("helladd the result is %d\n",result);
+    printf("the result of the sub is %d\n",sub(1-2));
+    return 0;
+}
+
