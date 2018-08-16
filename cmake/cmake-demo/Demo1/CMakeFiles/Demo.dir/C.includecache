@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bruce/code/code_linux-master/unixEnv/pratices/cmake/cmake-demo/Demo1/main.c
+stdio.h
+-
+stdlib.h
+-
+
