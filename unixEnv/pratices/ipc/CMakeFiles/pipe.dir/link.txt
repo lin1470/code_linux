@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/pipe.dir/popen.c.o  -o pipe -rdynamic cassdk.out/libapue.a 

@@ -6,5 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/home/bruce/code/code_linux-master/unixEnv/pratices/cmake/cmake-demo/Demo3/math/MathFunctions.cc
+/home/bruce/code/code_linux-master/cmake/cmake-demo/Demo3/math/MathFunctions.cc
+MathFunctions.h
+/home/bruce/code/code_linux-master/cmake/cmake-demo/Demo3/math/MathFunctions.h
+
+/home/bruce/code/code_linux-master/cmake/cmake-demo/Demo3/math/MathFunctions.h
 

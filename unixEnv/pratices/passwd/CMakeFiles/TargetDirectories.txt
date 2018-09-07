@@ -1,0 +1,6 @@
+/home/bruce/code/code_linux-master/unixEnv/pratices/passwd/CMakeFiles/rebuild_cache.dir
+/home/bruce/code/code_linux-master/unixEnv/pratices/passwd/CMakeFiles/out.dir
+/home/bruce/code/code_linux-master/unixEnv/pratices/passwd/CMakeFiles/edit_cache.dir
+/home/bruce/code/code_linux-master/unixEnv/pratices/passwd/cassdk.out/CMakeFiles/rebuild_cache.dir
+/home/bruce/code/code_linux-master/unixEnv/pratices/passwd/cassdk.out/CMakeFiles/apue.dir
+/home/bruce/code/code_linux-master/unixEnv/pratices/passwd/cassdk.out/CMakeFiles/edit_cache.dir

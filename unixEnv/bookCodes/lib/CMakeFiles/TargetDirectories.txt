@@ -1,0 +1,3 @@
+/home/bruce/code/code_linux-master/unixEnv/bookCodes/lib/CMakeFiles/edit_cache.dir
+/home/bruce/code/code_linux-master/unixEnv/bookCodes/lib/CMakeFiles/rebuild_cache.dir
+/home/bruce/code/code_linux-master/unixEnv/bookCodes/lib/CMakeFiles/apue.dir

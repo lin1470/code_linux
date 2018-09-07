@@ -1,0 +1,3 @@
+/home/bruce/code/code_linux-master/cmake/cmake-demo/Demo3/math/CMakeFiles/edit_cache.dir
+/home/bruce/code/code_linux-master/cmake/cmake-demo/Demo3/math/CMakeFiles/rebuild_cache.dir
+/home/bruce/code/code_linux-master/cmake/cmake-demo/Demo3/math/CMakeFiles/MathFunctions.dir

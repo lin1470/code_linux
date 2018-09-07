@@ -6,13 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/home/bruce/code/code_linux-master/unixEnv/pratices/cmake/cmake-demo/Demo3/main.cc
+/home/bruce/code/code_linux-master/cmake/cmake-demo/Demo3/main.cc
 stdio.h
 -
 stdlib.h
 -
 math/MathFunctions.h
-/home/bruce/code/code_linux-master/unixEnv/pratices/cmake/cmake-demo/Demo3/math/MathFunctions.h
+/home/bruce/code/code_linux-master/cmake/cmake-demo/Demo3/math/MathFunctions.h
 
-/home/bruce/code/code_linux-master/unixEnv/pratices/cmake/cmake-demo/Demo3/math/MathFunctions.h
+/home/bruce/code/code_linux-master/cmake/cmake-demo/Demo3/math/MathFunctions.h
 

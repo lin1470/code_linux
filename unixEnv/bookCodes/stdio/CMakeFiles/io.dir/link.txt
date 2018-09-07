@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/io.dir/fgetsfputs.c.o  -o io -rdynamic cassdk.out/libapue.a 

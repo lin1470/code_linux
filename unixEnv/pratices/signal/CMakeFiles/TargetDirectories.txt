@@ -1,0 +1,6 @@
+/home/bruce/code/code_linux-master/unixEnv/pratices/signal/CMakeFiles/rebuild_cache.dir
+/home/bruce/code/code_linux-master/unixEnv/pratices/signal/CMakeFiles/out.dir
+/home/bruce/code/code_linux-master/unixEnv/pratices/signal/CMakeFiles/edit_cache.dir
+/home/bruce/code/code_linux-master/unixEnv/pratices/signal/cassdk.out/CMakeFiles/rebuild_cache.dir
+/home/bruce/code/code_linux-master/unixEnv/pratices/signal/cassdk.out/CMakeFiles/apue.dir
+/home/bruce/code/code_linux-master/unixEnv/pratices/signal/cassdk.out/CMakeFiles/edit_cache.dir

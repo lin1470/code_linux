@@ -1,4 +1,4 @@
-#include "apue.h"
+#include "../lib/apue.h"
 
 void	pr_stdio(const char *, FILE *);
 int		is_unbuffered(FILE *);

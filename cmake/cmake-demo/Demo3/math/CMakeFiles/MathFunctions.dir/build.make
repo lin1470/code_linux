@@ -43,72 +43,72 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/bruce/code/code_linux-master/unixEnv/pratices/cmake/cmake-demo/Demo3
+CMAKE_SOURCE_DIR = /home/bruce/code/code_linux-master/cmake/cmake-demo/Demo3/math
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/bruce/code/code_linux-master/unixEnv/pratices/cmake/cmake-demo/Demo3
+CMAKE_BINARY_DIR = /home/bruce/code/code_linux-master/cmake/cmake-demo/Demo3/math
 
 # Include any dependencies generated for this target.
-include math/CMakeFiles/MathFunctions.dir/depend.make
+include CMakeFiles/MathFunctions.dir/depend.make
 
 # Include the progress variables for this target.
-include math/CMakeFiles/MathFunctions.dir/progress.make
+include CMakeFiles/MathFunctions.dir/progress.make
 
 # Include the compile flags for this target's objects.
-include math/CMakeFiles/MathFunctions.dir/flags.make
+include CMakeFiles/MathFunctions.dir/flags.make
 
-math/CMakeFiles/MathFunctions.dir/MathFunctions.cc.o: math/CMakeFiles/MathFunctions.dir/flags.make
-math/CMakeFiles/MathFunctions.dir/MathFunctions.cc.o: math/MathFunctions.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/bruce/code/code_linux-master/unixEnv/pratices/cmake/cmake-demo/Demo3/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object math/CMakeFiles/MathFunctions.dir/MathFunctions.cc.o"
-	cd /home/bruce/code/code_linux-master/unixEnv/pratices/cmake/cmake-demo/Demo3/math && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/MathFunctions.dir/MathFunctions.cc.o -c /home/bruce/code/code_linux-master/unixEnv/pratices/cmake/cmake-demo/Demo3/math/MathFunctions.cc
+CMakeFiles/MathFunctions.dir/MathFunctions.o: CMakeFiles/MathFunctions.dir/flags.make
+CMakeFiles/MathFunctions.dir/MathFunctions.o: MathFunctions.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/bruce/code/code_linux-master/cmake/cmake-demo/Demo3/math/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/MathFunctions.dir/MathFunctions.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/MathFunctions.dir/MathFunctions.o -c /home/bruce/code/code_linux-master/cmake/cmake-demo/Demo3/math/MathFunctions.cc
 
-math/CMakeFiles/MathFunctions.dir/MathFunctions.cc.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MathFunctions.dir/MathFunctions.cc.i"
-	cd /home/bruce/code/code_linux-master/unixEnv/pratices/cmake/cmake-demo/Demo3/math && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/bruce/code/code_linux-master/unixEnv/pratices/cmake/cmake-demo/Demo3/math/MathFunctions.cc > CMakeFiles/MathFunctions.dir/MathFunctions.cc.i
+CMakeFiles/MathFunctions.dir/MathFunctions.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MathFunctions.dir/MathFunctions.i"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/bruce/code/code_linux-master/cmake/cmake-demo/Demo3/math/MathFunctions.cc > CMakeFiles/MathFunctions.dir/MathFunctions.i
 
-math/CMakeFiles/MathFunctions.dir/MathFunctions.cc.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MathFunctions.dir/MathFunctions.cc.s"
-	cd /home/bruce/code/code_linux-master/unixEnv/pratices/cmake/cmake-demo/Demo3/math && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/bruce/code/code_linux-master/unixEnv/pratices/cmake/cmake-demo/Demo3/math/MathFunctions.cc -o CMakeFiles/MathFunctions.dir/MathFunctions.cc.s
+CMakeFiles/MathFunctions.dir/MathFunctions.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MathFunctions.dir/MathFunctions.s"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/bruce/code/code_linux-master/cmake/cmake-demo/Demo3/math/MathFunctions.cc -o CMakeFiles/MathFunctions.dir/MathFunctions.s
 
-math/CMakeFiles/MathFunctions.dir/MathFunctions.cc.o.requires:
+CMakeFiles/MathFunctions.dir/MathFunctions.o.requires:
 
-.PHONY : math/CMakeFiles/MathFunctions.dir/MathFunctions.cc.o.requires
+.PHONY : CMakeFiles/MathFunctions.dir/MathFunctions.o.requires
 
-math/CMakeFiles/MathFunctions.dir/MathFunctions.cc.o.provides: math/CMakeFiles/MathFunctions.dir/MathFunctions.cc.o.requires
-	$(MAKE) -f math/CMakeFiles/MathFunctions.dir/build.make math/CMakeFiles/MathFunctions.dir/MathFunctions.cc.o.provides.build
-.PHONY : math/CMakeFiles/MathFunctions.dir/MathFunctions.cc.o.provides
+CMakeFiles/MathFunctions.dir/MathFunctions.o.provides: CMakeFiles/MathFunctions.dir/MathFunctions.o.requires
+	$(MAKE) -f CMakeFiles/MathFunctions.dir/build.make CMakeFiles/MathFunctions.dir/MathFunctions.o.provides.build
+.PHONY : CMakeFiles/MathFunctions.dir/MathFunctions.o.provides
 
-math/CMakeFiles/MathFunctions.dir/MathFunctions.cc.o.provides.build: math/CMakeFiles/MathFunctions.dir/MathFunctions.cc.o
+CMakeFiles/MathFunctions.dir/MathFunctions.o.provides.build: CMakeFiles/MathFunctions.dir/MathFunctions.o
 
 
 # Object files for target MathFunctions
 MathFunctions_OBJECTS = \
-"CMakeFiles/MathFunctions.dir/MathFunctions.cc.o"
+"CMakeFiles/MathFunctions.dir/MathFunctions.o"
 
 # External object files for target MathFunctions
 MathFunctions_EXTERNAL_OBJECTS =
 
-math/libMathFunctions.a: math/CMakeFiles/MathFunctions.dir/MathFunctions.cc.o
-math/libMathFunctions.a: math/CMakeFiles/MathFunctions.dir/build.make
-math/libMathFunctions.a: math/CMakeFiles/MathFunctions.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/bruce/code/code_linux-master/unixEnv/pratices/cmake/cmake-demo/Demo3/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX static library libMathFunctions.a"
-	cd /home/bruce/code/code_linux-master/unixEnv/pratices/cmake/cmake-demo/Demo3/math && $(CMAKE_COMMAND) -P CMakeFiles/MathFunctions.dir/cmake_clean_target.cmake
-	cd /home/bruce/code/code_linux-master/unixEnv/pratices/cmake/cmake-demo/Demo3/math && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/MathFunctions.dir/link.txt --verbose=$(VERBOSE)
+libMathFunctions.a: CMakeFiles/MathFunctions.dir/MathFunctions.o
+libMathFunctions.a: CMakeFiles/MathFunctions.dir/build.make
+libMathFunctions.a: CMakeFiles/MathFunctions.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/bruce/code/code_linux-master/cmake/cmake-demo/Demo3/math/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX static library libMathFunctions.a"
+	$(CMAKE_COMMAND) -P CMakeFiles/MathFunctions.dir/cmake_clean_target.cmake
+	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/MathFunctions.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-math/CMakeFiles/MathFunctions.dir/build: math/libMathFunctions.a
+CMakeFiles/MathFunctions.dir/build: libMathFunctions.a
 
-.PHONY : math/CMakeFiles/MathFunctions.dir/build
+.PHONY : CMakeFiles/MathFunctions.dir/build
 
-math/CMakeFiles/MathFunctions.dir/requires: math/CMakeFiles/MathFunctions.dir/MathFunctions.cc.o.requires
+CMakeFiles/MathFunctions.dir/requires: CMakeFiles/MathFunctions.dir/MathFunctions.o.requires
 
-.PHONY : math/CMakeFiles/MathFunctions.dir/requires
+.PHONY : CMakeFiles/MathFunctions.dir/requires
 
-math/CMakeFiles/MathFunctions.dir/clean:
-	cd /home/bruce/code/code_linux-master/unixEnv/pratices/cmake/cmake-demo/Demo3/math && $(CMAKE_COMMAND) -P CMakeFiles/MathFunctions.dir/cmake_clean.cmake
-.PHONY : math/CMakeFiles/MathFunctions.dir/clean
+CMakeFiles/MathFunctions.dir/clean:
+	$(CMAKE_COMMAND) -P CMakeFiles/MathFunctions.dir/cmake_clean.cmake
+.PHONY : CMakeFiles/MathFunctions.dir/clean
 
-math/CMakeFiles/MathFunctions.dir/depend:
-	cd /home/bruce/code/code_linux-master/unixEnv/pratices/cmake/cmake-demo/Demo3 && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/bruce/code/code_linux-master/unixEnv/pratices/cmake/cmake-demo/Demo3 /home/bruce/code/code_linux-master/unixEnv/pratices/cmake/cmake-demo/Demo3/math /home/bruce/code/code_linux-master/unixEnv/pratices/cmake/cmake-demo/Demo3 /home/bruce/code/code_linux-master/unixEnv/pratices/cmake/cmake-demo/Demo3/math /home/bruce/code/code_linux-master/unixEnv/pratices/cmake/cmake-demo/Demo3/math/CMakeFiles/MathFunctions.dir/DependInfo.cmake --color=$(COLOR)
-.PHONY : math/CMakeFiles/MathFunctions.dir/depend
+CMakeFiles/MathFunctions.dir/depend:
+	cd /home/bruce/code/code_linux-master/cmake/cmake-demo/Demo3/math && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/bruce/code/code_linux-master/cmake/cmake-demo/Demo3/math /home/bruce/code/code_linux-master/cmake/cmake-demo/Demo3/math /home/bruce/code/code_linux-master/cmake/cmake-demo/Demo3/math /home/bruce/code/code_linux-master/cmake/cmake-demo/Demo3/math /home/bruce/code/code_linux-master/cmake/cmake-demo/Demo3/math/CMakeFiles/MathFunctions.dir/DependInfo.cmake --color=$(COLOR)
+.PHONY : CMakeFiles/MathFunctions.dir/depend
 

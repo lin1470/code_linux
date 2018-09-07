@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bruce/code/code_linux-master/unixEnv/bookCodes/lib/apue.h
+sys/types.h
+-
+sys/stat.h
+-
+sys/termios.h
+-
+sys/ioctl.h
+-
+stdio.h
+-
+stdlib.h
+-
+stddef.h
+-
+string.h
+-
+unistd.h
+-
+signal.h
+-
+
+/home/bruce/code/code_linux-master/unixEnv/bookCodes/stdio/fgetsfputs.c
+../lib/apue.h
+/home/bruce/code/code_linux-master/unixEnv/bookCodes/lib/apue.h
+

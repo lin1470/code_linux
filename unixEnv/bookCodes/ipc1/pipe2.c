@@ -47,7 +47,11 @@ main(int argc, char *argv[])
 				err_sys("dup2 error to stdin");
 			close(fd[0]);	/* don't need this after dup2 */
 		}
-
+        printf("sjdlkfjklsdjflsjdf\n");
+        printf("sjdlkfjklsdjflsjdf\n");
+        printf("sjdlkfjklsdjflsjdf\n");
+        printf("the fd[0] is %d\nthe STDIN_FILENO is \
+               %d\n",fd[0],STDIN_FILENO);
 		/* get arguments for execl() */
 		if ((pager = getenv("PAGER")) == NULL)
 			pager = DEF_PAGER;
@@ -56,8 +60,8 @@ main(int argc, char *argv[])
 		else
 			argv0 = pager;	/* no slash in pager */
 
-		if (execl(pager, argv0, (char *)0) < 0)
-			err_sys("execl error for %s", pager);
+		if (execlp("more", argv0, (char *)0) < 0)
+			err_sys("execlp error for %s", pager);
 	}
 	exit(0);
 }

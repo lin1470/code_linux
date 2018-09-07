@@ -1,3 +1,4 @@
+#include "MathFunctions.h"
 /**
  * power - Calculate the power of number.
  * @param base:	Base value.

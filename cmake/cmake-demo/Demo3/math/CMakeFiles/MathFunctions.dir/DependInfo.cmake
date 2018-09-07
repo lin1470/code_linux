@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/bruce/code/code_linux-master/unixEnv/pratices/cmake/cmake-demo/Demo3/math/MathFunctions.cc" "/home/bruce/code/code_linux-master/unixEnv/pratices/cmake/cmake-demo/Demo3/math/CMakeFiles/MathFunctions.dir/MathFunctions.cc.o"
+  "/home/bruce/code/code_linux-master/cmake/cmake-demo/Demo3/math/MathFunctions.cc" "/home/bruce/code/code_linux-master/cmake/cmake-demo/Demo3/math/CMakeFiles/MathFunctions.dir/MathFunctions.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
