@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1492063951 source:d:\codeblocks_runing_workspace\mos\main.cpp
-	<stdio.h>
-	<stdlib.h>
-	<string.h>
-	<conio.h>
-

@@ -1,3 +1,0 @@
-D:/ProgramFiles/workspaces/clion/algorithm/select_k/cmake-build-debug/CMakeFiles/select_k.dir
-D:/ProgramFiles/workspaces/clion/algorithm/select_k/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/ProgramFiles/workspaces/clion/algorithm/select_k/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,3 +1,0 @@
-"D:\Program Files\CLion 2018.1.1\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\socket2.dir/objects.a
-D:\PROGRA~1\CODEBL~2\MinGW\bin\ar.exe cr CMakeFiles\socket2.dir/objects.a @CMakeFiles\socket2.dir\objects1.rsp
-D:\PROGRA~1\CODEBL~2\MinGW\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\socket2.dir/objects.a -Wl,--no-whole-archive  -o socket2.exe -Wl,--out-implib,libsocket2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\socket2.dir\linklibs.rsp

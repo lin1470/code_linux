@@ -1,3 +1,0 @@
-"D:\ProgramFiles\CLion 2018.1.1\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\select_k.dir/objects.a
-D:\ProgramFiles\CodeBlocks\MinGW\bin\ar.exe cr CMakeFiles\select_k.dir/objects.a @CMakeFiles\select_k.dir\objects1.rsp
-D:\ProgramFiles\CodeBlocks\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\select_k.dir/objects.a -Wl,--no-whole-archive  -o select_k.exe -Wl,--out-implib,libselect_k.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\select_k.dir\linklibs.rsp

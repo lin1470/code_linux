@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1489236336 source:d:\codeblocks_runing_workspace\sport_system_yuan\main.cpp
-	<stdio.h>
-	<stdlib.h>
-	<string.h>
-	<math.h>
-	<windows.h>
-	<conio.h>
-
