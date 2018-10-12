@@ -1,0 +1,147 @@
+#include<stdlib.h>
+#include<stdio.h>
+#include<math.h>
+struct HastTable;
+struct ListNote;
+typedef struct HashTable *HashTbl;//指向哈希表的指针类型
+typedef struct ListNote *Position;//指针指向了节点地址
+typedef Position List;//这list也是一个指向节点地址的指针类型
+struct HashTable{
+    int TableSize;
+    Position *TheList;
+};
+
+struct ListNote{
+    int element;
+    Position next;
+};
+
+int Hash(int key,int tablesize);
+int NextPrime(int x);
+HashTbl InitalizeTable(int TableSize);
+void DestroyTable(HashTbl H);
+Position Find(int key,HashTbl H);
+void Insert(int key,HashTbl H);
+void Delete(int key,HashTbl H);
+
+
+int Hash(int key,int tablesize)
+{
+    return key%tablesize;
+}
+
+int NextPrime(int x)
+{//就是循环判断下一个质数是什么jjjjjjjj
+    int flag;
+    while(1){
+        flag = 0;
+        int i;
+        int n=0;
+        n = sqrt((double)x);
+        for(i=2;i<=n;i++){
+            if(x%i==0)
+            {
+                flag =1;
+                break;
+            }
+        }
+        if(flag ==0)
+            return x;
+        else x++;
+    }
+}
+
+HashTbl InitalizeTable(int TableSize)
+{
+    if(TableSize<=0)
+    {
+        printf("Invalid tablesize");
+        return NULL;
+    }
+    HashTbl table = (HashTbl)malloc(sizeof(struct HashTable));//创建哈希表
+    if(table ==NULL)
+        printf("failed malloc");
+    table->TableSize = NextPrime(TableSize);
+    table->TheList = (Position*)malloc(sizeof(List)*table->TableSize);
+    if(table->TheList ==NULL)
+        printf("failed malloc");
+    table->TheList[0] = (Position)malloc(table->TableSize*sizeof(struct ListNote));
+    if(table->TheList == NULL)
+        printf("failed malloc");
+    int i;
+    for(i = 0;i<table->TableSize;i++)
+    {
+        table->TheList[i] = table->TheList[0]+i;
+        table->TheList[i]->next = NULL;
+    }
+    return table;
+}
+
+Position Find(int key,HashTbl H)
+{
+    Position p;
+    List L = H->TheList[Hash(key,H->TableSize)];
+    p = L->next;
+    while(p!=NULL&&p->element!=key)
+        p = p->next;
+    if(p==NULL)
+        return L;
+    else return p;
+}
+
+void Insert(int key,HashTbl H)
+{
+    Position p,NewCell;
+    p = Find(key,H);
+    if(p->element!=key)
+    {
+        NewCell = (Position)malloc(sizeof(struct ListNote));
+        if(NewCell == NULL)
+        {
+            printf("malloc failed!\n");
+        }
+        else{
+            p = H->TheList[Hash(key,H->TableSize)];
+            NewCell->next = p->next;
+            p->next = NewCell;
+            NewCell->element = key;
+        }
+    }
+    else
+        printf("this value already exited!\n");
+}
+
+void Delete(int key,HashTbl H)
+{
+    Position p,NewCell;
+    p =Find(key,H);
+    if(p->element == key){
+        NewCell = H->TheList[Hash(key,H->TableSize)];
+        while(NewCell->next != p)
+            NewCell = NewCell->next;
+        NewCell->next = p->next;
+        free(p);
+    }
+    else printf("not this value!\n");
+}
+
+
+int main()
+{
+    HashTbl table = InitalizeTable(10);
+    Position p = NULL;
+    p = Find(10,table);
+    printf("%d\n",p->element);
+    Insert(55,table);
+    Insert(90,table);
+    Insert(35,table);
+    p =Find(55,table);
+    printf("%d\n",p->element);
+    p = Find(33,table);
+    Delete(33,table);
+    Delete(44,table);
+//    printf("%lf",sqrt(20.0));
+
+
+    return 0;
+}

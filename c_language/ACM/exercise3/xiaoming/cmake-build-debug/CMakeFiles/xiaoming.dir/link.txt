@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/xiaoming.dir/main.cpp.o  -o xiaoming 

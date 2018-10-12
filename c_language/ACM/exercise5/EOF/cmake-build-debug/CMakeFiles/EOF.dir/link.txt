@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/EOF.dir/main.cpp.o  -o EOF 

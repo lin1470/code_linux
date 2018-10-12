@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/fanka.dir/main.cpp.o  -o fanka 

@@ -1,0 +1,58 @@
+#include <iostream>
+using namespace std;
+#define maxn 101;
+int heap_size = 0;
+int length = 0;
+// 维护堆的过程
+void maxHeapfity(int A[],int i)
+{
+    printf("maxHeapfity(A,%d)\n",i);
+    for(int i = 1;i<=heap_size;i++)
+        cout << A[i]<< " ";
+    cout << endl;
+    int left = 2*i;
+    int right = 2*i+1;
+    int largest = i;
+    if(left <= heap_size && A[left]>A[i])
+        largest = left;
+    if(right <= heap_size && A[right]>A[largest])
+        largest = right;
+    if(largest != i){
+        printf("exchange %d with %d\n",A[i],A[largest]);
+        int temp = A[i];
+        A[i] = A[largest];
+        A[largest] = temp;
+        maxHeapfity(A,largest);
+    }
+}
+//建堆的过程
+void buildMaxHeap(int *A)
+{
+    heap_size = length;
+    for(int i = length/2;i>=1;i--)
+        maxHeapfity(A,i);
+}
+
+//排序算法
+
+void heapSort(int *A)
+{
+    buildMaxHeap(A);
+    for(int i = length;i>=2;i--){
+        printf("the max is %d\n",A[1]);
+        int temp = A[1];
+        A[1] = A[i];
+        A[i] = temp;
+        heap_size -= 1;
+        maxHeapfity(A,1);
+    }
+}
+int main() {
+    int A[] = {0,16,14,10,8,7,9,3,2,4,1};
+    length = 10;
+    heapSort(A);
+    for(int i =1;i<=length;i++){
+        printf("%d ",A[i]);
+    }
+    return 0;
+}

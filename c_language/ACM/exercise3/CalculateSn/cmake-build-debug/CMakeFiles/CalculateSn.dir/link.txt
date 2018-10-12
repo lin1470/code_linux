@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/CalculateSn.dir/main.cpp.o  -o CalculateSn 

@@ -1,6 +1,0 @@
-src = $(wildcard ./*.c)
-target = $(pastubst %.c, %.o,$(src))
-.PHONY:all
-all:
-	gcc hello.c -o hello
-

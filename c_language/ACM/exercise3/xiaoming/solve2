@@ -1,0 +1,29 @@
+#include<stdio.h>
+int trans(int a)
+{
+    int aa;
+    int flag=0;
+    if(a<0) {flag=1;a=-a;}
+    aa=0;
+    while(a)
+    {
+        aa=aa*10+a%10;
+        a=a/10;
+    }
+    if(flag) aa=-aa;
+    return aa;
+}
+int main()
+{
+    int aa,bb,a,b,x,y,t;
+    scanf("%d",&t);
+    while(t--)
+    {
+        scanf("%d %d",&x,&y);
+        a=(x+y)/2; b=(x-y)/2;
+        aa=trans(a);
+        bb=trans(b);
+        printf("%d %d\n",aa+bb,aa-bb);
+
+    }
+}

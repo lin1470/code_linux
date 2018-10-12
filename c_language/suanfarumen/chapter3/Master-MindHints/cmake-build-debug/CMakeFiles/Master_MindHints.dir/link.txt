@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Master_MindHints.dir/main.cpp.o  -o Master_MindHints 
