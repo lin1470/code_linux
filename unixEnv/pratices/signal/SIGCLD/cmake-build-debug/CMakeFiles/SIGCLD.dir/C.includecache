@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bruce/code_linux/unixEnv/pratices/signal/SIGCLD/main.c
+stdlib.h
+-
+stdio.h
+-
+zconf.h
+-
+signal.h
+-
+sys/wait.h
+-
+

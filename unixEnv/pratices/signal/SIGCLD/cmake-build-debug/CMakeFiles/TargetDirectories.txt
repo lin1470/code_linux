@@ -1,0 +1,3 @@
+/home/bruce/code_linux/unixEnv/pratices/signal/SIGCLD/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/bruce/code_linux/unixEnv/pratices/signal/SIGCLD/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/bruce/code_linux/unixEnv/pratices/signal/SIGCLD/cmake-build-debug/CMakeFiles/SIGCLD.dir
