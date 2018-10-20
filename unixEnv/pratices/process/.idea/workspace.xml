@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="false">
-    <generated />
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="process" targetName="process" />
+    </generated>
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="true">
     <configurations>
@@ -10,89 +12,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb86c919-54c5-47d4-a06d-c752be6464e3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/CMakeCache.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.5.1/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.5.1/CMakeCXXCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.5.1/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.5.1/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.5.1/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.5.1/CompilerIdC/a.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.5.1/CompilerIdCXX/a.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeFiles/CMakeOutput.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeFiles/Makefile.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeFiles/Makefile2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeFiles/cmake.check_cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeFiles/feature_tests.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeFiles/feature_tests.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeFiles/feature_tests.cxx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeFiles/out.dir/C.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeFiles/out.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeFiles/out.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeFiles/out.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeFiles/out.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeFiles/out.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeFiles/out.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeFiles/out.dir/fork.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeFiles/out.dir/link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeFiles/out.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeFiles/progress.marks" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cassdk.out/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cassdk.out/CMakeFiles/apue.dir/C.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cassdk.out/CMakeFiles/apue.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cassdk.out/CMakeFiles/apue.dir/Orecvfd.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cassdk.out/CMakeFiles/apue.dir/bufargs.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cassdk.out/CMakeFiles/apue.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cassdk.out/CMakeFiles/apue.dir/cliconn.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cassdk.out/CMakeFiles/apue.dir/clrfl.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cassdk.out/CMakeFiles/apue.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cassdk.out/CMakeFiles/apue.dir/cmake_clean_target.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cassdk.out/CMakeFiles/apue.dir/daemonize.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cassdk.out/CMakeFiles/apue.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cassdk.out/CMakeFiles/apue.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cassdk.out/CMakeFiles/apue.dir/error.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cassdk.out/CMakeFiles/apue.dir/errorlog.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cassdk.out/CMakeFiles/apue.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cassdk.out/CMakeFiles/apue.dir/link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cassdk.out/CMakeFiles/apue.dir/lockreg.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cassdk.out/CMakeFiles/apue.dir/locktest.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cassdk.out/CMakeFiles/apue.dir/nspipe.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cassdk.out/CMakeFiles/apue.dir/openmax.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cassdk.out/CMakeFiles/apue.dir/pathalloc.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cassdk.out/CMakeFiles/apue.dir/popen.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cassdk.out/CMakeFiles/apue.dir/prexit.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cassdk.out/CMakeFiles/apue.dir/prmask.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cassdk.out/CMakeFiles/apue.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cassdk.out/CMakeFiles/apue.dir/ptyfork.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cassdk.out/CMakeFiles/apue.dir/ptyopen.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cassdk.out/CMakeFiles/apue.dir/readn.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cassdk.out/CMakeFiles/apue.dir/recvfd.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cassdk.out/CMakeFiles/apue.dir/semaph.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cassdk.out/CMakeFiles/apue.dir/senderr.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cassdk.out/CMakeFiles/apue.dir/sendfd.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cassdk.out/CMakeFiles/apue.dir/servaccept.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cassdk.out/CMakeFiles/apue.dir/servlisten.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cassdk.out/CMakeFiles/apue.dir/setfd.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cassdk.out/CMakeFiles/apue.dir/setfl.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cassdk.out/CMakeFiles/apue.dir/signal.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cassdk.out/CMakeFiles/apue.dir/signalintr.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cassdk.out/CMakeFiles/apue.dir/sleep.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cassdk.out/CMakeFiles/apue.dir/sleepus.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cassdk.out/CMakeFiles/apue.dir/spipe.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cassdk.out/CMakeFiles/apue.dir/strerror.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cassdk.out/CMakeFiles/apue.dir/tellwait.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cassdk.out/CMakeFiles/apue.dir/ttymodes.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cassdk.out/CMakeFiles/apue.dir/writen.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cassdk.out/CMakeFiles/progress.marks" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cassdk.out/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cassdk.out/cmake_install.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cassdk.out/libapue.a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../signal/SIGCLD/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../signal/SIGCLD/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/envir.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setenv.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Project.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <ignored path="$PROJECT_DIR$/CMakeFiles/" />
@@ -102,47 +39,75 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FUSProjectUsageTrigger">
     <session id="-1349344720">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="Makefile" value="1" />
+          <entry key="c" value="2" />
           <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CMakeLists.txt" value="2" />
+          <entry key="ObjectiveC" value="2" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="txt" value="7" />
+          <entry key="c" value="970" />
+          <entry key="txt" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CMakeLists.txt" value="7" />
+          <entry key="CMakeLists.txt" value="24" />
+          <entry key="ObjectiveC" value="970" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/main.cpp">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/envir.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/setenv.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="139">
+              <caret line="32" column="37" lean-forward="true" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
+              <folding>
+                <element signature="e#39#57#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -171,7 +136,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/main.cpp" />
+        <option value="$PROJECT_DIR$/envir.c" />
         <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/setenv.c" />
       </list>
     </option>
   </component>
@@ -224,6 +192,22 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Application.process">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="process" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="process" TARGET_NAME="process" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="process" RUN_TARGET_NAME="process">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.process" />
+    </list>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -236,31 +220,34 @@
       <updated>1539832109865</updated>
       <workItem from="1539832111177" duration="135000" />
       <workItem from="1539832262734" duration="224000" />
+      <workItem from="1540003026192" duration="36000" />
+      <workItem from="1540003082663" duration="2666000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="359000" />
+    <option name="totallyTimeSpent" value="3061000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-6" width="1366" height="774" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25377643" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2613293" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.32973805" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32973805" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.6101695" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="CMake" order="11" visible="true" weight="0.32973805" />
+      <window_info anchor="bottom" id="CMake" order="11" weight="0.32973805" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -274,9 +261,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Makefile">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Makefile" />
     <entry file="file://$PROJECT_DIR$/fork.c">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
@@ -284,13 +269,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/envir.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setenv.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="32" column="37" lean-forward="true" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
+          <folding>
+            <element signature="e#39#57#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

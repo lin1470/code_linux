@@ -110,6 +110,46 @@ depend:
 	$(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
+#=============================================================================
+# Target rules for targets named process
+
+# Build rule for target.
+process: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 process
+.PHONY : process
+
+# fast build rule for target.
+process/fast:
+	$(MAKE) -f CMakeFiles/process.dir/build.make CMakeFiles/process.dir/build
+.PHONY : process/fast
+
+setenv.o: setenv.c.o
+
+.PHONY : setenv.o
+
+# target to build an object file
+setenv.c.o:
+	$(MAKE) -f CMakeFiles/process.dir/build.make CMakeFiles/process.dir/setenv.c.o
+.PHONY : setenv.c.o
+
+setenv.i: setenv.c.i
+
+.PHONY : setenv.i
+
+# target to preprocess a source file
+setenv.c.i:
+	$(MAKE) -f CMakeFiles/process.dir/build.make CMakeFiles/process.dir/setenv.c.i
+.PHONY : setenv.c.i
+
+setenv.s: setenv.c.s
+
+.PHONY : setenv.s
+
+# target to generate assembly for a file
+setenv.c.s:
+	$(MAKE) -f CMakeFiles/process.dir/build.make CMakeFiles/process.dir/setenv.c.s
+.PHONY : setenv.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -118,6 +158,10 @@ help:
 	@echo "... depend"
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
+	@echo "... process"
+	@echo "... setenv.o"
+	@echo "... setenv.i"
+	@echo "... setenv.s"
 .PHONY : help
 
 
