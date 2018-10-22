@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/dymatic_memory.dir/main.cpp.o  -o dymatic_memory 
