@@ -8,3 +8,7 @@
 //phpinfo();
 $a = 100;
 var_dump($a);
+$b = $a;
+$c = &$a;
+$c = "abc";
+echo $a,"~",$b,"~",$c;

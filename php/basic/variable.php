@@ -7,4 +7,9 @@
  */
 $a =100;
 var_dump($a);
-var_dump($_SERVER);
+echo "<br>";
+//var_dump($_SERVER);
+$b = $a;
+$c = &$a;
+$c = "abc";
+echo $a,"~",$b,"~",$c;
