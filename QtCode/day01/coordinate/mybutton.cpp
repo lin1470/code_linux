@@ -1,6 +1,11 @@
 #include "mybutton.h"
-
-myButton::myButton(QWidget *parent) : QWidget(parent)
+#include <QDebug>
+myButton::myButton(QWidget *parent) : QPushButton(parent)
 {
 
+}
+
+myButton::~myButton()
+{
+    qDebug() << "我的按钮被释放了";
 }

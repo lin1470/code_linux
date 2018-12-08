@@ -16,7 +16,7 @@
 	<?php if($file['filename'] == '.' || $file['filename'] == '..') continue;?>
     <tr>
         <td><?php echo $index++;?></td>
-        <td><?php echo str_repeat('----',$file['level'] * 2),$file['filename'];?></td>
+        <td><?php echo str_repeat('----',$file['level'] ),$file['filename'];?></td>
         <td><?php echo $file['is_dir'] ? '文件夹' : '文件';?></td>
         <td>
         	<?php echo $file['is_dir'] ? "<a href='add.php?dir={$file['directory']}&file={$file['filename']}'>新增</a> | ": ''?>

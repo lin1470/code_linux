@@ -2,9 +2,9 @@
 <project version="4">
   <component name="PhpIncludePathManager">
     <include_path>
-      <path value="$USER_HOME$/drupal/drupal-7.60/includes" />
-      <path value="$USER_HOME$/drupal/drupal-7.60/modules" />
-      <path value="$USER_HOME$/drupal/drupal-7.60/sites/all/modules" />
+      <path value="$USER_HOME$/drupal/drupal" />
+      <path value="$USER_HOME$/drupal/drupal" />
+      <path value="$USER_HOME$/drupal/drupal" />
     </include_path>
   </component>
 </project>

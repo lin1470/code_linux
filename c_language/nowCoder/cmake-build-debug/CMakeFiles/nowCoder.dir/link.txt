@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/nowCoder.dir/main.cpp.o  -o nowCoder 

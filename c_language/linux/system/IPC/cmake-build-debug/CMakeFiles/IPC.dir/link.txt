@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/IPC.dir/fork_share_file.c.o  -o IPC 

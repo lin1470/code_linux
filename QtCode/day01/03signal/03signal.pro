@@ -31,3 +31,4 @@ SOURCES += \
 HEADERS += \
         mainwidget.h \
     subwidget.h
+CONFIG += C++11

@@ -11,5 +11,11 @@ SubWidget::SubWidget(QWidget *parent) : QWidget(parent)
 
 void SubWidget::sendSignal()
 {
+    /*
+     * 实际上发送信号的是子窗口的这个类
+     */i
     emit mySignal();
+
+    emit mySignal(4,"你好呀!");
+
 }

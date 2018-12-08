@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e5151664-8fa4-43d8-9c5f-4d157627fbab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day01/coor/coor.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day01/coor/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day01/coor/mywidget.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day01/coor/mywidget.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day01/coor/mywidget.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day01/coordinate/coordinate.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day01/coordinate/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day01/coordinate/mybutton.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day01/coordinate/mybutton.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day01/coordinate/mywidget.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day01/coordinate/mywidget.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day01/dialog/dialog.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day01/dialog/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day01/dialog/mainwindow.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day01/dialog/mainwindow.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day01/mainWindow/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day01/mainWindow/mainWindow.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day01/mainWindow/mainwindow.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day01/mainWindow/mainwindow.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/android/android.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/android/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/android/mainwindow.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/android/mainwindow.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/android/mainwindow.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/androidTest/androidTest.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/androidTest/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/androidTest/mainwindow.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/androidTest/mainwindow.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/androidTest/mainwindow.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/layouts/layouts.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/layouts/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/layouts/mainwindow.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/layouts/mainwindow.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/layouts/mainwindow.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/untitled/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/untitled/mainwindow.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/untitled/mainwindow.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/untitled/mainwindow.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/untitled/untitled.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/untitled1/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/untitled1/mainwindow.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/untitled1/mainwindow.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/untitled1/mainwindow.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/untitled1/untitled1.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/untitled2/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/untitled2/mainwindow.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/untitled2/mainwindow.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/untitled2/mainwindow.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/untitled2/untitled2.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/widgets/image.qrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/widgets/image/Frame.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/widgets/image/Luffy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/widgets/image/LuffyQ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/widgets/image/OnePiece.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/widgets/image/Sunny.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/widgets/image/butterfly.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/widgets/image/butterfly1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/widgets/image/down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/widgets/image/mario.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/widgets/image/sunny.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/widgets/image/up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/widgets/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/widgets/mainwindow.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/widgets/mainwindow.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/widgets/mainwindow.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/widgets/widgets.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c_language/linux/system/IPC/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c_language/linux/system/IPC/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c_language/linux/system/IPC/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c_language/linux/system/IPC/fork_share_file.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c_language/linux/system/process/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c_language/linux/system/process/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c_language/linux/system/process/loopCreate.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c_language/linux/system/process/processShare.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c_language/nowCoder/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c_language/nowCoder/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic/checkBox.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic/checkBox.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic/file1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic/file2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic/fileSystem/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic/fileSystem/delete.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic/fileSystem/dirfile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic/fileSystem/getfile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic/fileSystem/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic/fileSystem/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic/fileSystem/rename.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic/get.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/action_example/action_example.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/action_example/action_example.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/action_example/action_example.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/ajax_example/ajax_example.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/ajax_example/ajax_example.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/ajax_example/ajax_example.install" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/ajax_example/ajax_example.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/ajax_example/ajax_example.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/ajax_example/ajax_example.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/ajax_example/ajax_example_advanced.inc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/ajax_example/ajax_example_autocomplete.inc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/ajax_example/ajax_example_graceful_degradation.inc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/ajax_example/ajax_example_misc.inc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/ajax_example/ajax_example_node_form_alter.inc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/ajax_example/ajax_example_progressbar.inc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/batch_example/batch_example.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/batch_example/batch_example.install" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/batch_example/batch_example.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/batch_example/batch_example.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/block_example/block_example.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/block_example/block_example.install" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/block_example/block_example.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/block_example/block_example.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/cache_example/cache_example.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/cache_example/cache_example.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/cache_example/cache_example.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/contextual_links_example/contextual-links-example-object.tpl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/contextual_links_example/contextual_links_example.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/contextual_links_example/contextual_links_example.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/contextual_links_example/contextual_links_example.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/cron_example/cron_example.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/cron_example/cron_example.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/cron_example/cron_example.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/dbtng_example/dbtng_example.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/dbtng_example/dbtng_example.install" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/dbtng_example/dbtng_example.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/dbtng_example/dbtng_example.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/email_example/email_example.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/email_example/email_example.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/email_example/email_example.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/entity_example/entity_example.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/entity_example/entity_example.install" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/entity_example/entity_example.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/entity_example/entity_example.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples.index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/field_example/field_example.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/field_example/field_example.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/field_example/field_example.install" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/field_example/field_example.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/field_example/field_example.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/field_example/field_example.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/field_permission_example/field_permission_example.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/field_permission_example/field_permission_example.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/field_permission_example/field_permission_example.install" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/field_permission_example/field_permission_example.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/field_permission_example/tests/field_permission_example.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/file_example/file_example.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/file_example/file_example.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/file_example/file_example.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/file_example/file_example_session_streams.inc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/filter_example/filter_example.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/filter_example/filter_example.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/filter_example/filter_example.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/form_example/form_example.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/form_example/form_example.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/form_example/form_example.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/form_example/form_example_elements.inc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/form_example/form_example_states.inc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/form_example/form_example_tutorial.inc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/form_example/form_example_wizard.inc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/image_example/image_example.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/image_example/image_example.install" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/image_example/image_example.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/image_example/image_example.pages.inc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/image_example/image_example.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/js_example/accordion.tpl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/js_example/css/jsweights.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/js_example/js/black.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/js_example/js/blue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/js_example/js/brown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/js_example/js/green.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/js_example/js/purple.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/js_example/js/red.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/js_example/js_example.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/js_example/js_example.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/js_example/js_example.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/menu_example/menu_example.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/menu_example/menu_example.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/menu_example/menu_example.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/node_access_example/node_access_example.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/node_access_example/node_access_example.install" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/node_access_example/node_access_example.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/node_access_example/node_access_example.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/node_example/node_example.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/node_example/node_example.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/node_example/node_example.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/nodeapi_example/nodeapi_example.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/nodeapi_example/nodeapi_example.install" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/nodeapi_example/nodeapi_example.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/nodeapi_example/nodeapi_example.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/page_example/page_example.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/page_example/page_example.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/page_example/page_example.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/pager_example/pager_example.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/pager_example/pager_example.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/pager_example/pager_example.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/queue_example/queue_example.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/queue_example/queue_example.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/queue_example/queue_example.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/queue_example/queue_example.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/rdf_example/rdf_example.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/rdf_example/rdf_example.install" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/rdf_example/rdf_example.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/rdf_example/rdf_example.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/render_example/render_example.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/render_example/render_example.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/render_example/render_example.install" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/render_example/render_example.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/render_example/render_example.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/simpletest_example/simpletest_example.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/simpletest_example/simpletest_example.install" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/simpletest_example/simpletest_example.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/simpletest_example/simpletest_example.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/simpletest_example/tests/simpletest_example_test.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/simpletest_example/tests/simpletest_example_test.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/tabledrag_example/tabledrag_example.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/tabledrag_example/tabledrag_example.install" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/tabledrag_example/tabledrag_example.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/tabledrag_example/tabledrag_example.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/tabledrag_example/tabledrag_example_parent_form.inc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/tabledrag_example/tabledrag_example_simple_form.inc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/tablesort_example/tablesort_example.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/tablesort_example/tablesort_example.install" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/tablesort_example/tablesort_example.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/tablesort_example/tablesort_example.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/theming_example/theming-example-text-form.tpl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/theming_example/theming_example.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/theming_example/theming_example.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/theming_example/theming_example.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/theming_example/theming_example.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/token_example/token_example.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/token_example/token_example.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/token_example/token_example.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/token_example/token_example.tokens.inc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/trigger_example/trigger_example.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/trigger_example/trigger_example.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/trigger_example/trigger_example.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/vertical_tabs_example/vertical_tabs_example.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/vertical_tabs_example/vertical_tabs_example.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/vertical_tabs_example/vertical_tabs_example.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/vertical_tabs_example/vertical_tabs_example.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/xmlrpc_example/xmlrpc_example.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/xmlrpc_example/xmlrpc_example.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/xmlrpc_example/xmlrpc_example.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello/.idea/webServers.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QtCode/day01/03signal/03signal.pro" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtCode/day01/03signal/03signal.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QtCode/day01/03signal/03signal.pro.user" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtCode/day01/03signal/03signal.pro.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QtCode/day01/03signal/mainwidget.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtCode/day01/03signal/mainwidget.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QtCode/day01/03signal/mainwidget.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtCode/day01/03signal/mainwidget.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QtCode/day01/03signal/subwidget.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtCode/day01/03signal/subwidget.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QtCode/day01/03signal/subwidget.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtCode/day01/03signal/subwidget.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QtCode/day01/build-03signal-Desktop_Qt_5_10_0_GCC_64bit-Debug/03signal" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtCode/day01/build-03signal-Desktop_Qt_5_10_0_GCC_64bit-Debug/03signal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QtCode/day01/build-03signal-Desktop_Qt_5_10_0_GCC_64bit-Debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtCode/day01/build-03signal-Desktop_Qt_5_10_0_GCC_64bit-Debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QtCode/day01/build-03signal-Desktop_Qt_5_10_0_GCC_64bit-Debug/mainwidget.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtCode/day01/build-03signal-Desktop_Qt_5_10_0_GCC_64bit-Debug/mainwidget.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QtCode/day01/build-03signal-Desktop_Qt_5_10_0_GCC_64bit-Debug/moc_mainwidget.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtCode/day01/build-03signal-Desktop_Qt_5_10_0_GCC_64bit-Debug/moc_mainwidget.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QtCode/day01/build-03signal-Desktop_Qt_5_10_0_GCC_64bit-Debug/moc_mainwidget.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtCode/day01/build-03signal-Desktop_Qt_5_10_0_GCC_64bit-Debug/moc_mainwidget.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QtCode/day01/build-03signal-Desktop_Qt_5_10_0_GCC_64bit-Debug/moc_subwidget.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtCode/day01/build-03signal-Desktop_Qt_5_10_0_GCC_64bit-Debug/moc_subwidget.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QtCode/day01/build-03signal-Desktop_Qt_5_10_0_GCC_64bit-Debug/moc_subwidget.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtCode/day01/build-03signal-Desktop_Qt_5_10_0_GCC_64bit-Debug/moc_subwidget.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QtCode/day01/build-03signal-Desktop_Qt_5_10_0_GCC_64bit-Debug/subwidget.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtCode/day01/build-03signal-Desktop_Qt_5_10_0_GCC_64bit-Debug/subwidget.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../c_language/cprimer/dymatic_memory/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../c_language/cprimer/dymatic_memory/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../basic/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/.idea/deployment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/.idea/hello.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../basic/.idea/hello.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../basic/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../basic/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../basic/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../basic/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/.idea/webServers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/array.php" beforeDir="false" afterPath="$PROJECT_DIR$/../basic/array.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/const.php" beforeDir="false" afterPath="$PROJECT_DIR$/../basic/const.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/h.php" beforeDir="false" afterPath="$PROJECT_DIR$/../basic/h.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/hello.php" beforeDir="false" afterPath="$PROJECT_DIR$/../basic/hello.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/include1.php" beforeDir="false" afterPath="$PROJECT_DIR$/../basic/include1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/include2.php" beforeDir="false" afterPath="$PROJECT_DIR$/../basic/include2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/include3.php" beforeDir="false" afterPath="$PROJECT_DIR$/../basic/include3.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/include4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../basic/include4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/multiply.html" beforeDir="false" afterPath="$PROJECT_DIR$/../basic/multiply.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/multiply1.php" beforeDir="false" afterPath="$PROJECT_DIR$/../basic/multiply1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/multiply2.php" beforeDir="false" afterPath="$PROJECT_DIR$/../basic/multiply2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/string.php" beforeDir="false" afterPath="$PROJECT_DIR$/../basic/string.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/variable.php" beforeDir="false" afterPath="$PROJECT_DIR$/../basic/variable.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unixEnv/pratices/process/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../unixEnv/pratices/process/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DrupalConfiguration" enabled="true" version="7">
+    <drupalPath>$USER_HOME$/drupal/drupal-7.60</drupalPath>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1774647739">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.17" value="2" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.opened" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="inc" value="620" />
+          <entry key="info" value="306" />
+          <entry key="install" value="527" />
+          <entry key="module" value="1324" />
+          <entry key="test" value="72" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PHP" value="2471" />
+          <entry key="PLAIN_TEXT" value="378" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="inc" value="7" />
+          <entry key="info" value="8" />
+          <entry key="install" value="3" />
+          <entry key="module" value="15" />
+          <entry key="test" value="1" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PHP" value="25" />
+          <entry key="PLAIN_TEXT" value="10" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="true" current-in-tab="false">
+        <entry file="remoteDeploymentFS://&lt;4e8cd268-7f66-4165-84b7-4101e05b62cf&gt;/modules/custom/current_posts/current_posts.info">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="true" current-in-tab="false">
+        <entry file="remoteDeploymentFS://&lt;4e8cd268-7f66-4165-84b7-4101e05b62cf&gt;/modules/custom/current_posts/current_posts.module">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="19" column="66" selection-start-line="19" selection-start-column="66" selection-end-line="19" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/examples/email_example/email_example.module">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="62" column="12" selection-start-line="62" selection-start-column="12" selection-end-line="62" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="&lt;4e8cd268-7f66-4165-84b7-4101e05b62cf&gt;/var/www/html/drupal/sites/all/modules/custom/cronmonitor/cronmonitor.module" />
+        <option value="&lt;4e8cd268-7f66-4165-84b7-4101e05b62cf&gt;/var/www/html/drupal/sites/all/modules/custom/annotate/annotate.admin.inc" />
+        <option value="&lt;4e8cd268-7f66-4165-84b7-4101e05b62cf&gt;/root/drupal/sites/all/modules/custom/annotate/annotate.install" />
+        <option value="$PROJECT_DIR$/drupal.module" />
+        <option value="&lt;4e8cd268-7f66-4165-84b7-4101e05b62cf&gt;/root/drupal/sites/all/modules/custom/cronmonitor/cronmonitor.module" />
+        <option value="$PROJECT_DIR$/examples/cron_example/cron_example.info" />
+        <option value="&lt;4e8cd268-7f66-4165-84b7-4101e05b62cf&gt;/var/www/html/drupal/sites/all/modules/custom/form_example/form_example.install" />
+        <option value="&lt;4e8cd268-7f66-4165-84b7-4101e05b62cf&gt;/var/www/html/drupal/sites/all/modules/custom/form_example/form_example.module" />
+        <option value="&lt;4e8cd268-7f66-4165-84b7-4101e05b62cf&gt;/var/www/html/drupal/sites/all/modules/custom/form_example/form_example.info" />
+        <option value="&lt;4e8cd268-7f66-4165-84b7-4101e05b62cf&gt;/var/www/html/drupal/sites/all/modules/custom/cronmonitor/cronmonitor.info" />
+        <option value="&lt;4e8cd268-7f66-4165-84b7-4101e05b62cf&gt;/var/www/html/drupal/sites/all/modules/custom/hello/hello.module" />
+        <option value="&lt;4e8cd268-7f66-4165-84b7-4101e05b62cf&gt;/var/www/html/drupal/sites/all/modules/custom/hello/hello.info" />
+        <option value="&lt;4e8cd268-7f66-4165-84b7-4101e05b62cf&gt;/var/www/html/drupal/sites/all/modules/custom/form_example1/form_example1.install" />
+        <option value="&lt;4e8cd268-7f66-4165-84b7-4101e05b62cf&gt;/modules/custom/current_posts/current_posts.info" />
+        <option value="&lt;4e8cd268-7f66-4165-84b7-4101e05b62cf&gt;/modules/custom/current_posts/current_posts.module" />
+        <option value="$PROJECT_DIR$/examples/email_example/email_example.module" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2">
+    <include_path>
+      <path value="$USER_HOME$/drupal/drupal" />
+      <path value="$USER_HOME$/drupal/drupal" />
+      <path value="$USER_HOME$/drupal/drupal" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="475" />
+    <option name="y" value="72" />
+    <option name="width" value="814" />
+    <option name="height" value="696" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="drupal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="drupal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="drupal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="drupal" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="drupal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="drupal" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+              <item name="email_example" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/drupal/drupal" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="drupal" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.drupal" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5151664-8fa4-43d8-9c5f-4d157627fbab" name="Default Changelist" comment="" />
+      <created>1541565191603</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541565191603</updated>
+      <workItem from="1541565192958" duration="813000" />
+      <workItem from="1541728897729" duration="5000" />
+      <workItem from="1541989232513" duration="1139000" />
+      <workItem from="1541992298413" duration="446000" />
+      <workItem from="1541992779400" duration="664000" />
+      <workItem from="1542018914875" duration="8149000" />
+      <workItem from="1542197961935" duration="4056000" />
+      <workItem from="1544013017872" duration="5746000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="drupal - 2018.12.06 at 10h 25m 16s.xml">
+      <configuration name="drupal" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="21018000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1366" height="768" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17371601" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32868218" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.1767442" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="File Transfer" order="12" weight="0.0883721" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" visible="true" weight="0.12688822" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32901555" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/drupal.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/cron_example/cron_example.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drupal.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/cron_example/cron_example.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/form_example/form_example.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="188" selection-start-line="188" selection-end-line="188" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/form_example/form_example.info">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/form_example/form_example.test">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1296">
+          <caret line="72" selection-start-line="72" selection-end-line="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/form_example/form_example_elements.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1458">
+          <caret line="109" selection-start-line="109" selection-end-line="109" />
+          <folding>
+            <element signature="e#7#1452#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/form_example/form_example_states.inc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/form_example/form_example_tutorial.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1386">
+          <caret line="87" selection-start-line="87" selection-end-line="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/form_example/form_example_wizard.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1152">
+          <caret line="106" column="31" selection-start-line="106" selection-start-column="31" selection-end-line="106" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/email_example/email_example.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="62" column="12" selection-start-line="62" selection-start-column="12" selection-end-line="62" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

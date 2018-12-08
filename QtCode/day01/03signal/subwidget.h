@@ -3,6 +3,7 @@
 
 #include <QWidget>
 #include <QPushButton>
+#include <QString>
 class SubWidget : public QWidget
 {
     Q_OBJECT
@@ -11,6 +12,7 @@ public:
 
 signals:
     void mySignal();
+    void mySignal(int,QString);
 public slots:
     void sendSignal();
 private:

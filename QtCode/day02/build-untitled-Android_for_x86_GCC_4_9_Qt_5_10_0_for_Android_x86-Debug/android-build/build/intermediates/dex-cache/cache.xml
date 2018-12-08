@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/bruce/code_linux/QtCode/day02/build-untitled-Android_for_x86_GCC_4_9_Qt_5_10_0_for_Android_x86-Debug/android-build/libs/QtAndroid-bundled.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="a651fa57e6cb549bae47efc6e03a3c915c254fb3">
+        <dex dex="/home/bruce/code_linux/QtCode/day02/build-untitled-Android_for_x86_GCC_4_9_Qt_5_10_0_for_Android_x86-Debug/android-build/build/intermediates/pre-dexed/debug/QtAndroid-bundled_50cddb2f5d9c52ee6646824f054797ba2ef299e1.jar" />
+    </item>
+
+</items>

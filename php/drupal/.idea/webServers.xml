@@ -3,7 +3,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="4e8cd268-7f66-4165-84b7-4101e05b62cf" name="aliyun" url="http://120.77.37.117">
-        <fileTransfer host="http://120.77.37.117" port="22" accessType="SFTP">
+        <fileTransfer host="120.77.37.117" port="22" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
           </advancedOptions>

@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="nowCoder" targetName="nowCoder" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f7d9a4bc-7657-4c99-b8a2-42a75850ed28" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day01/coor/coor.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day01/coor/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day01/coor/mywidget.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day01/coor/mywidget.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day01/coor/mywidget.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day01/coordinate/coordinate.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day01/coordinate/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day01/coordinate/mybutton.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day01/coordinate/mybutton.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day01/coordinate/mywidget.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day01/coordinate/mywidget.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day01/dialog/dialog.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day01/dialog/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day01/dialog/mainwindow.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day01/dialog/mainwindow.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day01/mainWindow/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day01/mainWindow/mainWindow.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day01/mainWindow/mainwindow.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day01/mainWindow/mainwindow.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/android/android.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/android/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/android/mainwindow.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/android/mainwindow.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/android/mainwindow.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/androidTest/androidTest.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/androidTest/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/androidTest/mainwindow.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/androidTest/mainwindow.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/androidTest/mainwindow.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/layouts/layouts.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/layouts/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/layouts/mainwindow.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/layouts/mainwindow.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/layouts/mainwindow.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/untitled/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/untitled/mainwindow.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/untitled/mainwindow.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/untitled/mainwindow.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/untitled/untitled.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/untitled1/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/untitled1/mainwindow.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/untitled1/mainwindow.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/untitled1/mainwindow.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/untitled1/untitled1.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/untitled2/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/untitled2/mainwindow.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/untitled2/mainwindow.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/untitled2/mainwindow.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/untitled2/untitled2.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/widgets/image.qrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/widgets/image/Frame.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/widgets/image/Luffy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/widgets/image/LuffyQ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/widgets/image/OnePiece.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/widgets/image/Sunny.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/widgets/image/butterfly.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/widgets/image/butterfly1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/widgets/image/down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/widgets/image/mario.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/widgets/image/sunny.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/widgets/image/up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/widgets/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/widgets/mainwindow.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/widgets/mainwindow.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/widgets/mainwindow.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QtCode/day02/widgets/widgets.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../php/basic/file1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QtCode/day01/03signal/03signal.pro" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtCode/day01/03signal/03signal.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QtCode/day01/03signal/03signal.pro.user" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtCode/day01/03signal/03signal.pro.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QtCode/day01/03signal/mainwidget.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtCode/day01/03signal/mainwidget.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QtCode/day01/03signal/mainwidget.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtCode/day01/03signal/mainwidget.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QtCode/day01/03signal/subwidget.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtCode/day01/03signal/subwidget.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QtCode/day01/03signal/subwidget.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtCode/day01/03signal/subwidget.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QtCode/day01/build-03signal-Desktop_Qt_5_10_0_GCC_64bit-Debug/03signal" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtCode/day01/build-03signal-Desktop_Qt_5_10_0_GCC_64bit-Debug/03signal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QtCode/day01/build-03signal-Desktop_Qt_5_10_0_GCC_64bit-Debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtCode/day01/build-03signal-Desktop_Qt_5_10_0_GCC_64bit-Debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QtCode/day01/build-03signal-Desktop_Qt_5_10_0_GCC_64bit-Debug/mainwidget.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtCode/day01/build-03signal-Desktop_Qt_5_10_0_GCC_64bit-Debug/mainwidget.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QtCode/day01/build-03signal-Desktop_Qt_5_10_0_GCC_64bit-Debug/moc_mainwidget.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtCode/day01/build-03signal-Desktop_Qt_5_10_0_GCC_64bit-Debug/moc_mainwidget.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QtCode/day01/build-03signal-Desktop_Qt_5_10_0_GCC_64bit-Debug/moc_mainwidget.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtCode/day01/build-03signal-Desktop_Qt_5_10_0_GCC_64bit-Debug/moc_mainwidget.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QtCode/day01/build-03signal-Desktop_Qt_5_10_0_GCC_64bit-Debug/moc_subwidget.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtCode/day01/build-03signal-Desktop_Qt_5_10_0_GCC_64bit-Debug/moc_subwidget.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QtCode/day01/build-03signal-Desktop_Qt_5_10_0_GCC_64bit-Debug/moc_subwidget.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtCode/day01/build-03signal-Desktop_Qt_5_10_0_GCC_64bit-Debug/moc_subwidget.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QtCode/day01/build-03signal-Desktop_Qt_5_10_0_GCC_64bit-Debug/subwidget.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtCode/day01/build-03signal-Desktop_Qt_5_10_0_GCC_64bit-Debug/subwidget.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cprimer/dymatic_memory/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cprimer/dymatic_memory/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../php/basic/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../php/basic/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../php/basic/.idea/deployment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../php/basic/.idea/hello.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../php/basic/.idea/hello.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../php/basic/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../php/basic/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../php/basic/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../php/basic/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../php/basic/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../php/basic/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../php/basic/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../php/basic/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../php/basic/.idea/webServers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../php/basic/array.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../php/basic/array.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../php/basic/const.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../php/basic/const.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../php/basic/h.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../php/basic/h.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../php/basic/hello.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../php/basic/hello.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../php/basic/include1.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../php/basic/include1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../php/basic/include2.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../php/basic/include2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../php/basic/include3.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../php/basic/include3.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../php/basic/include4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../php/basic/include4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../php/basic/multiply.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../php/basic/multiply.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../php/basic/multiply1.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../php/basic/multiply1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../php/basic/multiply2.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../php/basic/multiply2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../php/basic/string.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../php/basic/string.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../php/basic/variable.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../php/basic/variable.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unixEnv/pratices/process/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../unixEnv/pratices/process/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FUSProjectUsageTrigger">
+    <session id="480821546">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cpp" value="96" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="ObjectiveC" value="96" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/main.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="729" />
+    <option name="height" value="681" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.nowCoder">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nowCoder" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="nowCoder" TARGET_NAME="nowCoder" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="nowCoder" RUN_TARGET_NAME="nowCoder">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.nowCoder" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7d9a4bc-7657-4c99-b8a2-42a75850ed28" name="Default Changelist" comment="" />
+      <created>1541144335261</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541144335261</updated>
+      <workItem from="1541144336551" duration="1712000" />
+      <workItem from="1541404754302" duration="96000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1808000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1366" height="768" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13066465" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32868218" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32868218" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="CMake" order="12" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -2,9 +2,16 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>$Title$</title>
+    <title>Title</title>
 </head>
 <body>
-$END$
+<!--->
+    <a href="http://www.taobao.com/index.php?keywords=笔记本">淘宝,笔记本</a>
+    <form action ="http://www.taobao.com/index.php" method = 'get'>
+        keywords:<input type = "text" name = "keywords" value =""/><br>
+        type:<input type = "text" name = "type" value =""/>
+        <input type = "submit" name = "submit" value="check" />
+        <input type="button" value="获取当前URL" onclick="alert(window.location)"/>
+    </form>
 </body>
 </html>

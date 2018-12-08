@@ -2,9 +2,17 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>$Title$</title>
+    <title>Title</title>
 </head>
 <body>
-$END$
+<form action="checkBox.php" method="POST">
+    篮球<input type="checkbox" name="hobby[]" value="篮球"/>
+    足球<input type="checkbox" name="hobby[]" value="足球"/>
+    台球<input type="checkbox" name="hobby[]" value="台球"/>
+    品乓球<input type="checkbox" name="hobby[]" value="乒乓球"/>
+    羽毛球<input type="checkbox" name="hobby[]" value="羽毛球"/>
+    排球<input type="checkbox" name="hobby[]" value="排球"/>
+    <input type="submit" value="提交"/>
+</form>
 </body>
 </html>

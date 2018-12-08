@@ -4,6 +4,7 @@
 #include <QPushButton>
 #include <QWidget>
 #include "subwidget.h"
+#include <QString>
 class MainWidget : public QWidget
 {
     Q_OBJECT
@@ -11,9 +12,12 @@ class MainWidget : public QWidget
 public:
     MainWidget(QWidget *parent = 0);
     ~MainWidget();
+public slots:
     void mySlot();
     void displaySub();
     void dealSub();
+    void dealSub2(int,QString);
+
 private:
     QPushButton b1;
     QPushButton *b2;

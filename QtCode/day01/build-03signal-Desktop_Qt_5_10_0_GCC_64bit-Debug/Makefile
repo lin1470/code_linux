@@ -791,6 +791,7 @@ moc_mainwidget.cpp: /usr/local/Qt_5.10.0/5.10.0/gcc_64/include/QtWidgets/QPushBu
 		/usr/local/Qt_5.10.0/5.10.0/gcc_64/include/QtGui/qtouchdevice.h \
 		/usr/local/Qt_5.10.0/5.10.0/gcc_64/include/QtWidgets/QWidget \
 		../03signal/subwidget.h \
+		/usr/local/Qt_5.10.0/5.10.0/gcc_64/include/QtCore/QString \
 		../03signal/mainwidget.h \
 		moc_predefs.h \
 		/usr/local/Qt_5.10.0/5.10.0/gcc_64/bin/moc
@@ -903,6 +904,7 @@ moc_subwidget.cpp: /usr/local/Qt_5.10.0/5.10.0/gcc_64/include/QtWidgets/QWidget 
 		/usr/local/Qt_5.10.0/5.10.0/gcc_64/include/QtWidgets/qpushbutton.h \
 		/usr/local/Qt_5.10.0/5.10.0/gcc_64/include/QtWidgets/qabstractbutton.h \
 		/usr/local/Qt_5.10.0/5.10.0/gcc_64/include/QtGui/qicon.h \
+		/usr/local/Qt_5.10.0/5.10.0/gcc_64/include/QtCore/QString \
 		../03signal/subwidget.h \
 		moc_predefs.h \
 		/usr/local/Qt_5.10.0/5.10.0/gcc_64/bin/moc
@@ -1033,6 +1035,7 @@ main.o: ../03signal/main.cpp ../03signal/mainwidget.h \
 		/usr/local/Qt_5.10.0/5.10.0/gcc_64/include/QtGui/qtouchdevice.h \
 		/usr/local/Qt_5.10.0/5.10.0/gcc_64/include/QtWidgets/QWidget \
 		../03signal/subwidget.h \
+		/usr/local/Qt_5.10.0/5.10.0/gcc_64/include/QtCore/QString \
 		/usr/local/Qt_5.10.0/5.10.0/gcc_64/include/QtWidgets/QApplication \
 		/usr/local/Qt_5.10.0/5.10.0/gcc_64/include/QtWidgets/qapplication.h \
 		/usr/local/Qt_5.10.0/5.10.0/gcc_64/include/QtCore/qcoreapplication.h \
@@ -1150,7 +1153,9 @@ mainwidget.o: ../03signal/mainwidget.cpp ../03signal/mainwidget.h \
 		/usr/local/Qt_5.10.0/5.10.0/gcc_64/include/QtGui/qvector2d.h \
 		/usr/local/Qt_5.10.0/5.10.0/gcc_64/include/QtGui/qtouchdevice.h \
 		/usr/local/Qt_5.10.0/5.10.0/gcc_64/include/QtWidgets/QWidget \
-		../03signal/subwidget.h
+		../03signal/subwidget.h \
+		/usr/local/Qt_5.10.0/5.10.0/gcc_64/include/QtCore/QString \
+		/usr/local/Qt_5.10.0/5.10.0/gcc_64/include/QtCore/QDebug
 	$(CXX) -c $(CXXFLAGS) $(INCPATH) -o mainwidget.o ../03signal/mainwidget.cpp
 
 subwidget.o: ../03signal/subwidget.cpp ../03signal/subwidget.h \
@@ -1260,7 +1265,8 @@ subwidget.o: ../03signal/subwidget.cpp ../03signal/subwidget.h \
 		/usr/local/Qt_5.10.0/5.10.0/gcc_64/include/QtWidgets/QPushButton \
 		/usr/local/Qt_5.10.0/5.10.0/gcc_64/include/QtWidgets/qpushbutton.h \
 		/usr/local/Qt_5.10.0/5.10.0/gcc_64/include/QtWidgets/qabstractbutton.h \
-		/usr/local/Qt_5.10.0/5.10.0/gcc_64/include/QtGui/qicon.h
+		/usr/local/Qt_5.10.0/5.10.0/gcc_64/include/QtGui/qicon.h \
+		/usr/local/Qt_5.10.0/5.10.0/gcc_64/include/QtCore/QString
 	$(CXX) -c $(CXXFLAGS) $(INCPATH) -o subwidget.o ../03signal/subwidget.cpp
 
 moc_mainwidget.o: moc_mainwidget.cpp 

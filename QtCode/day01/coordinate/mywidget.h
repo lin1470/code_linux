@@ -2,7 +2,7 @@
 #define MYWIDGET_H
 
 #include <QWidget>
-
+#include "mybutton.h"
 class myWidget : public QWidget
 {
     Q_OBJECT
